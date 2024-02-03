@@ -1,0 +1,12 @@
+[window]
+decorations = "none"
+opacity = 0.5
+blur = true
+
+[font]
+size = 15
+
+[[keyboard.bindings]]
+action = "SpawnNewInstance"
+key = "Return"
+mods = "Command"
