@@ -4,12 +4,10 @@ monitor=,1920x1080,auto,1.2
 ### MY PROGRAMS ###
 $terminal = alacritty
 $fileManager = dolphin
-$menu = ags -t applauncher
+$menu = ags -t launcher
 
 ### AUTOSTART ###
-exec-once = ags -c ~/.config/ags/config.js &
-exec-once = hypridle
-exec-once = hyprpaper
+exec-once = ags
 ### ENVIRONMENT VARIABLES ###
 
 env = XCURSOR_SIZE,24
@@ -24,11 +22,11 @@ general {
     border_size = 2
 
     # https://wiki.hyprland.org/Configuring/Variables/#variable-types for info about colors
-    col.active_border = rgb(d56d0e) rgba(00ff99ee) 45deg
-    col.inactive_border = rgb(928374)
+    col.active_border = rgba(33ccffee) rgba(00ff99ee) 45deg
+    col.inactive_border = rgba(595959aa)
 
     # Set to true enable resizing windows by clicking and dragging on borders and gaps
-    resize_on_border = true 
+    resize_on_border = false 
 
     # Please see https://wiki.hyprland.org/Configuring/Tearing/ before you turn this on
     allow_tearing = false
@@ -54,6 +52,7 @@ decoration {
         enabled = true
         size = 3
         passes = 1
+        
         vibrancy = 0.1696
     }
 }
@@ -87,8 +86,8 @@ master {
 
 # https://wiki.hyprland.org/Configuring/Variables/#misc
 misc { 
-    force_default_wallpaper = 0 # Set to 0 or 1 to disable the anime mascot wallpapers
-    disable_hyprland_logo = true # If true disables the random hyprland logo / anime girl background. :(
+    force_default_wallpaper = -1 # Set to 0 or 1 to disable the anime mascot wallpapers
+    disable_hyprland_logo = false # If true disables the random hyprland logo / anime girl background. :(
 }
 
 
@@ -125,6 +124,7 @@ device {
     sensitivity = -0.5
 }
 
+
 ####################
 ### KEYBINDINGSS ###
 ####################
@@ -142,7 +142,7 @@ bind = $mainMod, R, exec, $menu
 bind = $mainMod, P, pseudo, # dwindle
 bind = $mainMod, J, togglesplit, # dwindle
 bind = $mainMod, B, exec, flatpak run io.gitlab.librewolf-community -p default-default
-bind = $mainMod, L, exec, hyprlock
+
 # Move focus with mainMod + arrow keys
 bind = $mainMod, left, movefocus, l
 bind = $mainMod, right, movefocus, r
@@ -185,12 +185,18 @@ bind = $mainMod, mouse_up, workspace, e-1
 bindm = $mainMod, mouse:272, movewindow
 bindm = $mainMod, mouse:273, resizewindow
 
+
 ##############################
 ### WINDOWS AND WORKSPACES ###
 ##############################
 
-windowrulev2 = suppressevent maximize, class:.* # You'll probably like this.
+# See https://wiki.hyprland.org/Configuring/Window-Rules/ for more
+# See https://wiki.hyprland.org/Configuring/Workspace-Rules/ for workspace rules
 
-# Screen brightness
-bind = , XF86MonBrightnessUp, exec, brightnessctl s +5%
-bind = , XF86MonBrightnessDown, exec, brightnessctl s 5%-
+# Example windowrule v1
+# windowrule = float, ^(kitty)$
+
+# Example windowrule v2
+# windowrulev2 = float,class:^(kitty)$,title:^(kitty)$
+
+windowrulev2 = suppressevent maximize, class:.* # You'll probably like this.
