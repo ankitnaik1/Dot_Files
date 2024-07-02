@@ -1,0 +1,14 @@
+#EXTM3U url-tvg="http://192.168.1.111:8409/iptv/xmltv.xml" x-tvg-url="http://192.168.1.111:8409/iptv/xmltv.xml"
+#EXTINF:0 tvg-id="1.etv" channel-id="fevoJrjkiEKIY-fBmVxudQ" channel-number="1" CUID="fevoJrjkiEKIY-fBmVxudQ" tvg-chno="1" tvg-name="Youtube" tvg-logo="http://192.168.1.111:8409/iptv/logos/37E0514C5755076EF914AACBD733F25B.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Youtube
+http://192.168.1.111:8409/iptv/channel/1.ts
+#EXTINF:0 tvg-id="3.etv" channel-id="2Skz1ptQKU-StVkNmdwElA" channel-number="3" CUID="2Skz1ptQKU-StVkNmdwElA" tvg-chno="3" tvg-name="KIDs ANIME TV" tvg-logo="http://192.168.1.111:8409/iptv/logos/170298575FE7FA0EC21D79C3244F3ED7.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", KIDs ANIME TV
+http://192.168.1.111:8409/iptv/channel/3.ts
+#EXTINF:0 tvg-id="4.etv" channel-id="0gSYtfJp-Eq3ZuCSz-wyag" channel-number="4" CUID="0gSYtfJp-Eq3ZuCSz-wyag" tvg-chno="4" tvg-name="TMKOC" tvg-logo="http://192.168.1.111:8409/iptv/logos/23BCA52EC273B5EF3862ABFE0A8DF12C.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TMKOC
+http://192.168.1.111:8409/iptv/channel/4.ts
+#EXTINF:0 tvg-id="5.etv" channel-id="LixNtuHxmEqtDSrqBnsnwA" channel-number="5" CUID="LixNtuHxmEqtDSrqBnsnwA" tvg-chno="5" tvg-name="HarryPotter Movies" tvg-logo="http://192.168.1.111:8409/iptv/logos/117FC622DBB23F532C33A69CE1296A67.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", HarryPotter Movies
+http://192.168.1.111:8409/iptv/channel/5.ts
+#EXTINF:0 tvg-id="8.etv" channel-id="xNft5GA81UynnS17r8g0Rw" channel-number="8" CUID="xNft5GA81UynnS17r8g0Rw" tvg-chno="8" tvg-name="FlixTV Music" tvg-logo="http://192.168.1.111:8409/iptv/images/ersatztv-500.png" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", FlixTV Music
+http://192.168.1.111:8409/iptv/channel/8.ts
+#EXTINF:0 group-title="News" channel-number="11" tvg-chno="11" tvg-logo="https://yt3.googleusercontent.com/JySEhLOv8Llm0VZBxo5iCttTVg80ttt90xTxhBGm7XSXiEuPA_0liFIiBpokEonD8pvdKy0r=s176-c-k-c0x00ffffff-no-rj" tvg-id="11", CNBC TV18
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719912974/ei/rnWDZvrWELe6juMP9feooAc/ip/103.163.190.217/id/1_Ih0JYmkjI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51214393/txs/51214391%2C51214392%2C51214393%2C51214394/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAankexRBozS8JKoP21JeT_OWuwwobWAiJ9jdl8U6NIzhuneaI_5x9Sa4kNU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAP8IkiyabcBy6C2eKWUilKkqzvZtsXz11YAwgk8ky-vDAiBe4KEWJT4wQHlf739Wg9PnGwG2E6Vks64_POyGGzdrkQ%3D%3D/file/index.m3u8
+
