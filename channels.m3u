@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml" x-tvg-url="http://192.168.1.111:8409/iptv/xmltv.xml" 
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml,http://192.168.1.111:8409/iptv/xmltv.xml"
 #EXTINF:0 tvg-id="1.etv" channel-id="fevoJrjkiEKIY-fBmVxudQ" channel-number="1" CUID="fevoJrjkiEKIY-fBmVxudQ" tvg-chno="1" tvg-name="Youtube" tvg-logo="http://192.168.1.111:8409/iptv/logos/37E0514C5755076EF914AACBD733F25B.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Youtube
 http://192.168.1.111:8409/iptv/channel/1.ts
 #EXTINF:0 tvg-id="3.etv" channel-id="2Skz1ptQKU-StVkNmdwElA" channel-number="3" CUID="2Skz1ptQKU-StVkNmdwElA" tvg-chno="3" tvg-name="KIDs ANIME TV" tvg-logo="http://192.168.1.111:8409/iptv/logos/170298575FE7FA0EC21D79C3244F3ED7.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", KIDs ANIME TV
