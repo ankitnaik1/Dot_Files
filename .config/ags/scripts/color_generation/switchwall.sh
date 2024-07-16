@@ -19,7 +19,7 @@ switch() {
 
 	# ags run-js "wallpaper.set('')"
 	# sleep 0.1 && ags run-js "wallpaper.set('${imgpath}')" &
-	hyprpaper img "$imgpath" --transition-step 100 --transition-fps 120 \
+	hyprctl hyprpaper wallpaper "eDP-1,$imgpath" --transition-step 100 --transition-fps 120 \
 		--transition-type grow --transition-angle 30 --transition-duration 1 \
 		--transition-pos "$cursorposx, $cursorposy_inverted"
 }
