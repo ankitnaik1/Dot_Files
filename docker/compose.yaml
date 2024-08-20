@@ -97,7 +97,42 @@ services:
         read_only: true
     ports:
       - "8096:8096"
- 
+
+  ersatztv:
+    container_name: ersatztv
+    image: docker.io/jasongdove/ersatztv:develop-vaapi
+    restart: always
+    devices:
+      - /dev/dri/renderD128:/dev/dri/renderD128
+    mem_limit: 1G            
+    memswap_limit: 2G 
+    dns:
+     - 9.9.9.11
+     - 1.1.1.1
+    labels:
+      - 'traefik.enable=true'
+      - 'traefik.http.routers.jellyfin.rule=Host(`ersatztv.${MY_DOMAIN}`)'
+      - 'traefik.http.routers.jellyfin.entryPoints=websecure'
+    environment:
+      TZ: Asia/Kolkata
+      Bugsnag:Enable: false 
+    volumes:
+      - type: tmpfs
+        target: /transcode
+      - type: bind
+        source: ${CONFIG_LOCATION}/Ersatztv
+        target: /config
+      - type: bind
+        source: ${FILLERS_LOCATION}
+        target: /mnt/Fillers
+        read_only: true
+      - type: bind
+        source: ${MUSIC_LOCATION}
+        target: /mnt/Music
+        read_only: true
+    ports:
+      - "8409:8409"
+      
   redlib:
     container_name: "redlib"
     image: quay.io/redlib/redlib:latest
@@ -124,6 +159,6 @@ services:
      - 1.1.1.1
     labels:
       - 'traefik.enable=true'
-      - 'traefik.http.routers.yt-local.rule=Host(`yt-local.${MY_DOMAIN}`)'
+      - 'traefik.http.routers.yt-local.rule=Host(`yt.${MY_DOMAIN}`)'
       - 'traefik.http.routers.yt-local.entryPoints=websecure'
     env_file: yt-local.env
