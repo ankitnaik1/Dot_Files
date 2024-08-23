@@ -39,9 +39,6 @@ http://192.168.1.112:5001/live/487.m3u8
 #EXTINF:-1 tvg-id=488 tvg-name="Zee Action" tvg-logo="http://192.168.1.112:5001/jtvimage/Zee_Action.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", Zee Action
 http://192.168.1.112:5001/live/488.m3u8
 
-#EXTINF:-1 tvg-id="SonyPal.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/n8OECjuJ.png" tvg-chno="6" group-title="Hindi",Sony Pal
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonypal
-
 #EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-language="Hindi" tvg-logo="https://i.imgur.com/9Qq8DKh.png" tvg-chno="7" group-title="Hindi",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
@@ -63,7 +60,7 @@ http://192.168.1.112:5001/live/high/1450.m3u8
 #EXTINF:-1 tvg-id=1763 tvg-name="Colors Cineplex Bollywood" tvg-logo="http://192.168.1.112:5001/jtvimage/Colors_Cineplex_Bollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", Colors Cineplex Bollywood
 http://192.168.1.112:5001/live/high/1763.m3u8
 
-#EXTINF:-1 tvg-id=165 tvg-name="Zee Cinema HD" tvg-logo="http://192.168.1.112:5001/jtvimage/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies - Hindi", Zee Cinema HD
+#EXTINF:-1 tvg-id=165 tvg-name="Zee Cinema HD" tvg-logo="http://192.168.1.112:5001/jtvimage/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", Zee Cinema HD
 http://192.168.1.112:5001/live/high/165.m3u8
 
 #EXTINF:-1 tvg-id="Max" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HicI6HpV.png" tvg-chno="8" group-title="Hindi",Sony MAX
