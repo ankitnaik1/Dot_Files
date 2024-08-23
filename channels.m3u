@@ -45,12 +45,6 @@ https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonypal
 #EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-language="Hindi" tvg-logo="https://i.imgur.com/9Qq8DKh.png" tvg-chno="7" group-title="Hindi",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Max" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HicI6HpV.png" tvg-chno="8" group-title="Hindi",Sony MAX
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymax
-
-#EXTINF:-1 tvg-id="Max2" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/hjNGCIwr.png" tvg-chno="9" group-title="Hindi",Sony MAX 2
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymax2
-
 #EXTINF:-1 tvg-id="SonyWah.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7cdRLkFh.png" tvg-chno"10" group-title="Hindi",Sony Wah
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonywah
 
@@ -62,6 +56,27 @@ http://192.168.1.112:5001/live/high/185.m3u8
 
 #EXTINF:-1 tvg-id=1477 tvg-name="Colors Cineplex HD" tvg-logo="http://192.168.1.112:5001/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", Colors Cineplex HD
 http://192.168.1.112:5001/live/high/1477.m3u8
+
+#EXTINF:-1 tvg-id=1450 tvg-name="Colors Cineplex Superhit" tvg-logo="http://192.168.1.112:5001/jtvimage/Rishtey_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", Colors Cineplex Superhit
+http://192.168.1.112:5001/live/high/1450.m3u8
+
+#EXTINF:-1 tvg-id=1763 tvg-name="Colors Cineplex Bollywood" tvg-logo="http://192.168.1.112:5001/jtvimage/Colors_Cineplex_Bollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", Colors Cineplex Bollywood
+http://192.168.1.112:5001/live/high/1763.m3u8
+
+#EXTINF:-1 tvg-id=165 tvg-name="Zee Cinema HD" tvg-logo="http://192.168.1.112:5001/jtvimage/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies - Hindi", Zee Cinema HD
+http://192.168.1.112:5001/live/high/165.m3u8
+
+#EXTINF:-1 tvg-id="Max" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HicI6HpV.png" tvg-chno="8" group-title="Hindi",Sony MAX
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymax
+
+#EXTINF:-1 tvg-id="Max2" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/hjNGCIwr.png" tvg-chno="9" group-title="Hindi",Sony MAX 2
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymax2
+
+#EXTINF:-1 tvg-id=182 tvg-name="B4U Movies" tvg-logo="http://192.168.1.112:5001/jtvimage/B4U_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", B4U Movies
+http://192.168.1.112:5001/live/high/182.m3u8
+
+#EXTINF:-1 tvg-id=1295 tvg-name="B4U Kadak" tvg-logo="http://192.168.1.112:5001/jtvimage/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", B4U Kadak
+http://192.168.1.112:5001/live/high/1295.m3u8
 
 #Marathi
 
