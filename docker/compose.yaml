@@ -111,8 +111,8 @@ services:
      - 1.1.1.1
     labels:
       - 'traefik.enable=true'
-      - 'traefik.http.routers.jellyfin.rule=Host(`ersatztv.${MY_DOMAIN}`)'
-      - 'traefik.http.routers.jellyfin.entryPoints=websecure'
+      - 'traefik.http.routers.ersatztv.rule=Host(`etv.${MY_DOMAIN}`)'
+      - 'traefik.http.routers.ersatztv.entryPoints=websecure'
     environment:
       TZ: Asia/Kolkata
       Bugsnag:Enable: false 
