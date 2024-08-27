@@ -214,17 +214,3 @@ http://192.168.1.112:5001/live/high/1598.m3u8
 #EXTINF:-1 tvg-id=2031 tvg-name="Fashion India" tvg-logo="http://192.168.1.112:5001/jtvimage/Fashion_India.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Fashion India
 http://192.168.1.112:5001/live/high/2031.m3u8
 
-#EXTINF:0 tvg-id="1.etv" channel-id="0gSYtfJp-Eq3ZuCSz-wyag" channel-number="1" CUID="0gSYtfJp-Eq3ZuCSz-wyag" tvg-chno="1" tvg-name="TMKOC" tvg-logo="http://192.168.1.111:8409/iptv/logos/23BCA52EC273B5EF3862ABFE0A8DF12C.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TMKOC
-http://192.168.1.111:8409/iptv/channel/1.ts
-#EXTINF:0 tvg-id="14.etv" channel-id="xNft5GA81UynnS17r8g0Rw" channel-number="14" CUID="xNft5GA81UynnS17r8g0Rw" tvg-chno="14" tvg-name="FlixTV Music" tvg-logo="http://192.168.1.111:8409/iptv/logos/C13E952E2BD8CCC8B6D71BB8EDF81EFB.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", FlixTV Music
-http://192.168.1.111:8409/iptv/channel/14.ts
-#EXTINF:0 tvg-id="15.etv" channel-id="2Skz1ptQKU-StVkNmdwElA" channel-number="15" CUID="2Skz1ptQKU-StVkNmdwElA" tvg-chno="15" tvg-name="TV Asahi" tvg-logo="http://192.168.1.111:8409/iptv/logos/1C653BAE6CF2FD620FE35CF507ED7C37.jpg" group-title="Kids" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Asahi
-http://192.168.1.111:8409/iptv/channel/15.ts
-#EXTINF:0 tvg-id="16.etv" channel-id="LixNtuHxmEqtDSrqBnsnwA" channel-number="16" CUID="LixNtuHxmEqtDSrqBnsnwA" tvg-chno="16" tvg-name="HarryPotter TV" tvg-logo="http://192.168.1.111:8409/iptv/logos/0DF53A299914CD142A9B6A9C1EEB8696.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", HarryPotter TV
-http://192.168.1.111:8409/iptv/channel/16.ts
-#EXTINF:0 tvg-id="50.etv" channel-id="h9LvtLSX7EGIGB45aKkQgA" channel-number="50" CUID="h9LvtLSX7EGIGB45aKkQgA" tvg-chno="50" tvg-name="Mad Men" tvg-logo="http://192.168.1.111:8409/iptv/logos/33857FE55B6A55F86ADB1BC0E86FF4C9.jpg" group-title="English" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Mad Men
-http://192.168.1.111:8409/iptv/channel/50.ts
-#EXTINF:0 tvg-id="51.etv" channel-id="fevoJrjkiEKIY-fBmVxudQ" channel-number="51" CUID="fevoJrjkiEKIY-fBmVxudQ" tvg-chno="51" tvg-name="Youtube" tvg-logo="http://192.168.1.111:8409/iptv/logos/60D76F31E4EF02F6EDE1D8852C49560C.jpg" group-title="Marathi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Youtube
-http://192.168.1.111:8409/iptv/channel/51.ts
-#EXTINF:0 tvg-id="52.etv" channel-id="exLMITRPOEausClECRyhDg" channel-number="52" CUID="exLMITRPOEausClECRyhDg" tvg-chno="52" tvg-name="Dragon Ball TV" tvg-logo="http://192.168.1.111:8409/iptv/logos/AF42DCF5E2B5E1CBCFDE498C2D644E1C.jpg" group-title="Kids" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Dragon Ball TV
-http://192.168.1.111:8409/iptv/channel/52.ts
