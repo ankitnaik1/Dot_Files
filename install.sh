@@ -1,5 +1,4 @@
 #!/bin/bash
-echo "Copying Files..."
 read -rp "Install hyprland? (Yes/No): " hyprland
 if [ hyprland=yes ]; then
 	paru -S alacritty neovim hyprland hyprpaper hyprlock hypridle ags daart-sass ttf-material-symbols-variable-git fuzzel
@@ -13,6 +12,7 @@ else
 	cp -rf .zsh $HOME/.zsh
 	cp -rf .zshrc $HOME/
 fi
+echo "Copying Files..."
 read -rp "Enter type of installation native or flatpak? (native/flatpak): " install_type
 if [ install_type=native ]; then
 	cp -rf mpv $HOME/.config/
