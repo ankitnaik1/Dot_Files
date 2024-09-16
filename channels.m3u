@@ -30,6 +30,12 @@ https://jiotv.ankitn.duckdns.org/live/high/2078.m3u8
 #EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-language="Hindi" tvg-logo="https://i.imgur.com/9Qq8DKh.png" tvg-chno="7" group-title="Hindi",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/sjM1MbFR.png" group-title="Hindi",ZEE Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/288dmSbW.png" group-title="Hindi",& Pictures HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+
 #EXTINF:-1 tvg-id=1477 tvg-name="Colors Cineplex HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", Colors Cineplex HD
 https://jiotv.ankitn.duckdns.org/live/high/1477.m3u8
 
@@ -47,23 +53,29 @@ https://jiotv.ankitn.duckdns.org/live/high/1295.m3u8
 
 #Marathi
 
-#EXTINF:-1 tvg-id=755 tvg-name="Colors Marathi HD" tvg-logo="http://192.168.1.111:5001/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Marathi", Colors Marathi HD
-http://192.168.1.111:5001/live/high/755.m3u8
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/JxGFD51k.png" group-title="Marathi",Zee Marathi HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathihd1/default/zeemarathihd1.m3u8
 
-#EXTINF:-1 tvg-id=1452 tvg-name="Shemaroo MarathiBana" tvg-logo="http://192.168.1.111:5001/jtvimage/Shemaroo_MarathiBana.png" tvg-language="Marathi" tvg-type="Movies" group-title="Marathi", Shemaroo MarathiBana
-http://192.168.1.111:5001/live/high/1452.m3u8
+#EXTINF:-1 tvg-id=755 tvg-name="Colors Marathi HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Marathi", Colors Marathi HD
+https://jiotv.ankitn.duckdns.org/live/high/755.m3u8
 
-#EXTINF:-1 tvg-id=738 tvg-name="Fakt Marathi" tvg-logo="http://192.168.1.111:5001/jtvimage/Fakt_Marathi.png" tvg-language="Marathi" tvg-type="Movies" group-title="Marathi", Fakt Marathi
-http://192.168.1.111:5001/live/high/738.m3u8
+#EXTINF:-1 tvg-id=1452 tvg-name="Shemaroo MarathiBana" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Shemaroo_MarathiBana.png" tvg-language="Marathi" tvg-type="Movies" group-title="Marathi", Shemaroo MarathiBana
+https://jiotv.ankitn.duckdns.org/live/high/1452.m3u8
 
-#EXTINF:-1 tvg-id=2424 tvg-name="Sun Marathi" tvg-logo="http://192.168.1.111:5001/jtvimage/Sun_Marathi.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Marathi", Sun Marathi
-http://192.168.1.111:5001/live/high/2424.m3u8
+#EXTINF:-1 tvg-id=738 tvg-name="Fakt Marathi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Fakt_Marathi.png" tvg-language="Marathi" tvg-type="Movies" group-title="Marathi", Fakt Marathi
+https://jiotv.ankitn.duckdns.org/live/high/738.m3u8
 
-#EXTINF:-1 tvg-id=441 tvg-name="9x Jhakaas" tvg-logo="http://192.168.1.111:5001/jtvimage/9x_Jhakaas.png" tvg-language="Marathi" tvg-type="Music" group-title="Marathi", 9x Jhakaas 
-http://192.168.1.111:5001/live/high/441.m3u8
+#EXTINF:-1 tvg-id=2424 tvg-name="Sun Marathi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Sun_Marathi.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Marathi", Sun Marathi
+https://jiotv.ankitn.duckdns.org/live/high/2424.m3u8
 
-#EXTINF:-1 tvg-id=735 tvg-name="Sangeet Marathi" tvg-logo="http://192.168.1.111:5001/jtvimage/Sangeet_Marathi.png" tvg-language="Marathi" tvg-type="Music" group-title="Marathi", Sangeet Marathi
-http://192.168.1.111:5001/live/high/735.m3u8
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/fh6tPTh6.png" group-title="Marathi",Zee Talkies HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/zeetelkieshd1.m3u8
+
+#EXTINF:-1 tvg-id=441 tvg-name="9x Jhakaas" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/9x_Jhakaas.png" tvg-language="Marathi" tvg-type="Music" group-title="Marathi", 9x Jhakaas
+https://jiotv.ankitn.duckdns.org/live/high/441.m3u8
+
+#EXTINF:-1 tvg-id=735 tvg-name="Sangeet Marathi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Sangeet_Marathi.png" tvg-language="Marathi" tvg-type="Music" group-title="Marathi", Sangeet Marathi
+https://jiotv.ankitn.duckdns.org/live/high/735.m3u8
 
 #Sports
 
