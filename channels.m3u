@@ -6,26 +6,11 @@
 #  ██ ███ ██ ██      ██   ██     ██      ██ ██  ██ ██ ██  ██       ██ 
 #   ███ ███  ███████ ██████      ███████ ██ ██   ████ ██   ██ ███████ 
 #######################################################################################################################################################                                                                     
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevisionAsiaHD.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yaFKAY6M.png" tvg-chno="2" group-title="Hindi",Sony Entertainment Television
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sethd
-
-#EXTINF:-1 tvg-id=471 tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yDmI9h2m.png" tvg-chno="3" group-title="Hindi",Sony SAB
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sabhd
-
-#EXTINF:-1 tvg-id=472 tvg-name="And TV HD" tvg-logo="http://192.168.1.111:5001/jtvimage/And_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", And TV HD
-http://192.168.1.111:5001/live/472.m3u8
-
-#EXTINF:-1 tvg-id=167 tvg-name="Zee TV HD" tvg-logo="http://192.168.1.111:5001/jtvimage/Zee_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Zee TV HD
-http://192.168.1.111:5001/live/167.m3u8
-
-#EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.1.111:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Colors HD
-http://192.168.1.111:5001/live/144.m3u8
+#EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Colors HD
+https://jiotv.ankitn.duckdns.org/live/high/144.m3u8
 
 #EXTINF:-1 tvg-id=279 tvg-name="Rishtey" tvg-logo="http://192.168.1.111:5001/jtvimage/Rishtey.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Rishtey
 http://192.168.1.111:5001/live/279.m3u8
-
-#EXTINF:-1 tvg-id="SonyPal.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/n8OECjuJ.png" tvg-chno="6" group-title="Hindi",Sony Pal
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonypal
 
 #EXTINF:-1 tvg-id=1961 tvg-name="Shemaroo TV" tvg-logo="http://192.168.1.111:5001/jtvimage/Shemaroo_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Shemaroo TV
 http://192.168.1.111:5001/live/1961.m3u8
@@ -33,23 +18,8 @@ http://192.168.1.111:5001/live/1961.m3u8
 #EXTINF:-1 tvg-id=2078 tvg-name="Shemaroo Umang" tvg-logo="http://192.168.1.111:5001/jtvimage/Shemaroo_Umang.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Shemaroo Umang
 http://192.168.1.111:5001/live/2078.m3u8
 
-#EXTINF:-1 tvg-id=487 tvg-name="Zee Bollywood" tvg-logo="http://192.168.1.111:5001/jtvimage/Zee_Classic.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", Zee Bollywood
-http://192.168.1.111:5001/live/487.m3u8
-
-#EXTINF:-1 tvg-id=488 tvg-name="Zee Action" tvg-logo="http://192.168.1.111:5001/jtvimage/Zee_Action.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", Zee Action
-http://192.168.1.111:5001/live/488.m3u8
-
 #EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-language="Hindi" tvg-logo="https://i.imgur.com/9Qq8DKh.png" tvg-chno="7" group-title="Hindi",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SonyWah.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7cdRLkFh.png" tvg-chno"10" group-title="Hindi",Sony Wah
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonywah
-
-#EXTINF:-1 tvg-id="SonyYay.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RF8xcb5S.png" tvg-chno="17" group-title="Kids",Sony Yay
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyyay
-
-#EXTINF:-1 tvg-id=185 tvg-name="And Pictures HD" tvg-logo="http://192.168.1.111:5001/jtvimage/And_Pictures_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", And Pictures HD
-http://192.168.1.111:5001/live/high/185.m3u8
 
 #EXTINF:-1 tvg-id=1477 tvg-name="Colors Cineplex HD" tvg-logo="http://192.168.1.111:5001/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", Colors Cineplex HD
 http://192.168.1.111:5001/live/high/1477.m3u8
@@ -60,15 +30,6 @@ http://192.168.1.111:5001/live/high/1450.m3u8
 #EXTINF:-1 tvg-id=1763 tvg-name="Colors Cineplex Bollywood" tvg-logo="http://192.168.1.111:5001/jtvimage/Colors_Cineplex_Bollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", Colors Cineplex Bollywood
 http://192.168.1.111:5001/live/high/1763.m3u8
 
-#EXTINF:-1 tvg-id=165 tvg-name="Zee Cinema HD" tvg-logo="http://192.168.1.111:5001/jtvimage/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", Zee Cinema HD
-http://192.168.1.111:5001/live/high/165.m3u8
-
-#EXTINF:-1 tvg-id="Max" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HicI6HpV.png" tvg-chno="8" group-title="Hindi",Sony MAX
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymax
-
-#EXTINF:-1 tvg-id="Max2" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/hjNGCIwr.png" tvg-chno="9" group-title="Hindi",Sony MAX 2
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymax2
-
 #EXTINF:-1 tvg-id=182 tvg-name="B4U Movies" tvg-logo="http://192.168.1.111:5001/jtvimage/B4U_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", B4U Movies
 http://192.168.1.111:5001/live/high/182.m3u8
 
@@ -77,20 +38,8 @@ http://192.168.1.111:5001/live/high/1295.m3u8
 
 #Marathi
 
-#EXTINF:-1 tvg-id=1360 tvg-name="Zee Marathi HD" tvg-logo="http://192.168.1.111:5001/jtvimage/Zee_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Marathi", Zee Marathi HD
-http://192.168.1.111:5001/live/high/1360.m3u8
-
-#EXTINF:-1 tvg-id=2758 tvg-name="Zee Chitramandir" tvg-logo="http://192.168.1.111:5001/jtvimage/Zee_Chitramandir.png" tvg-language="Marathi" tvg-type="Movies" group-title="Marathi", Zee Chitramandir
-http://192.168.1.111:5001/live/high/2758.m3u8
-
-#EXTINF:-1 tvg-id=414 tvg-name="Zee Yuva" tvg-logo="http://192.168.1.111:5001/jtvimage/Zee_Yuva.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Marathi", Zee Yuva
-http://192.168.1.111:5001/live/high/414.m3u8
-
 #EXTINF:-1 tvg-id=755 tvg-name="Colors Marathi HD" tvg-logo="http://192.168.1.111:5001/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Marathi", Colors Marathi HD
 http://192.168.1.111:5001/live/high/755.m3u8
-
-#EXTINF:-1 tvg-id="SonyMarathi.in" tvg-language="Marathi" tvg-logo="https://i.imgur.com/uiDnvqt.png" tvg-chno="12" group-title="Marathi",Sony Marathi
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymarathi
 
 #EXTINF:-1 tvg-id=1452 tvg-name="Shemaroo MarathiBana" tvg-logo="http://192.168.1.111:5001/jtvimage/Shemaroo_MarathiBana.png" tvg-language="Marathi" tvg-type="Movies" group-title="Marathi", Shemaroo MarathiBana
 http://192.168.1.111:5001/live/high/1452.m3u8
@@ -101,12 +50,6 @@ http://192.168.1.111:5001/live/high/738.m3u8
 #EXTINF:-1 tvg-id=2424 tvg-name="Sun Marathi" tvg-logo="http://192.168.1.111:5001/jtvimage/Sun_Marathi.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Marathi", Sun Marathi
 http://192.168.1.111:5001/live/high/2424.m3u8
 
-#EXTINF:-1 tvg-id=1358 tvg-name="Zee Talkies HD " tvg-logo="http://192.168.1.111:5001/jtvimage/Zee_Talkies_HD.png" tvg-language="Marathi" tvg-type="Movies" group-title="Marathi", Zee Talkies HD
-http://192.168.1.111:5001/live/high/1358.m3u8
-
-#EXTINF:-1 tvg-id=153 tvg-name="Zee Talkies" tvg-logo="http://192.168.1.111:5001/jtvimage/Zee_Talkies.png" tvg-language="Marathi" tvg-type="Movies" group-title="Marathi", Zee Talkies
-http://192.168.1.111:5001/live/high/153.m3u8
-
 #EXTINF:-1 tvg-id=441 tvg-name="9x Jhakaas" tvg-logo="http://192.168.1.111:5001/jtvimage/9x_Jhakaas.png" tvg-language="Marathi" tvg-type="Music" group-title="Marathi", 9x Jhakaas 
 http://192.168.1.111:5001/live/high/441.m3u8
 
@@ -115,25 +58,7 @@ http://192.168.1.111:5001/live/high/735.m3u8
 
 #Sports
 
-#EXTINF:-1 tvg-id="sonysportsnetwork.com" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/A2LC43Cl.png" group-title="Sports",Sony Sports Ten 1
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyten1hd
-
-#EXTINF:-1 tvg-id="sonysportsnetwork.com" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/geV9TIXA.png" group-title="Sports",Sony Sports Ten 2
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyten2hd
-
-#EXTINF:-1 tvg-id="sonysportsnetwork.com" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5UpsLfba.png" group-title="Sports",Sony Sports Ten 3
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyten3hd
-
-#EXTINF:-1 tvg-id="sonysportsnetwork.com" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5UpsLfba.png" group-title="Sports",Sony Sports Ten 4
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyten4hd
-
-#EXTINF:-1 tvg-id="sonysportsnetwork.com" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5UpsLfba.png" group-title="Sports",Sony Sports Ten 5
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyten5hd
-
 #ENGLISH
-
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-language="English" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1Akqg656.png" group-title="English",Sony Pix
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonypixhd
 
 #EXTINF:-1 tvg-id=866 tvg-name="Jio Exclusive HD" tvg-logo="http://192.168.1.111:5001/jtvimage/Jio_Exclusive.png" tvg-language="English" tvg-type="Entertainment" group-title="English", Jio Exclusive HD
 http://192.168.1.111:5001/live/high/866.m3u8
@@ -143,18 +68,6 @@ http://192.168.1.111:5001/live/high/1157.m3u8
 
 #EXTINF:-1 tvg-id=1158 tvg-name="Colors Infinity HD" tvg-logo="http://192.168.1.111:5001/jtvimage/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="English", Colors Infinity HD
 http://192.168.1.111:5001/live/high/1158.m3u8
-
-#EXTINF:-1 tvg-id=1319 tvg-name="Zee Cafe HD" tvg-logo="http://192.168.1.111:5001/jtvimage/Zee_Cafe_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="English", Zee Cafe HD
-http://192.168.1.111:5001/live/high/1319.m3u8
-
-#EXTINF:-1 tvg-id=1322 tvg-name="&Flix HD" tvg-logo="http://192.168.1.111:5001/jtvimage/And_Flix_HD.png" tvg-language="English" tvg-type="Movies" group-title="English", &Flix HD
-http://192.168.1.111:5001/live/high/1322.m3u8
-
-#EXTINF:-1 tvg-id=1349 tvg-name="And Prive HD" tvg-logo="http://192.168.1.111:5001/jtvimage/And_Prive_HD.png" tvg-language="English" tvg-type="Movies" group-title="English", And Prive HD
-http://192.168.1.111:5001/live/high/1349.m3u8
-
-#EXTINF:-1 tvg-id=3046 tvg-name="& flix SD" tvg-logo="http://192.168.1.111:5001/jtvimage/And_flix_SD.png" tvg-language="English" tvg-type="Movies" group-title="English", & flix SD
-http://192.168.1.111:5001/live/high/3046.m3u8
 
 #EXTINF:-1 tvg-id=1320 tvg-name="VH1 HD" tvg-logo="http://192.168.1.111:5001/jtvimage/VH1_HD.png" tvg-language="English" tvg-type="Music" group-title="English", VH1 HD
 http://192.168.1.111:5001/live/high/1320.m3u8
@@ -182,14 +95,7 @@ http://192.168.1.111:5001/live/high/568.m3u8
 #EXTINF:-1 tvg-id=578 tvg-name="History TV18 HD Hindi" tvg-logo="http://192.168.1.111:5001/jtvimage/History_18_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD Hindi
 http://192.168.1.111:5001/live/high/578.m3u8
 
-#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-language="English" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qrQ8Ti1k.png" tvg-chno="100" group-title="Infotainment",Sony BBC Earth
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonybbcearth
-
 #LIFESTYLE
-
-#EXTINF:-1 tvg-id=2757 tvg-name="Zee Zest HD" tvg-logo="http://192.168.1.111:5001/jtvimage/Zee_Zest_HD.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Zee Zest HD
-http://192.168.1.111:5001/live/high/2757.m3u8
-
 #EXTINF:-1 tvg-id=479 tvg-name="TLC HD" tvg-logo="http://192.168.1.111:5001/jtvimage/TLC_HD_World.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
 http://192.168.1.111:5001/live/high/479.m3u8
 
@@ -216,9 +122,12 @@ http://192.168.1.111:5001/live/high/2031.m3u8
 http://192.168.1.111:8409/iptv/channel/1.ts
 #EXTINF:0 tvg-id="2.etv" channel-id="h2_6abaiaE6daEs1wFhdzA" channel-number="2" CUID="h2_6abaiaE6daEs1wFhdzA" tvg-chno="2" tvg-name="TV TOKYO" tvg-logo="http://192.168.1.111:8409/iptv/logos/6E611CBB75CA01B49D8DC0ACD50DB26C.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV TOKYO
 http://192.168.1.111:8409/iptv/channel/2.ts
-#EXTINF:0 tvg-id="3.etv" channel-id="jwiSTbN8DUyWktZ6uq87-A" channel-number="3" CUID="jwiSTbN8DUyWktZ6uq87-A" tvg-chno="3" tvg-name="Y2K Music" tvg-logo="http://192.168.1.111:8409/iptv/logos/gen?text=Y2K+Music" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Y2K Music
+#EXTINF:0 tvg-id="3.etv" channel-id="jwiSTbN8DUyWktZ6uq87-A" channel-number="3" CUID="jwiSTbN8DUyWktZ6uq87-A" tvg-chno="3" tvg-name="Y2K Music" tvg-logo="http://192.168.1.111:8409/iptv/logos/FFA33FEC495B30237E0CC07F85D7D97B.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Y2K Music
 http://192.168.1.111:8409/iptv/channel/3.ts
 #EXTINF:0 tvg-id="4.etv" channel-id="JioNl1Dif0ebBkvtp1U5uA" channel-number="4" CUID="JioNl1Dif0ebBkvtp1U5uA" tvg-chno="4" tvg-name="Fuji TV" tvg-logo="http://192.168.1.111:8409/iptv/logos/gen?text=Fuji+TV" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Fuji TV
 http://192.168.1.111:8409/iptv/channel/4.ts
-#EXTINF:0 tvg-id="5.etv" channel-id="MLJpxMY-mUqWYot2ZgppYg" channel-number="5" CUID="MLJpxMY-mUqWYot2ZgppYg" tvg-chno="5" tvg-name="TV Asahi" tvg-logo="http://192.168.1.111:8409/iptv/logos/gen?text=TV+Asahi" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Asahi
+#EXTINF:0 tvg-id="5.etv" channel-id="MLJpxMY-mUqWYot2ZgppYg" channel-number="5" CUID="MLJpxMY-mUqWYot2ZgppYg" tvg-chno="5" tvg-name="TV Asahi" tvg-logo="http://192.168.1.111:8409/iptv/logos/88A05C08B1942898210C9D6A192600C6.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Asahi
 http://192.168.1.111:8409/iptv/channel/5.ts
+#EXTINF:0 tvg-id="6.etv" channel-id="S08IHQxf5kq7bGhhHJpNEg" channel-number="6" CUID="S08IHQxf5kq7bGhhHJpNEg" tvg-chno="6" tvg-name="Cartoon Network" tvg-logo="http://192.168.1.111:8409/iptv/logos/010AE89163A7C9192E569926372971E4.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Cartoon Network
+http://192.168.1.111:8409/iptv/channel/6.ts
+
