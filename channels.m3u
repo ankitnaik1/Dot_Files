@@ -6,13 +6,16 @@
 #  ██ ███ ██ ██      ██   ██     ██      ██ ██  ██ ██ ██  ██       ██ 
 #   ███ ███  ███████ ██████      ███████ ██ ██   ████ ██   ██ ███████ 
 #######################################################################################################################################################                                                                     
+
+#Hindi
+
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Colors HD
 https://jiotv.ankitn.duckdns.org/live/high/144.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CMqUe8No.png" group-title="Hindi",Zee tv HD
+#EXTINF:-1 tvg-id=145 tvg-name="Zee TV HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CMqUe8No.png" group-title="Hindi",Zee TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1ZpahMbB.png" group-title="Hindi",& tv HD
+#EXTINF:-1 tvg-id=144 tvg-name="& TV HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1ZpahMbB.png" group-title="Hindi",& TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 
 #EXTINF:-1 tvg-id=279 tvg-name="Rishtey" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Rishtey.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Rishtey
@@ -30,7 +33,7 @@ https://jiotv.ankitn.duckdns.org/live/high/2078.m3u8
 #EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-language="Hindi" tvg-logo="https://i.imgur.com/9Qq8DKh.png" tvg-chno="7" group-title="Hindi",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/sjM1MbFR.png" group-title="Hindi",ZEE Cinema HD
+#EXTINF:-1 tvg-id=148 tvg-name="ZEE Cinema HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/sjM1MbFR.png" group-title="Hindi",ZEE Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/288dmSbW.png" group-title="Hindi",& Pictures HD
@@ -50,6 +53,9 @@ https://jiotv.ankitn.duckdns.org/live/high/182.m3u8
 
 #EXTINF:-1 tvg-id=1295 tvg-name="B4U Kadak" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", B4U Kadak
 https://jiotv.ankitn.duckdns.org/live/high/1295.m3u8
+
+#EXTINF:-1 tvg-id=3088 tvg-name="Sun Neo HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SUN_Neo.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Sun Neo HD
+https://jiotv.ankitn.duckdns.org/live/high/3088.m3u8
 
 #Marathi
 
@@ -77,78 +83,89 @@ https://jiotv.ankitn.duckdns.org/live/high/441.m3u8
 #EXTINF:-1 tvg-id=735 tvg-name="Sangeet Marathi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Sangeet_Marathi.png" tvg-language="Marathi" tvg-type="Music" group-title="Marathi", Sangeet Marathi
 https://jiotv.ankitn.duckdns.org/live/high/735.m3u8
 
+#News
+
+#EXTINF:-1 tvg-id=504 tvg-name="Zee News" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Zee_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee News
+https://jiotv.ankitn.duckdns.org/live/high/504.m3u8
+
+#EXTINF:-1 tvg-id=501 tvg-name="News 24" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/News_24.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 24
+https://jiotv.ankitn.duckdns.org/live/high/501.m3u8
+
+#EXTINF:-1 tvg-id=442 tvg-name="Zee 24 Taas" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Zee_24_Taas.png" tvg-language="Marathi" tvg-type="News" group-title="News", Zee 24 Taas
+https://jiotv.ankitn.duckdns.org/live/high/442.m3u8
+
+#EXTINF:-1 tvg-id=2935 tvg-name="Pudhari News" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Pudhari_News.png" tvg-language="Marathi" tvg-type="News" group-title="News", Pudhari News
+https://jiotv.ankitn.duckdns.org/live/high/2935.m3u8
+
 #Sports
 
 #ENGLISH
 
-#EXTINF:-1 tvg-id=866 tvg-name="Jio Exclusive HD" tvg-logo="http://192.168.1.111:5001/jtvimage/Jio_Exclusive.png" tvg-language="English" tvg-type="Entertainment" group-title="English", Jio Exclusive HD
-http://192.168.1.111:5001/live/high/866.m3u8
+#EXTINF:-1 tvg-id=866 tvg-name="Jio Exclusive HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Jio_Exclusive.png" tvg-language="English" tvg-type="Entertainment" group-title="English", Jio Exclusive HD
+https://jiotv.ankitn.duckdns.org/live/high/866.m3u8
 
-#EXTINF:-1 tvg-id=1157 tvg-name="Comedy Central HD" tvg-logo="http://192.168.1.111:5001/jtvimage/Comedy_Central_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="English", Comedy Central HD
-http://192.168.1.111:5001/live/high/1157.m3u8
+#EXTINF:-1 tvg-id=1157 tvg-name="Comedy Central HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Comedy_Central_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="English", Comedy Central HD
+https://jiotv.ankitn.duckdns.org/live/high/1157.m3u8
 
-#EXTINF:-1 tvg-id=1158 tvg-name="Colors Infinity HD" tvg-logo="http://192.168.1.111:5001/jtvimage/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="English", Colors Infinity HD
-http://192.168.1.111:5001/live/high/1158.m3u8
+#EXTINF:-1 tvg-id=1158 tvg-name="Colors Infinity HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="English", Colors Infinity HD
+https://jiotv.ankitn.duckdns.org/live/high/1158.m3u8
 
-#EXTINF:-1 tvg-id=1320 tvg-name="VH1 HD" tvg-logo="http://192.168.1.111:5001/jtvimage/VH1_HD.png" tvg-language="English" tvg-type="Music" group-title="English", VH1 HD
-http://192.168.1.111:5001/live/high/1320.m3u8
+#EXTINF:-1 tvg-id=1320 tvg-name="VH1 HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/VH1_HD.png" tvg-language="English" tvg-type="Music" group-title="English", VH1 HD
+https://jiotv.ankitn.duckdns.org/live/high/1320.m3u8
 
 #INFOTAINMENT
 
-#EXTINF:-1 tvg-id=463 tvg-name="Discovery HD World" tvg-logo="http://192.168.1.111:5001/jtvimage/Discovery_HD_World.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery HD World
-http://192.168.1.111:5001/live/high/463.m3u8
+#EXTINF:-1 tvg-id=463 tvg-name="Discovery HD World" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Discovery_HD_World.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery HD World
+https://jiotv.ankitn.duckdns.org/live/high/463.m3u8
 
-#EXTINF:-1 tvg-id=575 tvg-name="Discovery Hindi" tvg-logo="http://192.168.1.111:5001/jtvimage/Discovery_Channel_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery Hindi
-http://192.168.1.111:5001/live/high/575.m3u8
+#EXTINF:-1 tvg-id=575 tvg-name="Discovery Hindi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Discovery_Channel_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery Hindi
+https://jiotv.ankitn.duckdns.org/live/high/575.m3u8
 
-#EXTINF:-1 tvg-id=286 tvg-name="Animal Planet HD World" tvg-logo="http://192.168.1.111:5001/jtvimage/Animal_Planet_HD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Animal Planet HD World
-http://192.168.1.111:5001/live/high/286.m3u8
+#EXTINF:-1 tvg-id=286 tvg-name="Animal Planet HD World" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Animal_Planet_HD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Animal Planet HD World
+https://jiotv.ankitn.duckdns.org/live/high/286.m3u8
 
-#EXTINF:-1 tvg-id=566 tvg-name="Animal Planet Hindi" tvg-logo="http://192.168.1.111:5001/jtvimage/Animal_Planet_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Animal Planet Hindi
-http://192.168.1.111:5001/live/high/566.m3u8
+#EXTINF:-1 tvg-id=541 tvg-name="Discovery Turbo" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Discovery_Turbo.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery Turbo
+https://jiotv.ankitn.duckdns.org/live/high/541.m3u8
 
-#EXTINF:-1 tvg-id=541 tvg-name="Discovery Turbo" tvg-logo="http://192.168.1.111:5001/jtvimage/Discovery_Turbo.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery Turbo
-http://192.168.1.111:5001/live/high/541.m3u8
+#EXTINF:-1 tvg-id=568 tvg-name="Discovery Science" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Discovery_Science.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery Science
+https://jiotv.ankitn.duckdns.org/live/high/568.m3u8
 
-#EXTINF:-1 tvg-id=568 tvg-name="Discovery Science" tvg-logo="http://192.168.1.111:5001/jtvimage/Discovery_Science.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery Science
-http://192.168.1.111:5001/live/high/568.m3u8
-
-#EXTINF:-1 tvg-id=578 tvg-name="History TV18 HD Hindi" tvg-logo="http://192.168.1.111:5001/jtvimage/History_18_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD Hindi
-http://192.168.1.111:5001/live/high/578.m3u8
+#EXTINF:-1 tvg-id=578 tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/History_18_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD Hindi
+https://jiotv.ankitn.duckdns.org/live/high/578.m3u8
 
 #LIFESTYLE
-#EXTINF:-1 tvg-id=479 tvg-name="TLC HD" tvg-logo="http://192.168.1.111:5001/jtvimage/TLC_HD_World.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
-http://192.168.1.111:5001/live/high/479.m3u8
+#EXTINF:-1 tvg-id=479 tvg-name="TLC HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/TLC_HD_World.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
+https://jiotv.ankitn.duckdns.org/live/high/479.m3u8
 
-#EXTINF:-1 tvg-id=560 tvg-name="GOOD TiMES" tvg-logo="http://192.168.1.111:5001/jtvimage/NDTV_Good_Times.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", GOOD TiMES
-http://192.168.1.111:5001/live/high/560.m3u8
+#EXTINF:-1 tvg-id=560 tvg-name="GOOD TiMES" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/NDTV_Good_Times.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", GOOD TiMES
+https://jiotv.ankitn.duckdns.org/live/high/560.m3u8
 
-#EXTINF:-1 tvg-id=561 tvg-name="Food Food" tvg-logo="http://192.168.1.111:5001/jtvimage/Food_Food.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", Food Food
-http://192.168.1.111:5001/live/high/561.m3u8
+#EXTINF:-1 tvg-id=561 tvg-name="Food Food" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Food_Food.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", Food Food
+https://jiotv.ankitn.duckdns.org/live/high/561.m3u8
 
-#EXTINF:-1 tvg-id=562 tvg-name="Travelxp HD Hindi" tvg-logo="http://192.168.1.111:5001/jtvimage/Travel_XP.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", Travelxp HD Hindi
-http://192.168.1.111:5001/live/high/562.m3u8
+#EXTINF:-1 tvg-id=562 tvg-name="Travelxp HD Hindi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Travel_XP.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", Travelxp HD Hindi
+https://jiotv.ankitn.duckdns.org/live/high/562.m3u8
 
-#EXTINF:-1 tvg-id=1955 tvg-name="Foodxp" tvg-logo="http://192.168.1.111:5001/jtvimage/Food_XP.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", Foodxp
-http://192.168.1.111:5001/live/high/1955.m3u8
+#EXTINF:-1 tvg-id=1955 tvg-name="Foodxp" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Food_XP.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", Foodxp
+https://jiotv.ankitn.duckdns.org/live/high/1955.m3u8
 
-#EXTINF:-1 tvg-id=1598 tvg-name="FTV HD" tvg-logo="http://192.168.1.111:5001/jtvimage/FTV_HD.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", FTV HD
-http://192.168.1.111:5001/live/high/1598.m3u8
+#EXTINF:-1 tvg-id=1598 tvg-name="FTV HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/FTV_HD.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", FTV HD
+https://jiotv.ankitn.duckdns.org/live/high/1598.m3u8
 
-#EXTINF:-1 tvg-id=2031 tvg-name="Fashion India" tvg-logo="http://192.168.1.111:5001/jtvimage/Fashion_India.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Fashion India
-http://192.168.1.111:5001/live/high/2031.m3u8
+#EXTINF:-1 tvg-id=2031 tvg-name="Fashion India" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Fashion_India.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Fashion India
+https://jiotv.ankitn.duckdns.org/live/high/2031.m3u8
 
-#EXTM3U url-tvg="http://192.168.1.111:8409/iptv/xmltv.xml" x-tvg-url="http://192.168.1.111:8409/iptv/xmltv.xml"
-#EXTINF:0 tvg-id="1.etv" channel-id="g0QdnhnN5EOvNZS4nE3W7A" channel-number="1" CUID="g0QdnhnN5EOvNZS4nE3W7A" tvg-chno="1" tvg-name="TMKOC" tvg-logo="http://192.168.1.111:8409/iptv/logos/23BCA52EC273B5EF3862ABFE0A8DF12C.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TMKOC
-http://192.168.1.111:8409/iptv/channel/1.ts
-#EXTINF:0 tvg-id="2.etv" channel-id="h2_6abaiaE6daEs1wFhdzA" channel-number="2" CUID="h2_6abaiaE6daEs1wFhdzA" tvg-chno="2" tvg-name="TV TOKYO" tvg-logo="http://192.168.1.111:8409/iptv/logos/6E611CBB75CA01B49D8DC0ACD50DB26C.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV TOKYO
-http://192.168.1.111:8409/iptv/channel/2.ts
-#EXTINF:0 tvg-id="3.etv" channel-id="jwiSTbN8DUyWktZ6uq87-A" channel-number="3" CUID="jwiSTbN8DUyWktZ6uq87-A" tvg-chno="3" tvg-name="Y2K Music" tvg-logo="http://192.168.1.111:8409/iptv/logos/FFA33FEC495B30237E0CC07F85D7D97B.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Y2K Music
-http://192.168.1.111:8409/iptv/channel/3.ts
-#EXTINF:0 tvg-id="4.etv" channel-id="JioNl1Dif0ebBkvtp1U5uA" channel-number="4" CUID="JioNl1Dif0ebBkvtp1U5uA" tvg-chno="4" tvg-name="Fuji TV" tvg-logo="http://192.168.1.111:8409/iptv/logos/gen?text=Fuji+TV" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Fuji TV
-http://192.168.1.111:8409/iptv/channel/4.ts
-#EXTINF:0 tvg-id="5.etv" channel-id="MLJpxMY-mUqWYot2ZgppYg" channel-number="5" CUID="MLJpxMY-mUqWYot2ZgppYg" tvg-chno="5" tvg-name="TV Asahi" tvg-logo="http://192.168.1.111:8409/iptv/logos/88A05C08B1942898210C9D6A192600C6.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Asahi
-http://192.168.1.111:8409/iptv/channel/5.ts
-#EXTINF:0 tvg-id="6.etv" channel-id="S08IHQxf5kq7bGhhHJpNEg" channel-number="6" CUID="S08IHQxf5kq7bGhhHJpNEg" tvg-chno="6" tvg-name="Cartoon Network" tvg-logo="http://192.168.1.111:8409/iptv/logos/010AE89163A7C9192E569926372971E4.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Cartoon Network
-http://192.168.1.111:8409/iptv/channel/6.ts
+#EXTM3U url-tvg="https://etv.ankitn.duckdns.org/iptv/xmltv.xml" x-tvg-url="https://etv.ankitn.duckdns.org/iptv/xmltv.xml"
+#EXTINF:0 tvg-id="1.etv" channel-id="g0QdnhnN5EOvNZS4nE3W7A" channel-number="1" CUID="g0QdnhnN5EOvNZS4nE3W7A" tvg-chno="1" tvg-name="TMKOC" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/23BCA52EC273B5EF3862ABFE0A8DF12C.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TMKOC
+https://etv.ankitn.duckdns.org/iptv/channel/1.ts
+#EXTINF:0 tvg-id="2.etv" channel-id="h2_6abaiaE6daEs1wFhdzA" channel-number="2" CUID="h2_6abaiaE6daEs1wFhdzA" tvg-chno="2" tvg-name="TV TOKYO" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/6E611CBB75CA01B49D8DC0ACD50DB26C.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV TOKYO
+https://etv.ankitn.duckdns.org/iptv/channel/2.ts
+#EXTINF:0 tvg-id="3.etv" channel-id="jwiSTbN8DUyWktZ6uq87-A" channel-number="3" CUID="jwiSTbN8DUyWktZ6uq87-A" tvg-chno="3" tvg-name="Y2K Music" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/FFA33FEC495B30237E0CC07F85D7D97B.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Y2K Music
+https://etv.ankitn.duckdns.org/iptv/channel/3.ts
+#EXTINF:0 tvg-id="4.etv" channel-id="JioNl1Dif0ebBkvtp1U5uA" channel-number="4" CUID="JioNl1Dif0ebBkvtp1U5uA" tvg-chno="4" tvg-name="Fuji TV" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/AA6C1C4654054661DDD4DAA589A74FAD.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Fuji TV
+https://etv.ankitn.duckdns.org/iptv/channel/4.ts
+#EXTINF:0 tvg-id="5.etv" channel-id="MLJpxMY-mUqWYot2ZgppYg" channel-number="5" CUID="MLJpxMY-mUqWYot2ZgppYg" tvg-chno="5" tvg-name="TV Asahi" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/88A05C08B1942898210C9D6A192600C6.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Asahi
+https://etv.ankitn.duckdns.org/iptv/channel/5.ts
+#EXTINF:0 tvg-id="6.etv" channel-id="S08IHQxf5kq7bGhhHJpNEg" channel-number="6" CUID="S08IHQxf5kq7bGhhHJpNEg" tvg-chno="6" tvg-name="Cartoon Network" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/010AE89163A7C9192E569926372971E4.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Cartoon Network
+https://etv.ankitn.duckdns.org/iptv/channel/6.ts
 
