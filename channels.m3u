@@ -97,6 +97,53 @@ https://jiotv.ankitn.duckdns.org/live/high/442.m3u8
 #EXTINF:-1 tvg-id=2935 tvg-name="Pudhari News" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Pudhari_News.png" tvg-language="Marathi" tvg-type="News" group-title="News", Pudhari News
 https://jiotv.ankitn.duckdns.org/live/high/2935.m3u8
 
+#Music
+
+#EXTINF:-1 tvg-id=183 tvg-name="B4U Music" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", B4U Music
+https://jiotv.ankitn.duckdns.org/live/high/183.m3u8 
+
+#EXTINF:-1 tvg-id=250 tvg-name="Music India" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Music_India.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Music India
+https://jiotv.ankitn.duckdns.org/live/high/250.m3u8
+
+#EXTINF:-1 tvg-id=440 tvg-name="9X Jalwa" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/9X_Jalwa.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9X Jalwa
+https://jiotv.ankitn.duckdns.org/live/high/440.m3u8
+
+#EXTINF:-1 tvg-id=587 tvg-name="9XM" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/9XM.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9XM                  
+https://jiotv.ankitn.duckdns.org/live/high/587.m3u8
+
+#EXTINF:-1 tvg-id=591 tvg-name="E 24" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/E_24.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", E 24               
+https://jiotv.ankitn.duckdns.org/live/high/591.m3u8 
+
+#EXTINF:-1 tvg-id=592 tvg-name="ZOOM" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Zoom.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", ZOOM
+https://jiotv.ankitn.duckdns.org/live/high/592.m3u8 
+
+#EXTINF:-1 tvg-id=753 tvg-name="MTV Beats HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/MTV_Beats_HD.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV Beats HD
+https://jiotv.ankitn.duckdns.org/live/high/753.m3u8 
+
+#EXTINF:-1 tvg-id=1145 tvg-name="MTV HD Plus" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV HD Plus  
+https://jiotv.ankitn.duckdns.org/live/high/1145.m3u8
+
+#EXTINF:-1 tvg-id=1249 tvg-name="Kadak Hits" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Kadak_Hits.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Kadak Hits
+https://jiotv.ankitn.duckdns.org/live/high/1249.m3u8
+
+#EXTINF:-1 tvg-id=2036 tvg-name="Dil Se" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Dil_Se.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Dil Se    
+https://jiotv.ankitn.duckdns.org/live/high/2036.m3u8
+
+#EXTINF:-1 tvg-id=2037 tvg-name="Pop Pataka" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Pop_Pataka.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Pop Pataka
+https://jiotv.ankitn.duckdns.org/live/high/2037.m3u8
+
+#EXTINF:-1 tvg-id=2042 tvg-name="Nazraana" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Nazraana.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Nazraana
+https://jiotv.ankitn.duckdns.org/live/high/2042.m3u8
+
+#EXTINF:-1 tvg-id=2065 tvg-name="Saregama Music" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Saregama_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Saregama Music                                                                                                                                                                          
+https://jiotv.ankitn.duckdns.org/live/high/2065.m3u8
+
+#EXTINF:-1 tvg-id=2753 tvg-name="YRF Music" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/YRF_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", YRF Music
+https://jiotv.ankitn.duckdns.org/live/high/2753.m3u8
+
+#EXTINF:-1 tvg-id=3003 tvg-name="Coke Studio Bharat Season 1" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/CokeStudio_Bharat_S1.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Coke Studio Bharat Season 1
+https://jiotv.ankitn.duckdns.org/live/high/3003.m3u8
+
 #Sports
 
 #ENGLISH
@@ -155,12 +202,14 @@ https://jiotv.ankitn.duckdns.org/live/high/1598.m3u8
 #EXTINF:-1 tvg-id=2031 tvg-name="Fashion India" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Fashion_India.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Fashion India
 https://jiotv.ankitn.duckdns.org/live/high/2031.m3u8
 
+#ETV
+
 #EXTM3U url-tvg="https://etv.ankitn.duckdns.org/iptv/xmltv.xml" x-tvg-url="https://etv.ankitn.duckdns.org/iptv/xmltv.xml"
 #EXTINF:0 tvg-id="1.etv" channel-id="g0QdnhnN5EOvNZS4nE3W7A" channel-number="1" CUID="g0QdnhnN5EOvNZS4nE3W7A" tvg-chno="1" tvg-name="TMKOC" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/23BCA52EC273B5EF3862ABFE0A8DF12C.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TMKOC
 https://etv.ankitn.duckdns.org/iptv/channel/1.ts
 #EXTINF:0 tvg-id="2.etv" channel-id="S08IHQxf5kq7bGhhHJpNEg" channel-number="2" CUID="S08IHQxf5kq7bGhhHJpNEg" tvg-chno="2" tvg-name="Cartoon Network" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/010AE89163A7C9192E569926372971E4.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Cartoon Network
 https://etv.ankitn.duckdns.org/iptv/channel/2.ts
-#EXTINF:0 tvg-id="3.etv" channel-id="jwiSTbN8DUyWktZ6uq87-A" channel-number="3" CUID="jwiSTbN8DUyWktZ6uq87-A" tvg-chno="3" tvg-name="Y2K Music" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/FFA33FEC495B30237E0CC07F85D7D97B.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Y2K Music
+#EXTINF:0 tvg-id="3.etv" channel-id="jwiSTbN8DUyWktZ6uq87-A" channel-number="3" CUID="jwiSTbN8DUyWktZ6uq87-A" tvg-chno="3" tvg-name="Y2K Music" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/FFA33FEC495B30237E0CC07F85D7D97B.jpg" group-title="Music" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Y2K Music
 https://etv.ankitn.duckdns.org/iptv/channel/3.ts
 #EXTINF:0 tvg-id="4.etv" channel-id="S8d39wk7X0Sg_gWYkaolOg" channel-number="4" CUID="S8d39wk7X0Sg_gWYkaolOg" tvg-chno="4" tvg-name="TV Kawaii Classic" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/49E9C414E3BA2C86FF3759B7F4499146.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kawaii Classic
 https://etv.ankitn.duckdns.org/iptv/channel/4.ts
