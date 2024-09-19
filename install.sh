@@ -17,6 +17,6 @@ read -rp "Enter type of installation native or flatpak? (native/flatpak): " inst
 if [ "install_type" = "native" ]; then
 	cp -rf mpv $HOME/.config/
 else  
-	cp -rf mpv $HOME/.var/app/io.mpv.Mpv/config/mpv/
+	cp -rf mpv $HOME/.var/app/io.mpv.Mpv/config/
 fi
 echo "Done"
