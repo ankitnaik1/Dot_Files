@@ -16,7 +16,9 @@ echo "Copying Files..."
 read -rp "Enter type of installation native or flatpak? (native/flatpak): " install_type
 if [ "install_type" = "native" ]; then
 	cp -rf mpv $HOME/.config/
+	cp -rf chromium-flags.conf $HOME/.config/
 else  
 	cp -rf mpv $HOME/.var/app/io.mpv.Mpv/config/
+	cp -rf chromium-flags.conf $HOME/.var/app/io.github.ungoogled_software.ungoogled_chromium/config/
 fi
 echo "Done"
