@@ -63,7 +63,7 @@ https://jiotv.ankitn.duckdns.org/live/high/3088.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathihd1/default/zeemarathihd1.m3u8
 
 #EXTINF:-1 tvg-id=755 tvg-name="Colors Marathi HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Marathi", Colors Marathi HD
-https://jiotv.ankitn.duckdns.org/live/high/755.m3u8
+https://jiotv.ankitn.duckdns.org/live/755.m3u8
 
 #EXTINF:-1 tvg-id=1452 tvg-name="Shemaroo MarathiBana" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Shemaroo_MarathiBana.png" tvg-language="Marathi" tvg-type="Movies" group-title="Marathi", Shemaroo MarathiBana
 https://jiotv.ankitn.duckdns.org/live/high/1452.m3u8
