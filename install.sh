@@ -9,8 +9,8 @@ if [ "$hyprland" = "Y" ]; then
 else
 	cp -rf .config/nvim $HOME/.config/
 	cp -rf .config/alacritty $HOME/.config/
-	cp -rf .zsh $HOME/.zsh
-	cp -rf .zshrc $HOME/
+	cp -rf  zsh $HOME/.zsh
+	cp -rf  zsh/zshrc $HOME/.zshrc
 fi
 echo "Copying Files..."
 read -rp "Enter type of installation native or flatpak? (native/flatpak): " install_type
