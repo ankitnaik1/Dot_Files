@@ -6,10 +6,10 @@ services:
     mem_limit: 512M            
     memswap_limit: 1G 
     dns:
-     - 9.9.9.11
-     - 1.1.1.1
+      - 9.9.9.9
+      - 1.1.1.1
     command:
-      - "--log.level=DEBUG"
+      - "--log.level=ERROR"
       - "--api.insecure=true"
       - "--providers.docker=true"
       - "--providers.docker.exposedbydefault=false"
@@ -41,29 +41,75 @@ services:
     environment:
       DUCKDNS_TOKEN: "${DUCKDNS_TOKEN}"
 
-  deluge:
-    container_name: deluge
-    image: linuxserver/deluge:latest
-    restart: unless-stopped
+  prowlarr:
+    container_name: prowlarr
+    image: linuxserver/prowlarr:latest
+    restart: always
     mem_limit: 512M            
-    memswap_limit: 2G 
+    memswap_limit: 1G 
     dns:
-     - 9.9.9.11
-     - 1.1.1.1
+      - 9.9.9.9
+      - 1.1.1.1
     labels:
       - 'traefik.enable=true'
-      - 'traefik.http.routers.deluge.rule=Host(`deluge.${MY_DOMAIN}`)'
-      - 'traefik.http.routers.deluge.entryPoints=websecure'
+      - 'traefik.http.routers.prowlarr.rule=Host(`prowlarr.${MY_DOMAIN}`)'
+      - 'traefik.http.routers.prowlarr.entryPoints=websecure'
     environment:
-      TZ: Asia/Kolkata
+     TZ: Asia/Kolkata
     volumes:
       - type: bind
-        source: ${CONFIG_LOCATION}/deluge
+        source: ${CONFIG_LOCATION}/prowlarr
+        target: /config
+
+  flaresolverr:
+    container_name: flaresolverr
+    image: ghcr.io/flaresolverr/flaresolverr:latest
+    restart: always
+    mem_limit: 512M            
+    memswap_limit: 1G
+    dns:
+      - 9.9.9.9
+      - 1.1.1.1
+    labels:
+      - 'traefik.enable=true'
+      - 'traefik.http.routers.flaresolverr.rule=Host(`flaresolverr.${MY_DOMAIN}`)'
+      - 'traefik.http.routers.flaresolverr.entryPoints=websecure'
+    environment:
+     TZ: Asia/Kolkata
+     LOG_LEVEL: info
+   
+  qbittorrent:
+    image: lscr.io/linuxserver/qbittorrent:latest
+    container_name: qbittorrent
+    restart: always
+    mem_limit: 512M
+    memswap_limit: 2G
+    dns:
+      - 9.9.9.11
+      - 1.1.1.1
+    labels:
+      - 'traefik.enable=true'
+      - 'traefik.http.routers.qt.rule=Host(`qt.${MY_DOMAIN}`)'
+      - 'traefik.http.routers.qt.entryPoints=websecure'
+      - "traefik.http.services.qbittorrent.loadbalancer.server.port=8081"
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+      - WEBUI_PORT=8081
+      - TORRENTING_PORT=6881
+    volumes:
+      - type: bind
+        source: ${CONFIG_LOCATION}/Qbittorrent
         target: /config
       - type: bind
         source: ${DOWNLOADS_LOCATION}
         target: /downloads
-
+    ports:
+      - 8081:8081
+      - 6881:6881
+      - 6881:6881/udp
+    
   jellyfin:
     container_name: jellyfin
     image: jellyfin/jellyfin:latest
@@ -73,12 +119,13 @@ services:
     mem_limit: 1G            
     memswap_limit: 2G 
     dns:
-     - 9.9.9.11
-     - 1.1.1.1
+      - 9.9.9.9
+      - 1.1.1.1
     labels:
       - 'traefik.enable=true'
       - 'traefik.http.routers.jellyfin.rule=Host(`jellyfin.${MY_DOMAIN}`)'
       - 'traefik.http.routers.jellyfin.entryPoints=websecure'
+      - "traefik.http.services.jellyfin.loadbalancer.server.port=8096"
     environment:
       TZ: Asia/Kolkata
     volumes:
@@ -107,12 +154,13 @@ services:
     mem_limit: 1G            
     memswap_limit: 2G 
     dns:
-     - 9.9.9.11
-     - 1.1.1.1
+      - 9.9.9.9
+      - 1.1.1.1
     labels:
       - 'traefik.enable=true'
       - 'traefik.http.routers.ersatztv.rule=Host(`etv.${MY_DOMAIN}`)'
       - 'traefik.http.routers.ersatztv.entryPoints=websecure'
+      - "traefik.http.services.ersatztv.loadbalancer.server.port=8409"
     environment:
       TZ: Asia/Kolkata
       Bugsnag:Enable: false 
@@ -130,8 +178,6 @@ services:
         source: ${MUSIC_LOCATION}
         target: /mnt/Music
         read_only: true
-    ports:
-      - "8409:8409"
       
   redlib:
     container_name: "redlib"
@@ -140,8 +186,8 @@ services:
     mem_limit: 512M            
     memswap_limit: 1G 
     dns:
-     - 9.9.9.11
-     - 1.1.1.1
+      - 9.9.9.11
+      - 1.1.1.1
     labels:
       - 'traefik.enable=true'
       - 'traefik.http.routers.redlib.rule=Host(`redlib.${MY_DOMAIN}`)'
@@ -154,11 +200,33 @@ services:
     restart: always
     mem_limit: 512M            
     memswap_limit: 1G 
+    tty: true
     dns:
-     - 9.9.9.11
-     - 1.1.1.1
+      - 9.9.9.11
+      - 1.1.1.1
     labels:
       - 'traefik.enable=true'
       - 'traefik.http.routers.yt-local.rule=Host(`yt.${MY_DOMAIN}`)'
       - 'traefik.http.routers.yt-local.entryPoints=websecure'
     env_file: yt-local.env
+
+  jiotv:
+    container_name: "jiotv"
+    image: ghcr.io/jiotv-go/jiotv_go
+    restart: unless-stopped
+    mem_limit: 512M            
+    memswap_limit: 1G
+    dns:
+      - 9.9.9.9
+      - 1.1.1.1
+    volumes:
+      - type: bind
+        source: ${CONFIG_LOCATION}/JioTV_Go
+        target: /app/.jiotv_go
+    labels:
+      - 'traefik.enable=true'
+      - 'traefik.http.routers.jiotv.rule=Host(`jiotv.${MY_DOMAIN}`)'
+      - 'traefik.http.routers.jiotv.entryPoints=websecure'
+      - "traefik.http.services.jiotv.loadbalancer.server.port=5001"
+    environment:
+      - JIOTV_EPG=true
