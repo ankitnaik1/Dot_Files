@@ -1,7 +1,9 @@
 [window]
-decorations = "none"
-opacity = 0.7
-blur = true
+decorations = "full"
+opacity = 1
+blur = false
+startup_mode = "Maximized"
+dynamic_padding = true
 
 [font]
 size = 12
@@ -10,3 +12,26 @@ size = 12
 action = "SpawnNewInstance"
 key = "Return"
 mods = "Command"
+
+[colors]
+[colors.primary]
+foreground = "#b8bb26"
+background = "#282828"
+[colors.normal]
+black = "#282828"
+red = "#cc241d"
+green = "#98971a"
+yellow = "#d79921"
+blue = "#458588"
+magenta = "#b16286"
+cyan = "#689d61"
+white = "#a89984"
+[colors.bright]
+black = "#928374"
+red = "#fb4934"
+green = "#b8bb26"
+yellow = "#fabd2f"
+blue = "#83a598"
+magenta = "#d3869b"
+cyan = "#8ec07c"
+white = "#ebdbb2"
