@@ -209,7 +209,7 @@ https://jiotv.ankitn.duckdns.org/live/2031.m3u8
 https://etv.ankitn.duckdns.org/iptv/channel/1.ts
 #EXTINF:0 tvg-id="2.etv" channel-id="S08IHQxf5kq7bGhhHJpNEg" channel-number="2" CUID="S08IHQxf5kq7bGhhHJpNEg" tvg-chno="2" tvg-name="Cartoon Network" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/010AE89163A7C9192E569926372971E4.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Cartoon Network
 https://etv.ankitn.duckdns.org/iptv/channel/2.ts
-#EXTINF:0 tvg-id="3.etv" channel-id="jwiSTbN8DUyWktZ6uq87-A" channel-number="3" CUID="jwiSTbN8DUyWktZ6uq87-A" tvg-chno="3" tvg-name="Y2K Music" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/FFA33FEC495B30237E0CC07F85D7D97B.jpg" group-title="Music" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Y2K Music
+#EXTINF:0 tvg-id="3.etv" channel-id="jwiSTbN8DUyWktZ6uq87-A" channel-number="3" CUID="jwiSTbN8DUyWktZ6uq87-A" tvg-chno="3" tvg-name="TV Ongaku" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/8F151E8F8B4D189C0A882FD6065201D9.jpg" group-title="Music" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Ongaku
 https://etv.ankitn.duckdns.org/iptv/channel/3.ts
 #EXTINF:0 tvg-id="4.etv" channel-id="S8d39wk7X0Sg_gWYkaolOg" channel-number="4" CUID="S8d39wk7X0Sg_gWYkaolOg" tvg-chno="4" tvg-name="TV Kawaii Classic" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/49E9C414E3BA2C86FF3759B7F4499146.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kawaii Classic
 https://etv.ankitn.duckdns.org/iptv/channel/4.ts
@@ -217,6 +217,6 @@ https://etv.ankitn.duckdns.org/iptv/channel/4.ts
 https://etv.ankitn.duckdns.org/iptv/channel/5.ts
 #EXTINF:0 tvg-id="6.etv" channel-id="gsevDrAoCEGegNyJoXYozQ" channel-number="6" CUID="gsevDrAoCEGegNyJoXYozQ" tvg-chno="6" tvg-name="TV Kurai Classic" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/AE947025C20B519672CC2290D16E6315.jpg" group-title="English" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kurai Classic
 https://etv.ankitn.duckdns.org/iptv/channel/6.ts
-#EXTINF:0 tvg-id="7.etv" channel-id="o-MbcnOQTkaPQPKVVEu4hg" channel-number="7" CUID="o-MbcnOQTkaPQPKVVEu4hg" tvg-chno="7" tvg-name="Kurai TV" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/0C41ADFE20E188B593B4A613B50A0B42.jpg" group-title="English" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Kurai TV
+#EXTINF:0 tvg-id="7.etv" channel-id="o-MbcnOQTkaPQPKVVEu4hg" channel-number="7" CUID="o-MbcnOQTkaPQPKVVEu4hg" tvg-chno="7" tvg-name="TV Kurai" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/0C41ADFE20E188B593B4A613B50A0B42.jpg" group-title="English" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kurai
 https://etv.ankitn.duckdns.org/iptv/channel/7.ts
 
