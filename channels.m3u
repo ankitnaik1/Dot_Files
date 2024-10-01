@@ -172,6 +172,12 @@ https://jiotv.ankitn.duckdns.org/live/1158.m3u8
 #EXTINF:-1 tvg-id=1320 tvg-name="VH1 HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/VH1_HD.png" tvg-language="English" tvg-type="Music" group-title="English", VH1 HD
 https://jiotv.ankitn.duckdns.org/live/1320.m3u8
 
+#EXTINF:-1 tvg-id=1079 tvg-name="CN HD+ English" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/CN_HD_English.png" tvg-language="English" tvg-type="Kids" group-title="English", CN HD+ English
+https://jiotv.ankitn.duckdns.org/live/1079.m3u8
+
+#EXTINF:-1 tvg-id=1226 tvg-name="Nick HD+" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="English", Nick HD+
+https://jiotv.ankitn.duckdns.org/live/1226.m3u8
+
 #INFOTAINMENT
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qrQ8Ti1k.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Sony BBC Earth HD
