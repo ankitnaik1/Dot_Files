@@ -148,6 +148,9 @@ https://jiotv.ankitn.duckdns.org/live/3003.m3u8
 
 #ENGLISH
 
+#EXTINF:-1 tvg-id="1530" tvg-name="Sony Pix HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1Akqg656.png" tvg-language="English" tvg-type="Movies" group-title="English", Sony Pix HD
+https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+
 #EXTINF:-1 tvg-id=866 tvg-name="Jio Exclusive HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Jio_Exclusive.png" tvg-language="English" tvg-type="Entertainment" group-title="English", Jio Exclusive HD
 https://jiotv.ankitn.duckdns.org/live/866.m3u8
 
@@ -161,6 +164,9 @@ https://jiotv.ankitn.duckdns.org/live/1158.m3u8
 https://jiotv.ankitn.duckdns.org/live/1320.m3u8
 
 #INFOTAINMENT
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qrQ8Ti1k.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Sony BBC Earth HD
+https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
 #EXTINF:-1 tvg-id=463 tvg-name="Discovery HD World" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Discovery_HD_World.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery HD World
 https://jiotv.ankitn.duckdns.org/live/463.m3u8
