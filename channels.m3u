@@ -12,6 +12,9 @@
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Colors HD
 https://jiotv.ankitn.duckdns.org/live/144.m3u8
 
+#EXTINF:-1 tvg-id=291 tvg-name="SET HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yaFKAY6M.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", SET HD
+https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+
 #EXTINF:-1 tvg-id=145 tvg-name="Zee TV HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CMqUe8No.png" group-title="Hindi",Zee TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 
@@ -20,6 +23,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 
 #EXTINF:-1 tvg-id=279 tvg-name="Rishtey" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Rishtey.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Rishtey
 https://jiotv.ankitn.duckdns.org/live/279.m3u8
+
+#EXTINF:-1 tvg-id=474 tvg-name="Sony Pal" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/n8OECjuJ.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Sony Pal
+https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png" group-title="Hindi",Zee Anmol
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
@@ -59,11 +65,14 @@ https://jiotv.ankitn.duckdns.org/live/3088.m3u8
 
 #Marathi
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/JxGFD51k.png" group-title="Marathi",Zee Marathi HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathihd1/default/zeemarathihd1.m3u8
+#EXTINF:-1 tvg-id= tvg-name="Zee Marathi HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/JxGFD51k.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Marathi", Zee Marathi HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathihd1/default/master.m3u8
 
 #EXTINF:-1 tvg-id=755 tvg-name="Colors Marathi HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Marathi", Colors Marathi HD
 https://jiotv.ankitn.duckdns.org/live/755.m3u8
+
+#EXTINF:-1 tvg-id=1146 tvg-name="Sony Marathi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ZSS2yZLN.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Marathi", Sony Marathi
+https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
 
 #EXTINF:-1 tvg-id=1452 tvg-name="Shemaroo MarathiBana" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Shemaroo_MarathiBana.png" tvg-language="Marathi" tvg-type="Movies" group-title="Marathi", Shemaroo MarathiBana
 https://jiotv.ankitn.duckdns.org/live/1452.m3u8
