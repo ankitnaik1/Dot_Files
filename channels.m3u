@@ -4,10 +4,10 @@
 #   source=##Sony&Shemaroo custom https://github.com/iptv-org/iptv
 #   other_source=https://rentry.co/iptvcollection/raw
 #######################################################################################################################################################                                                                     
-#EXTINF:-1 tvg-id=8 tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Star Plus HD
+#EXTINF:-1 tvg-id=8 tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Star Plus HD
 http://103.84.57.155:8000/play/a080/index.m3u8
 
-#EXTINF:-1 tvg-id=244 tvg-name="Star Bharat HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6896-j6vqiroo-v2/imageContent-6896-j6vqiroo-m2.jpg" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment",Star Bharat HD
+#EXTINF:-1 tvg-id=244 tvg-name="Star Bharat HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6896-j6vqiroo-v2/imageContent-6896-j6vqiroo-m2.jpg" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi",Star Bharat HD
 http://103.84.57.155:8000/play/a09k/index.m3u8
 
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Colors HD
@@ -227,6 +227,20 @@ https://jiotv.ankitn.duckdns.org/live/1598.m3u8
 
 #EXTINF:-1 tvg-id=2031 tvg-name="Fashion India" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Fashion_India.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Fashion India
 https://jiotv.ankitn.duckdns.org/live/2031.m3u8
+
+#EXTINF:-1 tvg-id=MN+ tvg-name="MN+" tvg-logo="https://admin.indiantelevision.com/sites/default/files/styles/medium_3/public/images/tv-images/2015/07/10/Untitled-1_1.jpg?itok=QyKXkkNs" tvg-language="English" tvg-type="Movies" group-title="English", MN+
+http://103.84.57.155:8000/play/a08s/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id= tvg-name="&Flix HD" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-language="English" tvg-type="Movies" group-title="English",&Flix HD
+http://103.84.57.155:8000/play/a083/index.m3u8
+
+#EXTINF:-1 tvg-id=114 tvg-name="Disney" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1357-j5tdnxeo-v1/imageContent-1357-j5tdnxeo-m1.jpg" tvg-language="Hindi" tvg-type="Kids" group-title="Hindi",Disney
+http://103.84.57.155:8000/play/a03u/index.m3u8
+
+#EXTINF:-1 tvg-id=144 tvg-name="Disney Junior" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35370-jr3xz9hc-v1/imageContent-35370-jr3xz9hc-m1.jpg" tvg-language="Hindi" tvg-type="Kids" group-title="Hindi",Disney Junior
+http://103.84.57.155:8000/play/a03x/index.m3u8
 
 #ETV
 

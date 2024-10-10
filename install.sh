@@ -7,11 +7,14 @@ if [ "$hyprland" = "Y" ]; then
 	cp -rf config/fuzzel $HOME/.config/
 	cp -rf .local/bin/fuzzel-emoji $HOME/.local/bin/
 else
-	cp -rf config/nvim $HOME/.config/
-	cp -rf config/alacritty $HOME/.config/
-	cp -rf zsh $HOME/.zsh
-	cp -rf zsh/zshrc $HOME/.zshrc
+	echo "Not Installing hyprland"
 fi
+cp -rf config/nvim $HOME/.config/
+cp -rf config/alacritty $HOME/.config/
+cp -rf zsh $HOME/.
+cp -rf zsh/zshrc $HOME/.zshrc
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git  ~/.zsh/zsh-syntax-highlighting
 echo "Copying Files..."
 read -rp "Enter type of installation native or flatpak? (native/flatpak): " install_type
 if [ "install_type" = "native" ]; then

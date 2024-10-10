@@ -10,6 +10,8 @@ HISTFILE=~/.zsh/histfile
 HISTSIZE=1000
 SAVEHIST=1000
 # End of lines configured by zsh-newuser-install
+# Alias
+alias mpv="flatpak run io.mpv.Mpv"
 # Enable history suggestions
 setopt HIST_IGNORE_DUPS
 setopt HIST_FIND_NO_DUPS
