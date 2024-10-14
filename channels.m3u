@@ -64,6 +64,13 @@ https://jiotv.ankitn.duckdns.org/live/1295.m3u8
 #EXTINF:-1 tvg-id=3088 tvg-name="Sun Neo HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SUN_Neo.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Sun Neo HD
 https://jiotv.ankitn.duckdns.org/live/3088.m3u8
 
+
+#EXTINF:-1 tvg-id=114 tvg-name="Disney" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1357-j5tdnxeo-v1/imageContent-1357-j5tdnxeo-m1.jpg" tvg-language="Hindi" tvg-type="Kids" group-title="Hindi",Disney
+http://103.84.57.155:8000/play/a03u/index.m3u8
+
+#EXTINF:-1 tvg-id=144 tvg-name="Disney Junior" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35370-jr3xz9hc-v1/imageContent-35370-jr3xz9hc-m1.jpg" tvg-language="Hindi" tvg-type="Kids" group-title="Hindi",Disney Junior
+http://103.84.57.155:8000/play/a03x/index.m3u8
+
 #Marathi
 
 #EXTINF:-1 tvg-id= tvg-name="Zee Marathi HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/JxGFD51k.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Marathi", Zee Marathi HD
@@ -170,6 +177,9 @@ https://jiotv.ankitn.duckdns.org/live/1157.m3u8
 #EXTINF:-1 tvg-id=1158 tvg-name="Colors Infinity HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="English", Colors Infinity HD
 https://jiotv.ankitn.duckdns.org/live/1158.m3u8
 
+#EXTINF:-1 tvg-id= tvg-name="&Flix HD" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-language="English" tvg-type="Movies" group-title="English",&Flix HD
+http://103.84.57.155:8000/play/a083/index.m3u8
+
 #EXTINF:-1 tvg-id=1320 tvg-name="VH1 HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/VH1_HD.png" tvg-language="English" tvg-type="Music" group-title="English", VH1 HD
 https://jiotv.ankitn.duckdns.org/live/1320.m3u8
 
@@ -181,6 +191,9 @@ https://jiotv.ankitn.duckdns.org/live/1226.m3u8
 
 #EXTINF:-1 tvg-id=2258 tvg-name="Animax" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Animax.png" tvg-language="English" tvg-type="Entertainment" group-title="English", Animax
 https://jiotv.ankitn.duckdns.org/live/2258.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-60faf9ddfcc1f200070a5932" tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a59    32/colorLogoPNG.png" group-title="English" tvg-chno="3910",Garfield and Friends
+https://jmp2.uk/plu-60faf9ddfcc1f200070a5932-alt.m3u8
 
 #INFOTAINMENT
 
@@ -231,16 +244,6 @@ https://jiotv.ankitn.duckdns.org/live/2031.m3u8
 #EXTINF:-1 tvg-id=MN+ tvg-name="MN+" tvg-logo="https://admin.indiantelevision.com/sites/default/files/styles/medium_3/public/images/tv-images/2015/07/10/Untitled-1_1.jpg?itok=QyKXkkNs" tvg-language="English" tvg-type="Movies" group-title="English", MN+
 http://103.84.57.155:8000/play/a08s/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id= tvg-name="&Flix HD" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-language="English" tvg-type="Movies" group-title="English",&Flix HD
-http://103.84.57.155:8000/play/a083/index.m3u8
-
-#EXTINF:-1 tvg-id=114 tvg-name="Disney" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1357-j5tdnxeo-v1/imageContent-1357-j5tdnxeo-m1.jpg" tvg-language="Hindi" tvg-type="Kids" group-title="Hindi",Disney
-http://103.84.57.155:8000/play/a03u/index.m3u8
-
-#EXTINF:-1 tvg-id=144 tvg-name="Disney Junior" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35370-jr3xz9hc-v1/imageContent-35370-jr3xz9hc-m1.jpg" tvg-language="Hindi" tvg-type="Kids" group-title="Hindi",Disney Junior
-http://103.84.57.155:8000/play/a03x/index.m3u8
 
 #ETV
 
