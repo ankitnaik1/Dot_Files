@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id=291 tvg-name="SET HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yaFKAY6M.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", SET HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
-#EXTINF:-1 tvg-id="1000009248" tvg-name="Sony SAB HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB HD
+#EXTINF:-1 tvg-id="1000009248" tvg-name="Sony SAB HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Sony SAB HD
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
 #EXTINF:-1 tvg-id=8 tvg-name="Star Plus HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BgWI5SWG.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Star Plus HD
@@ -234,7 +234,7 @@ https://jmp2.uk/plu-60faf9ddfcc1f200070a5932-alt.m3u8
 
 #INFOTAINMENT
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information" group-title="Infotainment",Nat Geo HD
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/AtgD4BtP.png"group-title="Information",Nat Geo HD
 http://103.110.110.11:8081/live/NGC/playlist.m3u8
 
 #EXTINF:-1 tvg-id=413 tvg-name="Nat Geo Wild HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11629-j9k0ndjc-v1/imageContent-11629-j9k0ndjc-m1.jpg"group-title="Information" group-title="Infotainment",Nat Geo Wild HD
