@@ -1,26 +1,22 @@
 #EXTM3U x-tvg-url="https://jiotv.ankitn.duckdns.org/epg.xml.gz"
 
-#   source=##JioTV https://github.com/jiotv-go/jiotv_go
-#   source=##Sony&Shemaroo custom https://github.com/iptv-org/iptv
-#   other_source=https://rentry.co/iptvcollection/raw
-#######################################################################################################################################################                                                                     
-#EXTINF:-1 tvg-id=8 tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Star Plus HD
+#EXTINF:-1 tvg-id=291 tvg-name="SET HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yaFKAY6M.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", SET HD
+https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+
+#EXTINF:-1 tvg-id="1000009248" tvg-name="Sony SAB HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB HD
+https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+
+#EXTINF:-1 tvg-id=8 tvg-name="Star Plus HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BgWI5SWG.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Star Plus HD
 http://103.84.57.155:8000/play/a080/index.m3u8
 
-#EXTINF:-1 tvg-id=244 tvg-name="Star Bharat HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6896-j6vqiroo-v2/imageContent-6896-j6vqiroo-m2.jpg" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi",Star Bharat HD
-http://103.84.57.155:8000/play/a09k/index.m3u8
+#EXTINF:-1 tvg-id=145 tvg-name="Zee TV HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CMqUe8No.png" group-title="Hindi",Zee TV HD
+http://103.110.110.11:8081/live/zeetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Colors HD
 https://jiotv.ankitn.duckdns.org/live/144.m3u8
 
-#EXTINF:-1 tvg-id=291 tvg-name="SET HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yaFKAY6M.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", SET HD
-https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-
-#EXTINF:-1 tvg-id=145 tvg-name="Zee TV HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CMqUe8No.png" group-title="Hindi",Zee TV HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
-
-#EXTINF:-1 tvg-id=144 tvg-name="& TV HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1ZpahMbB.png" group-title="Hindi",& TV HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
+#EXTINF:-1 tvg-id=1961 tvg-name="Shemaroo TV" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Shemaroo_TV.png" tvg-language="Hindi" tvg-type="Hindi" group-title="Hindi", Shemaroo TV
+https://jiotv.ankitn.duckdns.org/live/1961.m3u8
 
 #EXTINF:-1 tvg-id=279 tvg-name="Rishtey" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Rishtey.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Rishtey
 https://jiotv.ankitn.duckdns.org/live/279.m3u8
@@ -28,11 +24,8 @@ https://jiotv.ankitn.duckdns.org/live/279.m3u8
 #EXTINF:-1 tvg-id=474 tvg-name="Sony Pal" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/n8OECjuJ.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Sony Pal
 https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png" group-title="Hindi",Zee Anmol
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
-
-#EXTINF:-1 tvg-id=1961 tvg-name="Shemaroo TV" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Shemaroo_TV.png" tvg-language="Hindi" tvg-type="Hindi" group-title="Hindi", Shemaroo TV
-https://jiotv.ankitn.duckdns.org/live/1961.m3u8
+#EXTINF:-1 tvg-id=244 tvg-name="Star Bharat HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5UXQdlYE.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi",Star Bharat HD
+http://103.84.57.155:8000/play/a09k/index.m3u8
 
 #EXTINF:-1 tvg-id=2078 tvg-name="Shemaroo Umang" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Shemaroo_Umang.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Shemaroo Umang
 https://jiotv.ankitn.duckdns.org/live/2078.m3u8
@@ -240,6 +233,12 @@ https://jiotv.ankitn.duckdns.org/live/2258.m3u8
 https://jmp2.uk/plu-60faf9ddfcc1f200070a5932-alt.m3u8
 
 #INFOTAINMENT
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information" group-title="Infotainment",Nat Geo HD
+http://103.110.110.11:8081/live/NGC/playlist.m3u8
+
+#EXTINF:-1 tvg-id=413 tvg-name="Nat Geo Wild HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11629-j9k0ndjc-v1/imageContent-11629-j9k0ndjc-m1.jpg"group-title="Information" group-title="Infotainment",Nat Geo Wild HD
+http://103.84.57.155:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qrQ8Ti1k.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Sony BBC Earth HD
 https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
