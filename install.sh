@@ -13,8 +13,7 @@ cp -rf config/nvim $HOME/.config/
 cp -rf config/alacritty $HOME/.config/
 cp -rf zsh $HOME/.
 cp -rf zsh/zshrc $HOME/.zshrc
-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git  ~/.zsh/zsh-syntax-highlighting
+paru -S starship
 echo "Copying Files..."
 read -rp "Enter type of installation native or flatpak? (native/flatpak): " install_type
 if [ "install_type" = "native" ]; then

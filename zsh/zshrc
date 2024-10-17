@@ -16,5 +16,4 @@ alias mpv="flatpak run io.mpv.Mpv"
 setopt HIST_IGNORE_DUPS
 setopt HIST_FIND_NO_DUPS
 
-source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
-source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+eval "$(starship init zsh)"
