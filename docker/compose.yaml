@@ -40,50 +40,13 @@ services:
       - "80:80"
     environment:
       DUCKDNS_TOKEN: "${DUCKDNS_TOKEN}"
-
-  prowlarr:
-    container_name: prowlarr
-    image: linuxserver/prowlarr:latest
-    restart: always
-    mem_limit: 512M            
-    memswap_limit: 1G 
-    dns:
-      - 9.9.9.9
-      - 1.1.1.1
-    labels:
-      - 'traefik.enable=true'
-      - 'traefik.http.routers.prowlarr.rule=Host(`prowlarr.${MY_DOMAIN}`)'
-      - 'traefik.http.routers.prowlarr.entryPoints=websecure'
-    environment:
-     TZ: Asia/Kolkata
-    volumes:
-      - type: bind
-        source: ${CONFIG_LOCATION}/prowlarr
-        target: /config
-
-  flaresolverr:
-    container_name: flaresolverr
-    image: ghcr.io/flaresolverr/flaresolverr:latest
-    restart: always
-    mem_limit: 512M            
-    memswap_limit: 1G
-    dns:
-      - 9.9.9.9
-      - 1.1.1.1
-    labels:
-      - 'traefik.enable=true'
-      - 'traefik.http.routers.flaresolverr.rule=Host(`flaresolverr.${MY_DOMAIN}`)'
-      - 'traefik.http.routers.flaresolverr.entryPoints=websecure'
-    environment:
-     TZ: Asia/Kolkata
-     LOG_LEVEL: info
-   
+  
   qbittorrent:
     image: lscr.io/linuxserver/qbittorrent:latest
     container_name: qbittorrent
     restart: always
-    mem_limit: 512M
-    memswap_limit: 2G
+    mem_limit: 4G
+    memswap_limit: 4G
     dns:
       - 9.9.9.11
       - 1.1.1.1
@@ -116,8 +79,8 @@ services:
     restart: unless-stopped
     devices:
       - /dev/dri/renderD128:/dev/dri/renderD128
-    mem_limit: 1G            
-    memswap_limit: 2G 
+    mem_limit: 2G            
+    memswap_limit: 4G 
     dns:
       - 9.9.9.9
       - 1.1.1.1
@@ -151,8 +114,8 @@ services:
     restart: always
     devices:
       - /dev/dri/renderD128:/dev/dri/renderD128
-    mem_limit: 1G            
-    memswap_limit: 2G 
+    mem_limit: 2G            
+    memswap_limit: 4G 
     dns:
       - 9.9.9.9
       - 1.1.1.1
@@ -230,3 +193,4 @@ services:
       - "traefik.http.services.jiotv.loadbalancer.server.port=5001"
     environment:
       - JIOTV_EPG=true
+      - JIOTV_DRM=true
