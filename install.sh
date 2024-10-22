@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo pacman -S doas ttf-jetbrains-mono-nerd zsh alacritty neovim flatpak
+sudo pacman -S doas ttf-jetbrains-mono-nerd zsh alacritty neovim flatpak starship
 read -rp "Install hyprland? (Y/N): " hyprland
 if [ "$hyprland" = "Y" ]; then
 	paru -S alacritty neovim hyprland hyprpaper hyprlock hypridle ags daart-sass ttf-material-symbols-variable-git fuzzel
