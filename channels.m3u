@@ -6,12 +6,6 @@ https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF:-1 tvg-id="1000009248" tvg-name="Sony SAB HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Sony SAB HD
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
-#EXTINF:-1 tvg-id=8 tvg-name="Star Plus HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BgWI5SWG.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Star Plus HD
-http://103.84.57.155:8000/play/a080/index.m3u8
-
-#EXTINF:-1 tvg-id=145 tvg-name="Zee TV HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CMqUe8No.png" group-title="Hindi",Zee TV HD
-http://103.110.110.11:8081/live/zeetv/playlist.m3u8
-
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Colors HD
 https://jiotv.ankitn.duckdns.org/live/144.m3u8
 
@@ -24,9 +18,6 @@ https://jiotv.ankitn.duckdns.org/live/279.m3u8
 #EXTINF:-1 tvg-id=474 tvg-name="Sony Pal" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/n8OECjuJ.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Sony Pal
 https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
-#EXTINF:-1 tvg-id=244 tvg-name="Star Bharat HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5UXQdlYE.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi",Star Bharat HD
-http://103.84.57.155:8000/play/a09k/index.m3u8
-
 #EXTINF:-1 tvg-id=2078 tvg-name="Shemaroo Umang" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Shemaroo_Umang.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Shemaroo Umang
 https://jiotv.ankitn.duckdns.org/live/2078.m3u8
 
@@ -38,27 +29,6 @@ https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
 #EXTINF:-1 tvg-id="1000044878" tvg-name="Sony MAX2" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", Sony MAX2
 https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-
-#EXTINF:-1 tvg-id=632 tvg-name="STAR GOLD HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_BoxCover-v2/SGHD_BoxCover.jpg" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi",STAR GOLD HD
-http://103.84.57.155:8000/play/a09m/index.m3u8
-
-#EXTINF:-1 tvg-id=245 tvg-name="STAR GOLD Select HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest?cb=20211216003639" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi",STAR GOLD Select HD
-http://103.84.57.155:8000/play/a09p/index.m3u8
-
-#EXTINF:-1 tvg-id=148 tvg-name="ZEE Cinema HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/sjM1MbFR.png" group-title="Hindi",ZEE Cinema HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
-
-#EXTINF:-1 tvg-id=487 tvg-name="Zee Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", Zee Bollywood
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/master.m3u8
-
-#EXTINF:-1 tvg-id=488 tvg-name="Zee Action" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", Zee Action
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/master.m3u8
-
-#EXTINF:-1 tvg-id=415 tvg-name="Zee Anmol Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", Zee Anmol Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/288dmSbW.png" group-title="Hindi",& Pictures HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 
 #EXTINF:-1 tvg-id=1477 tvg-name="Colors Cineplex HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Hindi", Colors Cineplex HD
 https://jiotv.ankitn.duckdns.org/live/1477.m3u8
@@ -78,25 +48,10 @@ https://jiotv.ankitn.duckdns.org/live/1295.m3u8
 #EXTINF:-1 tvg-id=3088 tvg-name="Sun Neo HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SUN_Neo.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Sun Neo HD
 https://jiotv.ankitn.duckdns.org/live/3088.m3u8
 
-#EXTINF:-1 tvg-id= tvg-name="Star Gold Thrills" tvg-logo="https://news.indiantvinfo.com/media/2023/03/Star-Gold-Thrills-Logo.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi",Star Gold Thrills
-http://103.84.57.155:8000/play/a0c7/index.m3u8
-
-#EXTINF:-1 tvg-id=114 tvg-name="Disney" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1357-j5tdnxeo-v1/imageContent-1357-j5tdnxeo-m1.jpg" tvg-language="Hindi" tvg-type="Kids" group-title="Hindi",Disney
-http://103.84.57.155:8000/play/a03u/index.m3u8
-
-#EXTINF:-1 tvg-id=144 tvg-name="Disney Junior" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35370-jr3xz9hc-v1/imageContent-35370-jr3xz9hc-m1.jpg" tvg-language="Hindi" tvg-type="Kids" group-title="Hindi",Disney Junior
-http://103.84.57.155:8000/play/a03x/index.m3u8
-
-#EXTINF:-1 tvg-id= tvg-name="Hungama TV" tvg-logo="https://yt3.googleusercontent.com/X586N5CVGLdaXrSj5WgUfXgV9Z3zfvfmcpdQR3Zca1hqKHIJrz8Pwlz7je8d4rEoKAbuXng_Bc4=s900-c-k-c0x00ffffff-no-rj" tvg-language="Hindi" tvg-type="Kids" group-title="Hindi",Hungama TV
-http://103.84.57.155:8000/play/a03t/index.m3u8
-
 #EXTINF:-1 tvg-id="1000001971" tvg-name="Sony Yay Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" tvg-language="Hindi" tvg-type="Kids" group-title="Hindi", Sony Yay Hindi
 https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
 #Marathi
-
-#EXTINF:-1 tvg-id= tvg-name="Zee Marathi HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/JxGFD51k.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Marathi", Zee Marathi HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathihd1/default/master.m3u8
 
 #EXTINF:-1 tvg-id=755 tvg-name="Colors Marathi HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Marathi", Colors Marathi HD
 https://jiotv.ankitn.duckdns.org/live/755.m3u8
@@ -214,9 +169,6 @@ https://jiotv.ankitn.duckdns.org/live/1157.m3u8
 #EXTINF:-1 tvg-id=1158 tvg-name="Colors Infinity HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="English", Colors Infinity HD
 https://jiotv.ankitn.duckdns.org/live/1158.m3u8
 
-#EXTINF:-1 tvg-id= tvg-name="&Flix HD" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-language="English" tvg-type="Movies" group-title="English",&Flix HD
-http://103.84.57.155:8000/play/a083/index.m3u8
-
 #EXTINF:-1 tvg-id=1320 tvg-name="VH1 HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/VH1_HD.png" tvg-language="English" tvg-type="Music" group-title="English", VH1 HD
 https://jiotv.ankitn.duckdns.org/live/1320.m3u8
 
@@ -232,16 +184,7 @@ https://jiotv.ankitn.duckdns.org/live/2258.m3u8
 #EXTINF:-1 channel-id="PlutoTV-60faf9ddfcc1f200070a5932" tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a59colorLogoPNG.png" group-title="English" tvg-chno="3910",Garfield and Friends
 https://jmp2.uk/plu-60faf9ddfcc1f200070a5932-alt.m3u8
 
-#EXTINF:-1 tvg-id=MN+ tvg-name="MN+" tvg-logo="https://admin.indiantelevision.com/sites/default/files/styles/medium_3/public/images/tv-images/2015/07/10/Untitled-1_1.jpg?itok=QyKXkkNs" tvg-language="English" tvg-type="Movies" group-title="English", MN+
-http://103.84.57.155:8000/play/a08s/index.m3u8
-
 #INFOTAINMENT
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/AtgD4BtP.png"group-title="Information",Nat Geo HD
-http://103.110.110.11:8081/live/NGC/playlist.m3u8
-
-#EXTINF:-1 tvg-id=413 tvg-name="Nat Geo Wild HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11629-j9k0ndjc-v1/imageContent-11629-j9k0ndjc-m1.jpg"group-title="Information" group-title="Infotainment",Nat Geo Wild HD
-http://103.84.57.155:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qrQ8Ti1k.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Sony BBC Earth HD
 https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
@@ -306,3 +249,5 @@ https://etv.ankitn.duckdns.org/iptv/channel/6.ts
 https://etv.ankitn.duckdns.org/iptv/channel/7.ts
 #EXTINF:0 tvg-id="C8.152.ersatztv.org" channel-id="gTIuFAxORkSzpGeL4lMJzQ" channel-number="8" CUID="gTIuFAxORkSzpGeL4lMJzQ" tvg-chno="8" tvg-name="UTV HD" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/CD7E75333B02C6A048B46D772C49F9D1.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", UTV HD
 https://etv.ankitn.duckdns.org/iptv/channel/8.ts
+#EXTINF:0 tvg-id="C9.153.ersatztv.org" channel-id="KctD2wdRxECq43s6HOq6_g" channel-number="9" CUID="KctD2wdRxECq43s6HOq6_g" tvg-chno="9" tvg-name="MUVEE" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/DE0C32D1AE3C8EF5DD0522F875B83326.jpg" group-title="English" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", MUVEE
+https://etv.ankitn.duckdns.org/iptv/channel/9.ts
