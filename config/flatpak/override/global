@@ -1,0 +1,5 @@
+[Context]
+filesystems=~/.local/share/icons:ro;
+
+[Environment]
+XCURSOR_PATH=~/.local/share/icons/
