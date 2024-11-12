@@ -234,20 +234,20 @@ https://jiotv.ankitn.duckdns.org/live/2031.m3u8
 
 #EXTM3U url-tvg="https://etv.ankitn.duckdns.org/iptv/xmltv.xml" x-tvg-url="https://etv.ankitn.duckdns.org/iptv/xmltv.xml"
 #EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="g0QdnhnN5EOvNZS4nE3W7A" channel-number="1" CUID="g0QdnhnN5EOvNZS4nE3W7A" tvg-chno="1" tvg-name="TMKOC" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/23BCA52EC273B5EF3862ABFE0A8DF12C.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TMKOC
-https://etv.ankitn.duckdns.org/iptv/channel/1.ts
+https://etv.ankitn.duckdns.org/iptv/channel/1.m3u8?mode=segmenter
 #EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="S08IHQxf5kq7bGhhHJpNEg" channel-number="2" CUID="S08IHQxf5kq7bGhhHJpNEg" tvg-chno="2" tvg-name="Cartoon Network" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/010AE89163A7C9192E569926372971E4.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Cartoon Network
-https://etv.ankitn.duckdns.org/iptv/channel/2.ts
+https://etv.ankitn.duckdns.org/iptv/channel/2.m3u8?mode=segmenter
 #EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="jwiSTbN8DUyWktZ6uq87-A" channel-number="3" CUID="jwiSTbN8DUyWktZ6uq87-A" tvg-chno="3" tvg-name="TV Ongaku" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/8F151E8F8B4D189C0A882FD6065201D9.jpg" group-title="Music" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Ongaku
-https://etv.ankitn.duckdns.org/iptv/channel/3.ts
+https://etv.ankitn.duckdns.org/iptv/channel/3.m3u8?mode=segmenter
 #EXTINF:0 tvg-id="C4.148.ersatztv.org" channel-id="S8d39wk7X0Sg_gWYkaolOg" channel-number="4" CUID="S8d39wk7X0Sg_gWYkaolOg" tvg-chno="4" tvg-name="TV Kawaii Classic" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/49E9C414E3BA2C86FF3759B7F4499146.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kawaii Classic
-https://etv.ankitn.duckdns.org/iptv/channel/4.ts
+https://etv.ankitn.duckdns.org/iptv/channel/4.m3u8?mode=segmenter
 #EXTINF:0 tvg-id="C5.149.ersatztv.org" channel-id="6nVRVlgvnEmE0CCir5d5Cw" channel-number="5" CUID="6nVRVlgvnEmE0CCir5d5Cw" tvg-chno="5" tvg-name="TV Kawaii" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/3A7B2A02AB2FEF7FC38F08EBE8F276E2.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kawaii
-https://etv.ankitn.duckdns.org/iptv/channel/5.ts
+https://etv.ankitn.duckdns.org/iptv/channel/5.m3u8?mode=segmenter
 #EXTINF:0 tvg-id="C6.150.ersatztv.org" channel-id="gsevDrAoCEGegNyJoXYozQ" channel-number="6" CUID="gsevDrAoCEGegNyJoXYozQ" tvg-chno="6" tvg-name="TV Kurai Classic" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/AE947025C20B519672CC2290D16E6315.jpg" group-title="English" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kurai Classic
-https://etv.ankitn.duckdns.org/iptv/channel/6.ts
+https://etv.ankitn.duckdns.org/iptv/channel/6.m3u8?mode=segmenter
 #EXTINF:0 tvg-id="C7.151.ersatztv.org" channel-id="o-MbcnOQTkaPQPKVVEu4hg" channel-number="7" CUID="o-MbcnOQTkaPQPKVVEu4hg" tvg-chno="7" tvg-name="TV Kurai" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/0C41ADFE20E188B593B4A613B50A0B42.jpg" group-title="English" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kurai
-https://etv.ankitn.duckdns.org/iptv/channel/7.ts
+https://etv.ankitn.duckdns.org/iptv/channel/7.m3u8?mode=segmenter
 #EXTINF:0 tvg-id="C8.152.ersatztv.org" channel-id="gTIuFAxORkSzpGeL4lMJzQ" channel-number="8" CUID="gTIuFAxORkSzpGeL4lMJzQ" tvg-chno="8" tvg-name="UTV HD" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/CD7E75333B02C6A048B46D772C49F9D1.jpg" group-title="Hindi" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", UTV HD
-https://etv.ankitn.duckdns.org/iptv/channel/8.ts
-#EXTINF:0 tvg-id="C9.153.ersatztv.org" channel-id="KctD2wdRxECq43s6HOq6_g" channel-number="9" CUID="KctD2wdRxECq43s6HOq6_g" tvg-chno="9" tvg-name="MUVEE" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/DE0C32D1AE3C8EF5DD0522F875B83326.jpg" group-title="English" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", MUVEE
-https://etv.ankitn.duckdns.org/iptv/channel/9.ts
+https://etv.ankitn.duckdns.org/iptv/channel/8.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="C9.153.ersatztv.org" channel-id="KctD2wdRxECq43s6HOq6_g" channel-number="9" CUID="KctD2wdRxECq43s6HOq6_g" tvg-chno="9" tvg-name="MUVEE" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/C5D0E4D6FAA46711983353D541AC2201.jpg" group-title="English" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", MUVEE
+https://etv.ankitn.duckdns.org/iptv/channel/9.m3u8?mode=segmenter
