@@ -251,3 +251,5 @@ https://etv.ankitn.duckdns.org/iptv/channel/7.m3u8?mode=segmenter
 https://etv.ankitn.duckdns.org/iptv/channel/8.m3u8?mode=segmenter
 #EXTINF:0 tvg-id="C9.153.ersatztv.org" channel-id="KctD2wdRxECq43s6HOq6_g" channel-number="9" CUID="KctD2wdRxECq43s6HOq6_g" tvg-chno="9" tvg-name="MUVEE" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/C5D0E4D6FAA46711983353D541AC2201.jpg" group-title="English" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", MUVEE
 https://etv.ankitn.duckdns.org/iptv/channel/9.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="C10.193.ersatztv.org" channel-id="BqYCGIrRyESrGojzUpoaYw" channel-number="10" CUID="BqYCGIrRyESrGojzUpoaYw" tvg-chno="10" tvg-name="BingeBox" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/1ECC69AD35E7824AC15AE46BB0D68E58.jpg" group-title="English" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", BingeBox
+https://etv.ankitn.duckdns.org/iptv/channel/10.m3u8?mode=segmenter
