@@ -5,6 +5,8 @@ services:
     restart: unless-stopped
     mem_limit: 512M            
     memswap_limit: 1G 
+    security_opt:
+      - no-new-privileges=true
     dns:
       - 9.9.9.9
       - 1.1.1.1
@@ -47,6 +49,8 @@ services:
     restart: always
     mem_limit: 4G
     memswap_limit: 4G
+    security_opt:
+      - no-new-privileges=true
     dns:
       - 9.9.9.11
       - 1.1.1.1
@@ -79,8 +83,10 @@ services:
     restart: unless-stopped
     devices:
       - /dev/dri/renderD128:/dev/dri/renderD128
-    mem_limit: 2G            
+    mem_limit: 4G            
     memswap_limit: 4G 
+    security_opt:
+      - no-new-privileges=true
     dns:
       - 9.9.9.9
       - 1.1.1.1
@@ -105,6 +111,10 @@ services:
         source: ${TV_SHOWS_LOCATION}
         target: /media/TV_Shows
         read_only: true
+      - type: bind
+        source: ${MUSIC_LOCATION}
+        target: /media/Music
+        read_only: true
     ports:
       - "8096:8096"
 
@@ -114,10 +124,12 @@ services:
     restart: always
     devices:
       - /dev/dri/renderD128:/dev/dri/renderD128
-    mem_limit: 2G            
+    mem_limit: 4G            
     memswap_limit: 4G 
+    security_opt:
+      - no-new-privileges=true
     dns:
-      - 9.9.9.9
+      - 9.9.9.11
       - 1.1.1.1
     labels:
       - 'traefik.enable=true'
@@ -138,8 +150,12 @@ services:
         target: /mnt/Fillers
         read_only: true
       - type: bind
-        source: ${MUSIC_LOCATION}
+        source: ${MUSIC_VIDEOS_LOCATION}
         target: /mnt/Music
+        read_only: true
+      - type: bind
+        source: ${MUSIC_LOCATION}
+        target: /mnt/Songs
         read_only: true
       
   redlib:
@@ -148,6 +164,8 @@ services:
     restart: always
     mem_limit: 512M            
     memswap_limit: 1G 
+    security_opt:
+      - no-new-privileges=true
     dns:
       - 9.9.9.11
       - 1.1.1.1
@@ -157,30 +175,16 @@ services:
       - 'traefik.http.routers.redlib.entryPoints=websecure'
     env_file: redlib.env
 
-  yt-local:
-    container_name: "yt-local"
-    image: docker.io/rusian/yt-local
-    restart: always
-    mem_limit: 512M            
-    memswap_limit: 1G 
-    tty: true
-    dns:
-      - 9.9.9.11
-      - 1.1.1.1
-    labels:
-      - 'traefik.enable=true'
-      - 'traefik.http.routers.yt-local.rule=Host(`yt.${MY_DOMAIN}`)'
-      - 'traefik.http.routers.yt-local.entryPoints=websecure'
-    env_file: yt-local.env
-
   jiotv:
     container_name: "jiotv"
     image: ghcr.io/jiotv-go/jiotv_go
     restart: unless-stopped
     mem_limit: 512M            
     memswap_limit: 1G
+    security_opt:
+      - no-new-privileges=true
     dns:
-      - 9.9.9.9
+      - 9.9.9.11
       - 1.1.1.1
     volumes:
       - type: bind
@@ -194,3 +198,140 @@ services:
     environment:
       - JIOTV_EPG=true
       - JIOTV_DRM=true
+
+  tunarr:
+    container_name: tunarr
+    image: docker.io/chrisbenincasa/tunarr:latest-vaapi
+    restart: always
+    devices:
+      - /dev/dri/renderD128:/dev/dri/renderD128
+    mem_limit: 4G            
+    memswap_limit: 4G 
+    security_opt:
+      - no-new-privileges=true
+    dns:
+      - 9.9.9.11
+      - 1.1.1.1
+    labels:
+      - 'traefik.enable=true'
+      - 'traefik.http.routers.tunarr.rule=Host(`tunarr.${MY_DOMAIN}`)'
+      - 'traefik.http.routers.tunarr.entryPoints=websecure'
+      - "traefik.http.services.tunarr.loadbalancer.server.port=8000"
+    environment:
+      TZ: Asia/Kolkata
+      Bugsnag:Enable: false 
+    volumes:
+      - type: bind
+        source: ${CONFIG_LOCATION}/Tunarr
+        target: /config/tunarr
+
+  invidious:
+    container_name: invidious
+    image: quay.io/invidious/invidious:latest
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    mem_limit: 1G       
+    memswap_limit: 1G
+    security_opt:
+      - no-new-privileges=true
+    dns:
+      - 9.9.9.11
+      - 1.1.1.1
+    labels:
+      - 'traefik.enable=true'
+      - 'traefik.http.routers.iv.rule=Host(`iv.${MY_DOMAIN}`)'
+      - 'traefik.http.routers.iv.entryPoints=websecure'
+      - "traefik.http.services.iv.loadbalancer.server.port=3000"
+    environment:
+      INVIDIOUS_CONFIG: |
+        db:
+          dbname: invidious
+          user: anki
+          password: anki
+          host: invidious-db
+          port: 5432
+        check_tables: true
+        signature_server: inv_sig_helper:12999
+        visitor_data: CHANGE_ME!
+        po_token: CHANGE_ME!
+        port: 3000
+        external_port: 443
+        https_only: true
+        domain: iv.${MY_DOMAIN}
+        hmac_key: "CHANGE_ME!"
+        quality: dash
+        region: GB
+      healthcheck:
+      test: wget -nv --tries=1 --spider http://127.0.0.1:3000/api/v1/trending || exit 1
+      interval: 30s
+      timeout: 5s
+      retries: 2
+    logging:
+      options:
+        max-size: "1G"
+        max-file: "4"
+    depends_on:
+      - invidious-db
+
+  inv_sig_helper:
+    container_name: invidious_signer
+    image: quay.io/invidious/inv-sig-helper:latest
+    init: true
+    mem_limit: 512M            
+    memswap_limit: 512M 
+    command: ["--tcp", "0.0.0.0:12999"]
+    environment:
+      - RUST_LOG=info
+    restart: unless-stopped
+    cap_drop:
+      - ALL
+    read_only: true
+    security_opt:
+      - no-new-privileges:true
+
+  invidious-db:
+    container_name: invidious-db
+    image: docker.io/library/postgres:14
+    mem_limit: 512M            
+    memswap_limit: 512M 
+    restart: unless-stopped
+    volumes:
+      - type: bind
+        source: ${CONFIG_LOCATION}/invidious/postgresdata
+        target: /var/lib/postgresql/data
+      - type: bind
+        source: ${CONFIG_LOCATION}/invidious/config/sql
+        target: /config/sql
+      - type: bind
+        source: ${CONFIG_LOCATION}/invidious/docker/init-invidious-db.sh
+        target: /docker-entrypoint-initdb.d/init-invidious-db.sh
+    environment:
+      POSTGRES_DB: invidious
+      POSTGRES_USER: anki
+      POSTGRES_PASSWORD: anki
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $$POSTGRES_USER -d $$POSTGRES_DB"]
+
+  materialious:
+    container_name: matrialious
+    image: wardpearce/materialious:latest
+    mem_limit: 512M            
+    memswap_limit: 512M 
+    restart: unless-stopped
+    ports:
+      - 3001:80
+    labels:
+      - 'traefik.enable=true'
+      - 'traefik.http.routers.yt.rule=Host(`yt.${MY_DOMAIN}`)'
+      - 'traefik.http.routers.yt.entryPoints=websecure'
+      - "traefik.http.services.yt.loadbalancer.server.port=80"
+    environment:
+      VITE_DEFAULT_INVIDIOUS_INSTANCE: "https://iv.${MY_DOMAIN}"
+      VITE_DEFAULT_RETURNYTDISLIKES_INSTANCE: "https://returnyoutubedislikeapi.com"
+      VITE_DEFAULT_SPONSERBLOCK_INSTANCE: "https://sponsor.ajay.app"
+      VITE_DEFAULT_DEARROW_INSTANCE: "https://sponsor.ajay.app"
+      VITE_DEFAULT_DEARROW_THUMBNAIL_INSTANCE: "https://dearrow-thumb.ajay.app"
+      VITE_DEFAULT_SETTINGS: '{"themeColor": "#2596be","region": "US"}'
+      VITE_DEFAULT_DASH_BITRATE: -1
+      VITE_DEFAULT_DOWNLOAD_ENABLED: false
