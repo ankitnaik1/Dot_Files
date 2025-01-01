@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://jiotv.ankitn.duckdns.org/epg.xml.gz"
+#EXTM3U url-tvg="https://etv.ankitn.duckdns.org/iptv/xmltv.xml" x-tvg-url="https://etv.ankitn.duckdns.org/iptv/xmltv.xml"
 
 #EXTINF:-1 tvg-id=291 tvg-name="SET HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yaFKAY6M.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", SET HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
@@ -180,9 +180,6 @@ https://jiotv.ankitn.duckdns.org/live/1226.m3u8
 
 #EXTINF:-1 tvg-id=2258 tvg-name="Animax" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Animax.png" tvg-language="English" tvg-type="Entertainment" group-title="English", Animax
 https://jiotv.ankitn.duckdns.org/live/2258.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-60faf9ddfcc1f200070a5932" tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a59colorLogoPNG.png" group-title="English" tvg-chno="3910",Garfield and Friends
-https://jmp2.uk/plu-60faf9ddfcc1f200070a5932-alt.m3u8
 
 #INFOTAINMENT
 
