@@ -36,6 +36,9 @@ https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 tvg-id=2078 channel-number="12" tvg-chno="12" tvg-name="Shemaroo Umang" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Shemaroo_Umang.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Shemaroo Umang
 https://jiotv.ankitn.duckdns.org/live/2078.m3u8
 
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeecinemahd
+
 #EXTINF:-1 tvg-id=80 channel-number="13" tvg-chno="13" tvg-name="Sony Max HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Sony Max HD
 https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
@@ -212,6 +215,9 @@ https://jiotv.ankitn.duckdns.org/live/568.m3u8
 https://jiotv.ankitn.duckdns.org/live/578.m3u8
 
 #LIFESTYLE
+
+#EXTINF:-1 tvg-id="0-9-348" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",Zee Zest HD
+http://zee5.ankitn.duckdns.org/index.php?id=0-9-348
 
 #EXTINF:-1 tvg-id=479 channel-number="68" tvg-chno="68" tvg-name="TLC HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/TLC_HD_World.png" tvg-language="English" tvg-type="Lifestyle" group-title="All", TLC HD
 https://jiotv.ankitn.duckdns.org/live/479.m3u8
