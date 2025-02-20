@@ -155,6 +155,9 @@ https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #ENGLISH
 
+#EXTINF:-1 tvg-id="0-9-9z5543514" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",&Prive HD
+http://zee5.ankitn.duckdns.org/index.php?id=0-9-9z5543514
+
 #EXTINF:-1 tvg-id="1530" channel-number="49" tvg-chno="49" tvg-name="Sony Pix HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1Akqg656.png" tvg-language="English" tvg-type="Movies" group-title="All", Sony Pix HD
 https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
