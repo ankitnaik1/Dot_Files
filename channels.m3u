@@ -3,6 +3,15 @@
 #EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="g0QdnhnN5EOvNZS4nE3W7A" channel-number="1" CUID="g0QdnhnN5EOvNZS4nE3W7A" tvg-chno="1" tvg-name="TMKOC" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/23BCA52EC273B5EF3862ABFE0A8DF12C.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TMKOC
 https://etv.ankitn.duckdns.org/iptv/channel/1.m3u8?mode=segmenter
 
+#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
+http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeemarathi
+
+#EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png",Zee Yuva
+http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeeyuva
+
+#EXTINF:-1 tvg-id="0-9-394" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Chitramandir.png",Zee Chitramandir
+http://zee5.ankitn.duckdns.org/index.php?id=0-9-394
+
 #EXTINF:-1 tvg-id=755 channel-number="2" tvg-chno="2" tvg-name="Colors Marathi HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="All", Colors Marathi HD
 https://jiotv.ankitn.duckdns.org/live/755.m3u8
 
