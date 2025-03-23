@@ -109,7 +109,7 @@ https://jiotv.ankitn.duckdns.org/live/2935.m3u8
 
 #Music
 
-#EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="jwiSTbN8DUyWktZ6uq87-A" channel-number="30" CUID="jwiSTbN8DUyWktZ6uq87-A" tvg-chno="30" tvg-name="TV Ongaku" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/8F151E8F8B4D189C0A882FD6065201D9.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Ongaku
+#EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="jwiSTbN8DUyWktZ6uq87-A" channel-number="30" CUID="jwiSTbN8DUyWktZ6uq87-A" tvg-chno="30" tvg-name="TV Music" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/8F151E8F8B4D189C0A882FD6065201D9.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Music
 https://etv.ankitn.duckdns.org/iptv/channel/3.m3u8?mode=segmenter
 
 #EXTINF:-1 tvg-id=183 channel-number="31" tvg-chno="31" tvg-name="B4U Music" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="All", B4U Music
