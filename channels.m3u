@@ -15,10 +15,10 @@ http://zee5.ankitn.duckdns.org/index.php?id=0-9-394
 #EXTINF:-1 tvg-id=755 channel-number="2" tvg-chno="2" tvg-name="Colors Marathi HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="All", Colors Marathi HD
 https://jiotv.ankitn.duckdns.org/live/755.m3u8
 
-#EXTINF:-1 tvg-id=1146 channel-number="3" tvg-chno="3" tvg-name="Sony Marathi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ZSS2yZLN.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="All", Sony Marathi
+#EXTINF:-1 tvg-id=1146 channel-number="1146" tvg-chno="1146" tvg-name="Sony Marathi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ZSS2yZLN.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="All", Sony Marathi
 https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
 
-#EXTINF:-1 tvg-id=1452 channel-number="4" tvg-chno="4" tvg-name="Shemaroo MarathiBana" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Shemaroo_MarathiBana.png" tvg-language="Marathi" tvg-type="Movies" group-title="All", Shemaroo MarathiBana
+#EXTINF:-1 tvg-id=1452 channel-number="1452" tvg-chno="1452" tvg-name="Shemaroo MarathiBana" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Shemaroo_MarathiBana.png" tvg-language="Marathi" tvg-type="Movies" group-title="All", Shemaroo MarathiBana
 https://jiotv.ankitn.duckdns.org/live/1452.m3u8
 
 #EXTINF:-1 tvg-id=2424 channel-number="5" tvg-chno="5" tvg-name="Sun Marathi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Sun_Marathi.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="All", Sun Marathi
