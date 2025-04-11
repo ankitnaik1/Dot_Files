@@ -1,7 +1,7 @@
-#EXTM3U url-tvg="https://etv.ankitn.duckdns.org/iptv/xmltv.xml" x-tvg-url="https://etv.ankitn.duckdns.org/iptv/xmltv.xml"
+#EXTM3U url-tvg="http://192.168.1.111:8003/iptv/xmltv.xml" x-tvg-url="http://192.168.1.111:8003/iptv/xmltv.xml"
 
-#EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="g0QdnhnN5EOvNZS4nE3W7A" channel-number="1" CUID="g0QdnhnN5EOvNZS4nE3W7A" tvg-chno="1" tvg-name="TMKOC" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/23BCA52EC273B5EF3862ABFE0A8DF12C.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TMKOC
-https://etv.ankitn.duckdns.org/iptv/channel/1.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="g0QdnhnN5EOvNZS4nE3W7A" channel-number="1" CUID="g0QdnhnN5EOvNZS4nE3W7A" tvg-chno="1" tvg-name="TMKOC" tvg-logo="http://192.168.1.111:8003/iptv/logos/23BCA52EC273B5EF3862ABFE0A8DF12C.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TMKOC
+http://192.168.1.111:8003/iptv/channel/1.m3u8?mode=segmenter
 
 #EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
 http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeemarathi
@@ -81,17 +81,17 @@ https://jiotv.ankitn.duckdns.org/live/3088.m3u8
 #EXTINF:-1 tvg-id="1000001971" channel-number="21" tvg-chno="21" tvg-name="Sony Yay Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" tvg-language="Hindi" tvg-type="Kids" group-title="All", Sony Yay Hindi
 https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
-#EXTINF:0 tvg-id="C8.152.ersatztv.org" channel-id="gTIuFAxORkSzpGeL4lMJzQ" channel-number="22" CUID="gTIuFAxORkSzpGeL4lMJzQ" tvg-chno="22" tvg-name="UTV HD" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/CD7E75333B02C6A048B46D772C49F9D1.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", UTV HD
-https://etv.ankitn.duckdns.org/iptv/channel/8.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="C8.152.ersatztv.org" channel-id="gTIuFAxORkSzpGeL4lMJzQ" channel-number="22" CUID="gTIuFAxORkSzpGeL4lMJzQ" tvg-chno="22" tvg-name="UTV HD" tvg-logo="http://192.168.1.111:8003/iptv/logos/CD7E75333B02C6A048B46D772C49F9D1.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", UTV HD
+http://192.168.1.111:8003/iptv/channel/8.m3u8?mode=segmenter
 
-#EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="S08IHQxf5kq7bGhhHJpNEg" channel-number="23" CUID="S08IHQxf5kq7bGhhHJpNEg" tvg-chno="23" tvg-name="Cartoon Network" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/010AE89163A7C9192E569926372971E4.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Cartoon Network
-https://etv.ankitn.duckdns.org/iptv/channel/2.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="S08IHQxf5kq7bGhhHJpNEg" channel-number="23" CUID="S08IHQxf5kq7bGhhHJpNEg" tvg-chno="23" tvg-name="Cartoon Network" tvg-logo="http://192.168.1.111:8003/iptv/logos/010AE89163A7C9192E569926372971E4.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Cartoon Network
+http://192.168.1.111:8003/iptv/channel/2.m3u8?mode=segmenter
 
-#EXTINF:0 tvg-id="C4.148.ersatztv.org" channel-id="S8d39wk7X0Sg_gWYkaolOg" channel-number="24" CUID="S8d39wk7X0Sg_gWYkaolOg" tvg-chno="24" tvg-name="TV Kawaii Classic" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/49E9C414E3BA2C86FF3759B7F4499146.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kawaii Classic
-https://etv.ankitn.duckdns.org/iptv/channel/4.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="C4.148.ersatztv.org" channel-id="S8d39wk7X0Sg_gWYkaolOg" channel-number="24" CUID="S8d39wk7X0Sg_gWYkaolOg" tvg-chno="24" tvg-name="TV Kawaii Classic" tvg-logo="http://192.168.1.111:8003/iptv/logos/49E9C414E3BA2C86FF3759B7F4499146.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kawaii Classic
+http://192.168.1.111:8003/iptv/channel/4.m3u8?mode=segmenter
 
-#EXTINF:0 tvg-id="C5.149.ersatztv.org" channel-id="6nVRVlgvnEmE0CCir5d5Cw" channel-number="25" CUID="6nVRVlgvnEmE0CCir5d5Cw" tvg-chno="25" tvg-name="TV Kawaii" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/3A7B2A02AB2FEF7FC38F08EBE8F276E2.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kawaii
-https://etv.ankitn.duckdns.org/iptv/channel/5.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="C5.149.ersatztv.org" channel-id="6nVRVlgvnEmE0CCir5d5Cw" channel-number="25" CUID="6nVRVlgvnEmE0CCir5d5Cw" tvg-chno="25" tvg-name="TV Kawaii" tvg-logo="http://192.168.1.111:8003/iptv/logos/3A7B2A02AB2FEF7FC38F08EBE8F276E2.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kawaii
+http://192.168.1.111:8003/iptv/channel/5.m3u8?mode=segmenter
 
 #News
 
@@ -109,8 +109,8 @@ https://jiotv.ankitn.duckdns.org/live/2935.m3u8
 
 #Music
 
-#EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="jwiSTbN8DUyWktZ6uq87-A" channel-number="30" CUID="jwiSTbN8DUyWktZ6uq87-A" tvg-chno="30" tvg-name="TV Music" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/8F151E8F8B4D189C0A882FD6065201D9.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Music
-https://etv.ankitn.duckdns.org/iptv/channel/3.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="jwiSTbN8DUyWktZ6uq87-A" channel-number="30" CUID="jwiSTbN8DUyWktZ6uq87-A" tvg-chno="30" tvg-name="TV Music" tvg-logo="http://192.168.1.111:8003/iptv/logos/8F151E8F8B4D189C0A882FD6065201D9.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Music
+http://192.168.1.111:8003/iptv/channel/3.m3u8?mode=segmenter
 
 #EXTINF:-1 tvg-id=183 channel-number="31" tvg-chno="31" tvg-name="B4U Music" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="All", B4U Music
 https://jiotv.ankitn.duckdns.org/live/183.m3u8 
@@ -185,11 +185,11 @@ https://jiotv.ankitn.duckdns.org/live/1157.m3u8
 #EXTINF:-1 tvg-id=1158 channel-number="52" tvg-chno="52" tvg-name="Colors Infinity HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="All", Colors Infinity HD
 https://jiotv.ankitn.duckdns.org/live/1158.m3u8
 
-#EXTINF:0 tvg-id="C9.153.ersatztv.org" channel-id="KctD2wdRxECq43s6HOq6_g" channel-number="53" CUID="KctD2wdRxECq43s6HOq6_g" tvg-chno="53" tvg-name="MUVEE" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/C5D0E4D6FAA46711983353D541AC2201.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", MUVEE
-https://etv.ankitn.duckdns.org/iptv/channel/9.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="C9.153.ersatztv.org" channel-id="KctD2wdRxECq43s6HOq6_g" channel-number="53" CUID="KctD2wdRxECq43s6HOq6_g" tvg-chno="53" tvg-name="MUVEE" tvg-logo="http://192.168.1.111:8003/iptv/logos/C5D0E4D6FAA46711983353D541AC2201.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", MUVEE
+http://192.168.1.111:8003/iptv/channel/9.m3u8?mode=segmenter
 
-#EXTINF:0 tvg-id="C10.193.ersatztv.org" channel-id="ahe3S0WsZUi2NhbRawgZWg" channel-number="54" CUID="ahe3S0WsZUi2NhbRawgZWg" tvg-chno="54" tvg-name="HBO" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/EDB7662AAE3086F05A92D744BFEE2607.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", HBO
-https://etv.ankitn.duckdns.org/iptv/channel/10.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="C10.193.ersatztv.org" channel-id="ahe3S0WsZUi2NhbRawgZWg" channel-number="54" CUID="ahe3S0WsZUi2NhbRawgZWg" tvg-chno="54" tvg-name="HBO" tvg-logo="http://192.168.1.111:8003/iptv/logos/EDB7662AAE3086F05A92D744BFEE2607.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", HBO
+http://192.168.1.111:8003/iptv/channel/10.m3u8?mode=segmenter
 
 #EXTINF:-1 tvg-id=1320 channel-number="55" tvg-chno="55" tvg-name="VH1 HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/VH1_HD.png" tvg-language="English" tvg-type="Music" group-title="All", VH1 HD
 https://jiotv.ankitn.duckdns.org/live/1320.m3u8
@@ -203,11 +203,11 @@ https://jiotv.ankitn.duckdns.org/live/1226.m3u8
 #EXTINF:-1 tvg-id=2258 channel-number="58" tvg-chno="58" tvg-name="Animax" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Animax.png" tvg-language="English" tvg-type="Entertainment" group-title="All", Animax
 https://jiotv.ankitn.duckdns.org/live/2258.m3u8
 
-#EXTINF:0 tvg-id="C6.150.ersatztv.org" channel-id="gsevDrAoCEGegNyJoXYozQ" channel-number="59" CUID="gsevDrAoCEGegNyJoXYozQ" tvg-chno="59" tvg-name="TV Kurai Classic" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/AE947025C20B519672CC2290D16E6315.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kurai Classic
-https://etv.ankitn.duckdns.org/iptv/channel/6.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="C6.150.ersatztv.org" channel-id="gsevDrAoCEGegNyJoXYozQ" channel-number="59" CUID="gsevDrAoCEGegNyJoXYozQ" tvg-chno="59" tvg-name="TV Kurai Classic" tvg-logo="http://192.168.1.111:8003/iptv/logos/AE947025C20B519672CC2290D16E6315.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kurai Classic
+http://192.168.1.111:8003/iptv/channel/6.m3u8?mode=segmenter
 
-#EXTINF:0 tvg-id="C7.151.ersatztv.org" channel-id="o-MbcnOQTkaPQPKVVEu4hg" channel-number="60" CUID="o-MbcnOQTkaPQPKVVEu4hg" tvg-chno="60" tvg-name="TV Kurai" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/0C41ADFE20E188B593B4A613B50A0B42.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kurai
-https://etv.ankitn.duckdns.org/iptv/channel/7.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="C7.151.ersatztv.org" channel-id="o-MbcnOQTkaPQPKVVEu4hg" channel-number="60" CUID="o-MbcnOQTkaPQPKVVEu4hg" tvg-chno="60" tvg-name="TV Kurai" tvg-logo="http://192.168.1.111:8003/iptv/logos/0C41ADFE20E188B593B4A613B50A0B42.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kurai
+http://192.168.1.111:8003/iptv/channel/7.m3u8?mode=segmenter
 
 #INFOTAINMENT
 
