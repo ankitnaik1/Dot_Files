@@ -257,3 +257,6 @@ https://jiotv.ankitn.duckdns.org/live/1598.m3u8
 
 #EXTINF:-1 tvg-id=2031 channel-number="74" tvg-chno="74" tvg-name="Fashion India" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Fashion_India.png" tvg-language="English" tvg-type="Lifestyle" group-title="All", Fashion India
 https://jiotv.ankitn.duckdns.org/live/2031.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.ggpht.com/pGaw6mggHH6vv64LoOdZdJ-KB9zbiw0un7xCRPVi5uYS0RVpA-B2pTgJmQNQZdLk7rS91fcTerU=s88-c-k-c0x00ffffff-no-rj", Pudari
+http://api.m3use.projectmoose.xyz/m3u/ankit/youtube/67fb6be7101d0e1d92a0829d.m3u8
