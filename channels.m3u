@@ -107,6 +107,9 @@ http://192.168.1.111:8003/iptv/channel/6.m3u8?mode=segmenter
 #EXTINF:0 tvg-id="C7.151.ersatztv.org" channel-id="o-MbcnOQTkaPQPKVVEu4hg" channel-number="60" CUID="o-MbcnOQTkaPQPKVVEu4hg" tvg-chno="60" tvg-name="TV Kurai" tvg-logo="http://192.168.1.111:8003/iptv/logos/0C41ADFE20E188B593B4A613B50A0B42.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kurai
 http://192.168.1.111:8003/iptv/channel/7.m3u8?mode=segmenter
 
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQi6OdyFZuYYcyvbaOhi917UXcDFCqiZjMy1mIxsEzoGbvVC61r0oSynB4YDogAHG6GzJm9", G.I. JOE: A Real American Hero
+http://api.m3use.projectmoose.xyz/m3u/ankit/youtube/67fc07f0d6905f04f628b2dc.m3u8⏎
+
 #INFOTAINMENT
 
 #EXTINF:-1 tvg-id="" channel-number="61" tvg-chno="61" tvg-name="Sony BBC Earth HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qrQ8Ti1k.png" tvg-language="English" tvg-type="Infotainment" group-title="All", Sony BBC Earth HD
@@ -116,4 +119,9 @@ https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
 #EXTINF:-1 tvg-id="0-9-348" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",Zee Zest HD
 http://zee5.ankitn.duckdns.org/index.php?id=0-9-348
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.ggpht.com/9I7fNFT-VDxb5_Yaw4Pq0T998tMSOnGONesAllPZd3g8csC3WvY4sc0OrkWh7CoxKN0AhUsgXQ=s88-c-k-c0x00ffffff-no-rj", Shift Swim
+http://api.m3use.projectmoose.xyz/m3u/ankit/youtube/67fb6df72dcd3140dfeb94ca.m3u8
+
+
 
