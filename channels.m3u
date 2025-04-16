@@ -30,7 +30,7 @@ http://192.168.1.111:8005/live/high/144.m3u8
 #EXTINF:-1 tvg-id=291 channel-number="6" tvg-chno="6" tvg-name="SET HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yaFKAY6M.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", SET HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
-#EXTINF:-1 tvg-id="1000009248" channel-number="7" tvg-chno="7" tvg-name="Sony SAB HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Sony SAB HD
+#EXTINF:-1 tvg-id=471 channel-number="7" tvg-chno="7" tvg-name="Sony SAB HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Sony SAB HD
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
 #EXTINF:-1 tvg-id=474 channel-number="11" tvg-chno="11" tvg-name="Sony Pal" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/n8OECjuJ.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Sony Pal
@@ -39,7 +39,7 @@ https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeecinemahd
 
-#EXTINF:-1 tvg-id=80 channel-number="13" tvg-chno="13" tvg-name="Sony Max HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Sony Max HD
+#EXTINF:-1 tvg-id=47 channel-number="13" tvg-chno="13" tvg-name="Sony Max HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Sony Max HD
 https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
 #EXTINF:-1 tvg-id="1000044878" channel-number="14" tvg-chno="14" tvg-name="Sony MAX2" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Sony MAX2
