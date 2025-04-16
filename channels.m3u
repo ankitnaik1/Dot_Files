@@ -6,6 +6,9 @@ http://192.168.1.111:8003/iptv/channel/1.m3u8?mode=segmenter
 #EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
 http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeemarathi
 
+#EXTINF:-1 tvg-id=755 tvg-name="Colors Marathi HD" tvg-logo="http://192.168.1.111:8005/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="All", Colors Marathi HD
+http://192.168.1.111:8005/live/high/755.m3u8
+
 #EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png",Zee Yuva
 http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeeyuva
 
@@ -20,6 +23,9 @@ http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeetvhd
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",&TV HD
 http://zee5.ankitn.duckdns.org/index.php?id=0-9-tvhd_0
+
+#EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.1.111:8005/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Colors HD
+http://192.168.1.111:8005/live/high/144.m3u8
 
 #EXTINF:-1 tvg-id=291 channel-number="6" tvg-chno="6" tvg-name="SET HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yaFKAY6M.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", SET HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
@@ -120,8 +126,17 @@ https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 #EXTINF:-1 tvg-id="0-9-348" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",Zee Zest HD
 http://zee5.ankitn.duckdns.org/index.php?id=0-9-348
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.ggpht.com/9I7fNFT-VDxb5_Yaw4Pq0T998tMSOnGONesAllPZd3g8csC3WvY4sc0OrkWh7CoxKN0AhUsgXQ=s88-c-k-c0x00ffffff-no-rj", Shift Swim
+#EXTINF:-1 tvg-id=562 tvg-name="Travelxp HD Hindi" tvg-logo="http://192.168.1.111:8005/jtvimage/Travel_XP.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="All", Travelxp HD Hindi
+http://192.168.1.111:8005/live/high/562.m3u8
+
+#EXTINF:-1 tvg-id=479 tvg-name="TLC HD" tvg-logo="http://192.168.1.111:8005/jtvimage/TLC_HD_World.png" tvg-language="English" tvg-type="Lifestyle" group-title="All", TLC HD
+http://192.168.1.111:8005/live/high/479.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="All" tvg-logo="https://yt3.ggpht.com/9I7fNFT-VDxb5_Yaw4Pq0T998tMSOnGONesAllPZd3g8csC3WvY4sc0OrkWh7CoxKN0AhUsgXQ=s88-c-k-c0x00ffffff-no-rj", Shift Swim
 http://api.m3use.projectmoose.xyz/m3u/ankit/youtube/67fb6df72dcd3140dfeb94ca.m3u8
 
+#EXTINF:-1 tvg-id=1598 tvg-name="FTV HD" tvg-logo="http://192.168.1.111:8005/jtvimage/FTV_HD.png" tvg-language="English" tvg-type="Lifestyle" group-title="All", FTV HD
+http://192.168.1.111:8005/live/high/1598.m3u8
 
-
+#EXTINF:-1 tvg-id=2031 tvg-name="Fashion India" tvg-logo="http://192.168.1.111:8005/jtvimage/Fashion_India.png" tvg-language="English" tvg-type="Lifestyle" group-title="All", Fashion India
+http://192.168.1.111:8005/live/high/2031.m3u8
