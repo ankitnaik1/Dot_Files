@@ -113,7 +113,7 @@ http://192.168.1.111:8003/iptv/channel/6.m3u8?mode=segmenter
 #EXTINF:0 tvg-id="C7.151.ersatztv.org" channel-id="o-MbcnOQTkaPQPKVVEu4hg" channel-number="60" CUID="o-MbcnOQTkaPQPKVVEu4hg" tvg-chno="60" tvg-name="TV Kurai" tvg-logo="http://192.168.1.111:8003/iptv/logos/0C41ADFE20E188B593B4A613B50A0B42.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kurai
 http://192.168.1.111:8003/iptv/channel/7.m3u8?mode=segmenter
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQi6OdyFZuYYcyvbaOhi917UXcDFCqiZjMy1mIxsEzoGbvVC61r0oSynB4YDogAHG6GzJm9", G.I. JOE: A Real American Hero
+#EXTINF:-1 tvg-id="" group-title="All" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQi6OdyFZuYYcyvbaOhi917UXcDFCqiZjMy1mIxsEzoGbvVC61r0oSynB4YDogAHG6GzJm9", G.I. JOE: A Real American Hero
 http://api.m3use.projectmoose.xyz/m3u/ankit/youtube/67fc07f0d6905f04f628b2dc.m3u8⏎
 
 #INFOTAINMENT
