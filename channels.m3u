@@ -72,12 +72,6 @@ http://192.168.1.111:8003/iptv/channel/3.m3u8?mode=segmenter
 
 #Sports
 
-#EXTINF:-1 tvg-id="1540040219" tvg-name="Jiohotstar" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="All", Jiohotstar 2
-https://ee4ee8c03a26.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.755921704393.channel.LOohfipmCQDP.m3u8
-
-#EXTINF:-1 tvg-id="1540040219" tvg-name="Jiohotstar" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="All", Jiohotstar
-https://vkvsd97.okcdn.ru/cmaf/6284521179692/sig/6djykAt7vHg/srcIp/172.69.95.169/urls/185.226.55.76/expires/1744995700419/clientType/13/srcAg/CHROME/fromCache/1/mid/7202410343212/id/6284521179692/get/hls_7202410343212.nfi4tBBFHUk.m3u8
-
 #EXTINF:-1 tvg-id="1000009276" channel-number="44" tvg-chno="44" tvg-name="Sony Ten 1 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" tvg-language="English" tvg-type="Sports" group-title="All", Sony Ten 1 HD
 https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 
@@ -86,9 +80,6 @@ https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 
 #EXTINF:-1 tvg-id="1000009278" channel-number="46" tvg-chno="46" tvg-name="Sony Ten 3 HD Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" tvg-language="Hindi" tvg-type="Sports" group-title="All", Sony Ten 3 HD Hindi
 https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-
-#EXTINF:-1 tvg-id="1000119186" channel-number="47" tvg-chno="47" tvg-name="Sony Ten 4 HD Telugu" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" tvg-language="Telugu" tvg-type="Sports" group-title="All", Sony Ten 4 HD Telugu
-https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 
 #EXTINF:-1 tvg-id="1000009275" channel-number="48" tvg-chno="48" tvg-name="Sony Ten 5 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" tvg-language="English" tvg-type="Sports" group-title="All", Sony Ten 5 HD
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
