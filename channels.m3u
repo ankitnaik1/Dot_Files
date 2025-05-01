@@ -70,6 +70,9 @@ http://api.m3use.projectmoose.xyz/m3u/ankit/youtube/67fb6be7101d0e1d92a0829d.m3u
 #EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="jwiSTbN8DUyWktZ6uq87-A" channel-number="30" CUID="jwiSTbN8DUyWktZ6uq87-A" tvg-chno="30" tvg-name="TV Music" tvg-logo="http://192.168.1.111:8003/iptv/logos/8F151E8F8B4D189C0A882FD6065201D9.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Music
 http://192.168.1.111:8003/iptv/channel/3.m3u8?mode=segmenter
 
+#EXTINF:-1 tvg-id=183 tvg-name="B4U Music" tvg-logo="http://192.168.1.111:8005/jtvimage/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="All", B4U Music
+http://192.168.1.111:8005/live/high/183.m3u8
+
 #Sports
 
 #EXTINF:-1 tvg-id="1000009276" channel-number="44" tvg-chno="44" tvg-name="Sony Ten 1 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" tvg-language="English" tvg-type="Sports" group-title="All", Sony Ten 1 HD
