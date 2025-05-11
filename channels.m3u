@@ -65,6 +65,9 @@ http://192.168.1.111:8003/iptv/channel/5.m3u8?mode=segmenter
 #EXTINF:-1 tvg-id="" group-title="All" tvg-logo="https://yt3.ggpht.com/pGaw6mggHH6vv64LoOdZdJ-KB9zbiw0un7xCRPVi5uYS0RVpA-B2pTgJmQNQZdLk7rS91fcTerU=s88-c-k-c0x00ffffff-no-rj", Pudhari News
 http://api.m3use.projectmoose.xyz/m3u/ankit/youtube/67fb6be7101d0e1d92a0829d.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="All" tvg-logo="https://yt3.googleusercontent.com/4-w44catDebzaDSUWgereql0G5_z5o7VpJXuIYL_eZ3H1vXy0lTmrole9V500jTUXCnQPZ5CuKQ=s160-c-k-c0x00ffffff-no-rj", Bloomberg Television
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec37366b6d4c4c757bc21b.m3u8
+
 #Music
 
 #EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="jwiSTbN8DUyWktZ6uq87-A" channel-number="30" CUID="jwiSTbN8DUyWktZ6uq87-A" tvg-chno="30" tvg-name="TV Music" tvg-logo="http://192.168.1.111:8003/iptv/logos/8F151E8F8B4D189C0A882FD6065201D9.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Music
