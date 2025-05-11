@@ -138,5 +138,5 @@ http://192.168.1.111:8005/live/high/1598.m3u8
 #EXTINF:-1 tvg-id=2031 tvg-name="Fashion India" tvg-logo="http://192.168.1.111:8005/jtvimage/Fashion_India.png" tvg-language="English" tvg-type="Lifestyle" group-title="All", Fashion India
 http://192.168.1.111:8005/live/high/2031.m3u8
 
-#EXTINF:-1 tvg-id="C1.49.tunarr.com" channel-id="C1.49.tunarr.com" CUID="C1.49.tunarr.com" tvg-chno="1" tvg-name="Channel 1" tvg-logo="http://tunarr.ankitn.duckdns.org/images/tunarr.png" group-title="tunarr",Channel 1
+#EXTINF:-1 tvg-id="C1.49.tunarr.com" channel-id="C1.49.tunarr.com" CUID="C1.49.tunarr.com" tvg-chno="1" tvg-name="Channel 1" tvg-logo="http://tunarr.ankitn.duckdns.org/images/tunarr.png" group-title="All",Channel 1
 http://tunarr.ankitn.duckdns.org/stream/channels/0abfb41e-bd90-4d96-a360-b691900142b3?streamMode=hls
