@@ -140,3 +140,6 @@ http://192.168.1.111:8005/live/high/2031.m3u8
 
 #EXTINF:-1 tvg-id="C1.49.tunarr.com" channel-id="C1.49.tunarr.com" CUID="C1.49.tunarr.com" tvg-chno="1" tvg-name="Channel 1" tvg-logo="http://192.168.1.111:8010/images/tunarr.png" group-title="All",Channel 1
 http://192.168.1.111:8010/stream/channels/0abfb41e-bd90-4d96-a360-b691900142b3?streamMode=hls
+
+#EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="1L56hX9LDkSFUXBh8hgmrQ" channel-number="1" CUID="1L56hX9LDkSFUXBh8hgmrQ" tvg-chno="1" tvg-name="UTV Movies" tvg-logo="http://192.168.1.111:8003/iptv/logos/gen?text=UTV+Movies" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", UTV Movies
+http://192.168.1.111:8003/iptv/channel/1.m3u8?mode=hls-direct
