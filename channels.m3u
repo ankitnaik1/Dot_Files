@@ -1,7 +1,10 @@
 #EXTM3U url-tvg="http://192.168.1.111:8003/iptv/xmltv.xml" x-tvg-url="http://192.168.1.111:8003/iptv/xmltv.xml"
 
-#EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="g0QdnhnN5EOvNZS4nE3W7A" channel-number="1" CUID="g0QdnhnN5EOvNZS4nE3W7A" tvg-chno="1" tvg-name="TMKOC" tvg-logo="http://192.168.1.111:8003/iptv/logos/23BCA52EC273B5EF3862ABFE0A8DF12C.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TMKOC
+#EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="4RdHDaLBHkOvH3T01a5iEg" channel-number="1" CUID="4RdHDaLBHkOvH3T01a5iEg" tvg-chno="1" tvg-name="TMKOC" tvg-logo="http://192.168.1.111:8003/iptv/logos/5B271B6C5F0E37EB24A70DB59162AF00.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TMKOC
 http://192.168.1.111:8003/iptv/channel/1.m3u8?mode=segmenter
+
+#EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="1L56hX9LDkSFUXBh8hgmrQ" channel-number="3" CUID="1L56hX9LDkSFUXBh8hgmrQ" tvg-chno="3" tvg-name="UTV Movies" tvg-logo="http://192.168.1.111:8003/iptv/logos/gen?text=UTV+Movies" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", UTV Movies
+http://192.168.1.111:8003/iptv/channel/3.m3u8?mode=segmenter
 
 #EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
 http://192.168.1.111:8007/index.php?id=0-9-zeemarathi
