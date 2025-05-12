@@ -1,10 +1,7 @@
 #EXTM3U url-tvg="http://192.168.1.111:8003/iptv/xmltv.xml" x-tvg-url="http://192.168.1.111:8003/iptv/xmltv.xml"
 
-#EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="4RdHDaLBHkOvH3T01a5iEg" channel-number="1" CUID="4RdHDaLBHkOvH3T01a5iEg" tvg-chno="1" tvg-name="TMKOC" tvg-logo="http://192.168.1.111:8003/iptv/logos/5B271B6C5F0E37EB24A70DB59162AF00.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TMKOC
+#EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="4RdHDaLBHkOvH3T01a5iEg" channel-number="1" CUID="4RdHDaLBHkOvH3T01a5iEg" tvg-chno="1" tvg-name="TMKOC" tvg-logo="http://192.168.1.111:8003/iptv/logos/5B271B6C5F0E37EB24A70DB59162AF00.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", TMKOC
 http://192.168.1.111:8003/iptv/channel/1.m3u8?mode=segmenter
-
-#EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="1L56hX9LDkSFUXBh8hgmrQ" channel-number="3" CUID="1L56hX9LDkSFUXBh8hgmrQ" tvg-chno="3" tvg-name="UTV Movies" tvg-logo="http://192.168.1.111:8003/iptv/logos/gen?text=UTV+Movies" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", UTV Movies
-http://192.168.1.111:8003/iptv/channel/3.m3u8?mode=segmenter
 
 #EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
 http://192.168.1.111:8007/index.php?id=0-9-zeemarathi
@@ -51,17 +48,8 @@ https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF:-1 tvg-id="1000001971" channel-number="21" tvg-chno="21" tvg-name="Sony Yay Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" tvg-language="Hindi" tvg-type="Kids" group-title="All", Sony Yay Hindi
 https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
-#EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="1L56hX9LDkSFUXBh8hgmrQ" channel-number="3" CUID="1L56hX9LDkSFUXBh8hgmrQ" tvg-chno="3" tvg-name="UTV Movies" tvg-logo="http://192.168.1.111:8003/iptv/logos/77122CC8D7CD81DE027E81C1E4434B3C.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Gold
-http://192.168.1.111:8003/iptv/channel/3.m3u8?mode=hls-direct
-
-#EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="S08IHQxf5kq7bGhhHJpNEg" channel-number="23" CUID="S08IHQxf5kq7bGhhHJpNEg" tvg-chno="23" tvg-name="Cartoon Network" tvg-logo="http://192.168.1.111:8003/iptv/logos/010AE89163A7C9192E569926372971E4.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Cartoon Network
-http://192.168.1.111:8003/iptv/channel/2.m3u8?mode=segmenter
-
-#EXTINF:0 tvg-id="C4.148.ersatztv.org" channel-id="S8d39wk7X0Sg_gWYkaolOg" channel-number="24" CUID="S8d39wk7X0Sg_gWYkaolOg" tvg-chno="24" tvg-name="TV Kawaii Classic" tvg-logo="http://192.168.1.111:8003/iptv/logos/49E9C414E3BA2C86FF3759B7F4499146.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kawaii Classic
-http://192.168.1.111:8003/iptv/channel/4.m3u8?mode=segmenter
-
-#EXTINF:0 tvg-id="C5.149.ersatztv.org" channel-id="6nVRVlgvnEmE0CCir5d5Cw" channel-number="25" CUID="6nVRVlgvnEmE0CCir5d5Cw" tvg-chno="25" tvg-name="TV Kawaii" tvg-logo="http://192.168.1.111:8003/iptv/logos/3A7B2A02AB2FEF7FC38F08EBE8F276E2.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kawaii
-http://192.168.1.111:8003/iptv/channel/5.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="1L56hX9LDkSFUXBh8hgmrQ" channel-number="3" CUID="1L56hX9LDkSFUXBh8hgmrQ" tvg-chno="3" tvg-name="UTV Movies" tvg-logo="http://192.168.1.111:8003/iptv/logos/77122CC8D7CD81DE027E81C1E4434B3C.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", UTV Movies
+http://192.168.1.111:8003/iptv/channel/3.m3u8?mode=segmenter
 
 #News
 
