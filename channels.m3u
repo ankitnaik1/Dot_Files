@@ -51,7 +51,7 @@ https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="1L56hX9LDkSFUXBh8hgmrQ" channel-number="3" CUID="1L56hX9LDkSFUXBh8hgmrQ" tvg-chno="3" tvg-name="UTV Movies" tvg-logo="http://192.168.1.111:8003/iptv/logos/77122CC8D7CD81DE027E81C1E4434B3C.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", UTV Movies
 http://192.168.1.111:8003/iptv/channel/3.m3u8?mode=segmenter
 
-#EXTINF:0 tvg-id="C4.148.ersatztv.org" channel-id="Wai96aSUtkWMgnq55UDT0Q" channel-number="4" CUID="Wai96aSUtkWMgnq55UDT0Q" tvg-chno="4" tvg-name="TV Kawaii Classic" tvg-logo="http://192.168.1.111:8003/iptv/logos/C4C666AD659F69B683D8191B5256F014.jpg" group-title="ErsatzTV" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", TV Kawaii Classic
+#EXTINF:0 tvg-id="C4.148.ersatztv.org" channel-id="Wai96aSUtkWMgnq55UDT0Q" channel-number="4" CUID="Wai96aSUtkWMgnq55UDT0Q" tvg-chno="4" tvg-name="TV Kawaii Classic" tvg-logo="http://192.168.1.111:8003/iptv/logos/C4C666AD659F69B683D8191B5256F014.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", TV Kawaii Classic
 http://192.168.1.111:8003/iptv/channel/4.m3u8?mode=segmenter
 
 #News
@@ -64,7 +64,7 @@ https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec37366b6d4c4c7
 
 #Music
 
-#EXTINF:0 tvg-id="C5.149.ersatztv.org" channel-id="5qCFApY0nkGam3-Rc2z-sg" channel-number="5" CUID="5qCFApY0nkGam3-Rc2z-sg" tvg-chno="5" tvg-name="Muzik" tvg-logo="http://192.168.1.111:8003/iptv/logos/70BC202D2A9DF109E9A19CCC38CCA0BF.jpg" group-title="ErsatzTV" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", Muzik
+#EXTINF:0 tvg-id="C5.149.ersatztv.org" channel-id="5qCFApY0nkGam3-Rc2z-sg" channel-number="5" CUID="5qCFApY0nkGam3-Rc2z-sg" tvg-chno="5" tvg-name="Muzik" tvg-logo="http://192.168.1.111:8003/iptv/logos/70BC202D2A9DF109E9A19CCC38CCA0BF.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", Muzik
 http://192.168.1.111:8003/iptv/channel/5.m3u8?mode=segmenter
 
 #EXTINF:-1 tvg-id=183 tvg-name="B4U Music" tvg-logo="http://192.168.1.111:8005/jtvimage/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="All", B4U Music
