@@ -92,20 +92,8 @@ http://192.168.1.111:8007/index.php?id=0-9-9z5543514
 #EXTINF:-1 tvg-id="1530" channel-number="49" tvg-chno="49" tvg-name="Sony Pix HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1Akqg656.png" tvg-language="English" tvg-type="Movies" group-title="All", Sony Pix HD
 https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
-#EXTINF:0 tvg-id="C9.153.ersatztv.org" channel-id="KctD2wdRxECq43s6HOq6_g" channel-number="53" CUID="KctD2wdRxECq43s6HOq6_g" tvg-chno="53" tvg-name="MUVEE" tvg-logo="http://192.168.1.111:8003/iptv/logos/C5D0E4D6FAA46711983353D541AC2201.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", MUVEE
-http://192.168.1.111:8003/iptv/channel/9.m3u8?mode=segmenter
-
-#EXTINF:0 tvg-id="C10.193.ersatztv.org" channel-id="ahe3S0WsZUi2NhbRawgZWg" channel-number="54" CUID="ahe3S0WsZUi2NhbRawgZWg" tvg-chno="54" tvg-name="HBO" tvg-logo="http://192.168.1.111:8003/iptv/logos/EDB7662AAE3086F05A92D744BFEE2607.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", HBO
-http://192.168.1.111:8003/iptv/channel/10.m3u8?mode=segmenter
-
-#EXTINF:0 tvg-id="C6.150.ersatztv.org" channel-id="gsevDrAoCEGegNyJoXYozQ" channel-number="59" CUID="gsevDrAoCEGegNyJoXYozQ" tvg-chno="59" tvg-name="TV Kurai Classic" tvg-logo="http://192.168.1.111:8003/iptv/logos/AE947025C20B519672CC2290D16E6315.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kurai Classic
+#EXTINF:0 tvg-id="C6.150.ersatztv.org" channel-id="u2HNeW2GE0Wt5w0aQep7lw" channel-number="6" CUID="u2HNeW2GE0Wt5w0aQep7lw" tvg-chno="6" tvg-name="Muve" tvg-logo="http://192.168.1.111:8003/iptv/logos/DE0C32D1AE3C8EF5DD0522F875B83326.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", Muve
 http://192.168.1.111:8003/iptv/channel/6.m3u8?mode=segmenter
-
-#EXTINF:0 tvg-id="C7.151.ersatztv.org" channel-id="o-MbcnOQTkaPQPKVVEu4hg" channel-number="60" CUID="o-MbcnOQTkaPQPKVVEu4hg" tvg-chno="60" tvg-name="TV Kurai" tvg-logo="http://192.168.1.111:8003/iptv/logos/0C41ADFE20E188B593B4A613B50A0B42.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Kurai
-http://192.168.1.111:8003/iptv/channel/7.m3u8?mode=segmenter
-
-#EXTINF:-1 tvg-id="" group-title="All" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQi6OdyFZuYYcyvbaOhi917UXcDFCqiZjMy1mIxsEzoGbvVC61r0oSynB4YDogAHG6GzJm9", G.I. JOE: A Real American Hero
-http://api.m3use.projectmoose.xyz/m3u/ankit/youtube/67fc07f0d6905f04f628b2dc.m3u8⏎
 
 #INFOTAINMENT
 
