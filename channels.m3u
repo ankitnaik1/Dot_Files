@@ -120,4 +120,5 @@ http://192.168.1.111:8005/live/high/1598.m3u8
 #EXTINF:-1 tvg-id=2031 tvg-name="Fashion India" tvg-logo="http://192.168.1.111:8005/jtvimage/Fashion_India.png" tvg-language="English" tvg-type="Lifestyle" group-title="All", Fashion India
 http://192.168.1.111:8005/live/high/2031.m3u8
 
+https://jiotv.ankitn.duckdns.org/live/high/1975.m3u8
 #EXTINF:-1 tvg-id=1984 tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Sports18_1_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Star Sports 2 Hindi HD
