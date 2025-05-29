@@ -125,3 +125,6 @@ https://jiotv.ankitn.duckdns.org/live/high/1984.m3u8
 
 #EXTINF:-1 tvg-id=1985 tvg-name="Star Sports 2 Hindi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Sports18_1_SD.png" tvg-language="English" tvg-type="Sports" group-title="All", Star Sports 2 Hindi
 https://jiotv.ankitn.duckdns.org/live/high/1985.m3u8
+
+#EXTINF:-1 tvg-id="1540040219" tvg-name=" english" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="All",  ENGLISH
+https://bdixtv.life/ipl.php?id=662151
