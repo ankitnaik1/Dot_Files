@@ -57,7 +57,7 @@ http://192.168.1.111:8003/iptv/channel/4.m3u8?mode=segmenter
 #News
 
 #EXTINF:-1 tvg-id="" group-title="All" tvg-logo="https://yt3.ggpht.com/pGaw6mggHH6vv64LoOdZdJ-KB9zbiw0un7xCRPVi5uYS0RVpA-B2pTgJmQNQZdLk7rS91fcTerU=s88-c-k-c0x00ffffff-no-rj", Pudhari News
-http://api.m3use.projectmoose.xyz/m3u/ankit/youtube/67fb6be7101d0e1d92a0829d.m3u8
+https://api.m3use.projectmoose.xyz/m3u/ankit/youtube/67fb6be7101d0e1d92a0829d.m3u8?uid=ankit&pkey=92xFH9
 
 #EXTINF:-1 tvg-id="" group-title="All" tvg-logo="https://yt3.googleusercontent.com/4-w44catDebzaDSUWgereql0G5_z5o7VpJXuIYL_eZ3H1vXy0lTmrole9V500jTUXCnQPZ5CuKQ=s160-c-k-c0x00ffffff-no-rj", Bloomberg Television
 https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec37366b6d4c4c757bc21b.m3u8
@@ -112,7 +112,7 @@ http://192.168.1.111:8005/live/high/562.m3u8
 http://192.168.1.111:8005/live/high/479.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="All" tvg-logo="https://yt3.ggpht.com/9I7fNFT-VDxb5_Yaw4Pq0T998tMSOnGONesAllPZd3g8csC3WvY4sc0OrkWh7CoxKN0AhUsgXQ=s88-c-k-c0x00ffffff-no-rj", Shift Swim
-http://api.m3use.projectmoose.xyz/m3u/ankit/youtube/67fb6df72dcd3140dfeb94ca.m3u8
+https://api.m3use.projectmoose.xyz/m3u/ankit/youtube/67fb6df72dcd3140dfeb94ca.m3u8?uid=ankit&pkey=92xFH9
 
 #EXTINF:-1 tvg-id=1598 tvg-name="FTV HD" tvg-logo="http://192.168.1.111:8005/jtvimage/FTV_HD.png" tvg-language="English" tvg-type="Lifestyle" group-title="All", FTV HD
 http://192.168.1.111:8005/live/high/1598.m3u8
@@ -122,9 +122,3 @@ http://192.168.1.111:8005/live/high/2031.m3u8
 
 #EXTINF:-1 tvg-id=1984 tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Sports18_1_HD.png" tvg-language="English" tvg-type="Sports" group-title="All", Star Sports 2 Hindi HD
 https://jiotv.ankitn.duckdns.org/live/high/1984.m3u8
-
-#EXTINF:-1 tvg-id=1985 tvg-name="Star Sports 2 Hindi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Sports18_1_SD.png" tvg-language="English" tvg-type="Sports" group-title="All", Star Sports 2 Hindi
-https://jiotv.ankitn.duckdns.org/live/high/1985.m3u8
-
-#EXTINF:-1 tvg-id="1540040219" tvg-name=" english" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="All",  ENGLISH
-https://bdixtv.life/ipl.php?id=662151
