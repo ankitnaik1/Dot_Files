@@ -48,9 +48,6 @@ https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF:-1 tvg-id="1000001971" channel-number="21" tvg-chno="21" tvg-name="Sony Yay Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" tvg-language="Hindi" tvg-type="Kids" group-title="All", Sony Yay Hindi
 https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
-#EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="1L56hX9LDkSFUXBh8hgmrQ" channel-number="3" CUID="1L56hX9LDkSFUXBh8hgmrQ" tvg-chno="3" tvg-name="UTV Movies" tvg-logo="http://192.168.1.111:8003/iptv/logos/77122CC8D7CD81DE027E81C1E4434B3C.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", UTV Movies
-http://192.168.1.111:8003/iptv/channel/3.m3u8?mode=segmenter
-
 #EXTINF:0 tvg-id="C4.148.ersatztv.org" channel-id="Wai96aSUtkWMgnq55UDT0Q" channel-number="4" CUID="Wai96aSUtkWMgnq55UDT0Q" tvg-chno="4" tvg-name="TV Kawaii Classic" tvg-logo="http://192.168.1.111:8003/iptv/logos/C4C666AD659F69B683D8191B5256F014.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", TV Kawaii Classic
 http://192.168.1.111:8003/iptv/channel/4.m3u8?mode=segmenter
 
