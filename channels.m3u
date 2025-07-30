@@ -89,8 +89,8 @@ http://192.168.1.111:8007/index.php?id=0-9-9z5543514
 #EXTINF:-1 tvg-id="1530" channel-number="49" tvg-chno="49" tvg-name="Sony Pix HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1Akqg656.png" tvg-language="English" tvg-type="Movies" group-title="All", Sony Pix HD
 https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
-#EXTINF:0 tvg-id="C6.150.ersatztv.org" channel-id="u2HNeW2GE0Wt5w0aQep7lw" channel-number="6" CUID="u2HNeW2GE0Wt5w0aQep7lw" tvg-chno="6" tvg-name="Muve" tvg-logo="http://192.168.1.111:8003/iptv/logos/DE0C32D1AE3C8EF5DD0522F875B83326.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", Muve
-http://192.168.1.111:8003/iptv/channel/6.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="bSOIXRR0xUWV9ojuFLuMew" channel-number="2" CUID="bSOIXRR0xUWV9ojuFLuMew" tvg-chno="2" tvg-name="ETV Songs" tvg-logo="http://192.168.1.111:8003/iptv/logos/3400A89A599C8861271F2E230883CFC3.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", ETV Songs
+http://192.168.1.111:8003/iptv/channel/2.m3u8?mode=segmenter
 
 #INFOTAINMENT
 
