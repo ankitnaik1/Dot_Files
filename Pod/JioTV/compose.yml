@@ -1,0 +1,38 @@
+services:
+  jiotv:
+    container_name: "jiotv"
+    image: ghcr.io/jiotv-go/jiotv_go:latest
+    restart: unless-stopped
+    mem_limit: 512M
+    memswap_limit: 512M
+    dns:
+      - 1.1.1.1
+      - 9.9.9.9
+    environment:
+      - JIOTV_PATH_PREFIX=/app/.jiotv_go
+      - TZ=Asia/Kolkata
+      - JIOTV_DRM=true
+      - JIOTV_DISABLE_TS_HANDLER=true
+    ports:
+      - "8005:5001"
+    volumes:
+      - type: volume
+        source: jiotv_go
+        target: /app/.jiotv_go
+    security_opt:
+      - no-new-privileges=true
+    labels:
+      - 'traefik.enable=true'
+      - 'traefik.http.routers.jiotv.rule=Host(`jiotv.${MY_DOMAIN}`)'
+      - 'traefik.http.routers.jiotv.entryPoints=https'
+      - 'traefik.http.routers.jiotv.tls=true'
+      - "traefik.http.services.jiotv.loadbalancer.server.port=5001"
+    networks:
+      proxy:
+
+volumes:
+  jiotv_go:
+
+networks:
+  proxy:
+     external: true

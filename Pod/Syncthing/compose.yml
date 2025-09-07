@@ -1,0 +1,33 @@
+services:
+  syncthing:
+    container_name: syncthing
+    image: lscr.io/linuxserver/syncthing:latest
+    mem_limit: 2G
+    memswap_limit: 2G
+    restart: always
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+    volumes:
+      - type: bind
+        source: ${CONFIG_LOCATION}/Syncthing
+        target: /config
+      - type: bind
+        source: ${MOBILE_BACKUP}
+        target: /Backup/Mobile
+        read_only: false
+        bind:
+          propagation: rshared
+    labels:
+      - 'traefik.enable=true'
+      - 'traefik.http.routers.syncthing.rule=Host(`syncthing.${MY_DOMAIN}`)'
+      - 'traefik.http.routers.syncthing.entryPoints=https'
+      - 'traefik.http.routers.syncthing.tls=true'
+      - "traefik.http.services.syncthing.loadbalancer.server.port=8384"
+    networks:
+      proxy:
+
+networks:
+  proxy:
+     external: true

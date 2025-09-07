@@ -1,0 +1,50 @@
+# HTTP
+http:
+# Routers
+  routers:
+    cockpit:
+      entryPoints:
+        - "https"
+      rule: "Host(`cockpit.your_domain`)"
+      middlewares:
+        - default-headers
+        - https-redirectscheme
+      tls: {}
+      service: cockpit
+
+# HTTP Services
+  services:
+    cockpit:
+      loadBalancer:
+        servers:
+          - url: "https://host.containers.internal:9090" # your cockpit IP
+
+# HTTP Middlewares
+  middlewares:
+    https-redirectscheme:
+      redirectScheme:
+        scheme: https
+        permanent: true
+    default-headers:
+      headers:
+        frameDeny: true
+        browserXssFilter: true
+        contentTypeNosniff: true
+        forceSTSHeader: true
+        stsIncludeSubdomains: true
+        stsPreload: true
+        stsSeconds: 15552000
+        customFrameOptionsValue: SAMEORIGIN
+        customRequestHeaders:
+          X-Forwarded-Proto: https
+
+    default-whitelist:
+      ipAllowList:
+        sourceRange:
+        - "0.0.0.0/24" #your subnet
+
+    secured:
+      chain:
+        middlewares:
+        - default-whitelist
+        - default-headers

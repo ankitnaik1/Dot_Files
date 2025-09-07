@@ -1,0 +1,77 @@
+# HTTP
+http:
+# Routers
+  routers:
+    proxmox:
+      entryPoints:
+        - "https"
+      rule: "Host(`pve.your_domain`)"
+      middlewares:
+        - default-headers
+        - https-redirectscheme
+      tls: {}
+      service: proxmox
+
+# HTTP Services
+  services:
+    proxmox:
+      loadBalancer:
+        servers:
+          - url: "https://192.168.0.1:8006" # your proxmox IP
+
+# HTTP Middlewares
+  middlewares:
+    https-redirectscheme:
+      redirectScheme:
+        scheme: https
+        permanent: true
+    default-headers:
+      headers:
+        frameDeny: true
+        browserXssFilter: true
+        contentTypeNosniff: true
+        forceSTSHeader: true
+        stsIncludeSubdomains: true
+        stsPreload: true
+        stsSeconds: 15552000
+        customFrameOptionsValue: SAMEORIGIN
+        customRequestHeaders:
+          X-Forwarded-Proto: https
+
+    default-whitelist:
+      ipAllowList:
+        sourceRange:
+        - "0.0.0.0/24" #your subnet
+
+    secured:
+      chain:
+        middlewares:
+        - default-whitelist
+        - default-headers
+
+## TCP
+tcp:
+  routers:
+    proxmox-spice:
+      rule: "HostSNI(`*`)"
+      entrypoints: "spice"
+      tls: false
+      service: proxmox-spice
+    proxmox-spice-tls:
+      rule: "HostSNI(`pve.domain.com`)"
+      entrypoints: "spice-tls"
+      tls:
+        passthrough: true
+      service: proxmox-spice-tls
+
+  services:
+    proxmox-spice:
+      loadbalancer:
+         servers:
+          - address: "0.0.0.0:3128" # your proxmox IP
+    proxmox-spice-tls:
+      loadbalancer:
+         servers:
+          - address: "0.0.0.0:61000" # proxmox IP.  Also check if your instance uses 61000 or 61001
+
+

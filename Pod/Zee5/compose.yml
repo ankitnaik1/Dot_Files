@@ -1,0 +1,30 @@
+services:
+  zee5:
+    container_name: zee5
+    image: php:apache
+    mem_limit: 512M
+    memswap_limit: 512M
+    dns:
+      - 9.9.9.9
+      - 1.1.1.1
+    ports:
+      - 8007:80
+    restart: unless-stopped
+    volumes:
+      - type: bind
+        source: ${CONFIG_LOCATION}/zee5
+        target: /var/www/html
+    security_opt:
+      - no-new-privileges=true
+    labels:
+      - 'traefik.enable=true'
+      - 'traefik.http.routers.zee5.rule=Host(`zee5.${MY_DOMAIN}`)'
+      - 'traefik.http.routers.zee5.entryPoints=https'
+      - 'traefik.http.routers.zee5.tls=true'
+      - "traefik.http.services.zee5.loadbalancer.server.port=80"
+    networks:
+      proxy:
+
+networks:
+  proxy:
+     external: true

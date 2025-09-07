@@ -1,0 +1,27 @@
+services:
+  redlib:
+    container_name: "redlib"
+    image: quay.io/redlib/redlib:latest
+    restart: always
+    mem_limit: 512M
+    memswap_limit: 512M
+    dns:
+      - 1.1.1.1
+      - 9.9.9.9
+    security_opt:
+      - no-new-privileges=true
+    ports:
+      - "8004:8080"
+    labels:
+      - 'traefik.enable=true'
+      - 'traefik.http.routers.redlib.rule=Host(`redlib.${MY_DOMAIN}`)'
+      - 'traefik.http.routers.redlib.entryPoints=https'
+      - 'traefik.http.routers.redlib.tls=true'
+      - 'traefik.http.services.redlib.loadbalancer.server.port=8080'
+    env_file: redlib.env
+    networks:
+      proxy:
+
+networks:
+  proxy:
+     external: true

@@ -1,0 +1,26 @@
+services:
+  samba:
+    image: docker.io/dockurr/samba
+    container_name: samba
+    restart: unless-stopped
+    mem_limit: 512M
+    memswap_limit: 512M
+    environment:
+      NAME: "Storage"
+      USER: "admin"
+      PASS: "password"
+    volumes:
+      - type: bind
+        source: ${CONFIG_LOCATION}/Samba/
+        target: /etc/samba/
+      - type: bind
+        source: /Storage
+        target: /storage
+    ports:
+      - 445:445
+    networks:
+          proxy:
+
+networks:
+  proxy:
+     external: true

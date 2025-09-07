@@ -1,0 +1,18 @@
+services:
+  jellyfin_vue:
+    container_name: jellyfin_vue
+    image: ghcr.io/jellyfin/jellyfin-vue:unstable
+    restart: always
+    ports:
+      - 8011:80
+    labels:
+      - 'traefik.enable=true'
+      - 'traefik.http.routers.jelly.rule=Host(`jelly.ankitn.duckdns.org`)'
+      - 'traefik.http.routers.jelly.entrypoints=websecure'
+      - "traefik.http.services.jelly.loadbalancer.server.port=80"
+    networks:
+        proxy:
+
+networks:
+  proxy:
+     external: true
