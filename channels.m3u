@@ -6,8 +6,8 @@ http://192.168.1.111:8003/iptv/channel/1.m3u8?mode=segmenter
 #EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
 http://192.168.1.111:8007/index.php?id=0-9-zeemarathi
 
-#EXTINF:-1 tvg-id=755 tvg-name="Colors Marathi HD" tvg-logo="http://192.168.1.111:8005/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="All", Colors Marathi HD
-http://192.168.1.111:8005/live/high/755.m3u8
+#EXTINF:-1 tvg-id="755" tvg-name="Colors Marathi HD" tvg-logo="http://192.168.1.111:8005/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="All", Colors Marathi HD
+http://192.168.1.111:8005/live/755.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png",Zee Yuva
 http://192.168.1.111:8007/index.php?id=0-9-zeeyuva
@@ -53,8 +53,11 @@ https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
 #News
 
-#EXTINF:-1 tvg-id="" group-title="All" tvg-logo="https://yt3.ggpht.com/pGaw6mggHH6vv64LoOdZdJ-KB9zbiw0un7xCRPVi5uYS0RVpA-B2pTgJmQNQZdLk7rS91fcTerU=s88-c-k-c0x00ffffff-no-rj", Pudhari News
-https://api.m3use.projectmoose.xyz/m3u/ankit/youtube/67fb6be7101d0e1d92a0829d.m3u8?uid=ankit&pkey=92xFH9
+#EXTINF:-1 tvg-id="691" tvg-name="Saam Tv" tvg-logo="http://192.168.1.111:8005/jtvimage/Saam_Tv.png" tvg-language="Marathi" tvg-type="News" group-title="All", Saam Tv
+http://192.168.1.111:8005/live/691.m3u8
+
+#EXTINF:-1 tvg-id="3095" tvg-name="NDTV Marathi" tvg-logo="http://192.168.1.111:8005/jtvimage/NDTV_Marathi.png" tvg-language="Marathi" tvg-type="News" group-title="All", NDTV Marathi
+http://192.168.1.111:8005/live/3095.m3u8
 
 #Music
 
@@ -111,14 +114,8 @@ http://192.168.1.111:8005/live/high/562.m3u8
 #EXTINF:-1 tvg-id=479 tvg-name="TLC HD" tvg-logo="http://192.168.1.111:8005/jtvimage/TLC_HD_World.png" tvg-language="English" tvg-type="Lifestyle" group-title="All", TLC HD
 http://192.168.1.111:8005/live/high/479.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="All" tvg-logo="https://yt3.ggpht.com/9I7fNFT-VDxb5_Yaw4Pq0T998tMSOnGONesAllPZd3g8csC3WvY4sc0OrkWh7CoxKN0AhUsgXQ=s88-c-k-c0x00ffffff-no-rj", Shift Swim
-https://api.m3use.projectmoose.xyz/m3u/ankit/youtube/67fb6df72dcd3140dfeb94ca.m3u8?uid=ankit&pkey=92xFH9
-
 #EXTINF:-1 tvg-id=1598 tvg-name="FTV HD" tvg-logo="http://192.168.1.111:8005/jtvimage/FTV_HD.png" tvg-language="English" tvg-type="Lifestyle" group-title="All", FTV HD
 http://192.168.1.111:8005/live/high/1598.m3u8
 
 #EXTINF:-1 tvg-id=2031 tvg-name="Fashion India" tvg-logo="http://192.168.1.111:8005/jtvimage/Fashion_India.png" tvg-language="English" tvg-type="Lifestyle" group-title="All", Fashion India
 http://192.168.1.111:8005/live/high/2031.m3u8
-
-#EXTINF:0 tvg-id="C4.148.ersatztv.org" channel-id="4qXv85mttUeVvk-JSqvyKA" channel-number="4" CUID="4qXv85mttUeVvk-JSqvyKA" tvg-chno="4" tvg-name="ETV-CN" tvg-logo="http://192.168.1.111:8003/iptv/logos/C8C88BDE04CB849108C0E7CD4F930648.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", ETV-CN
-http://192.168.1.111:8003/iptv/channel/4.m3u8?mode=segmenter
