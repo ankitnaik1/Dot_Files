@@ -102,6 +102,9 @@ https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 #EXTINF:-1 tvg-id="0-9-348" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",Zee Zest HD
 http://192.168.1.111:8007/index.php?id=0-9-348
 
+#EXTINF:-1 tvg-id="560" tvg-name="GOOD TiMES" tvg-logo="http://192.168.1.111:8005/jtvimage/NDTV_Good_Times.png" tvg-language="English" tvg-type="Lifestyle" group-title="All", GOOD TiMES
+http://192.168.1.111:8005/live/560.m3u8
+
 #EXTINF:-1 tvg-id=562 tvg-name="Travelxp HD Hindi" tvg-logo="http://192.168.1.111:8005/jtvimage/Travel_XP.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="All", Travelxp HD Hindi
 http://192.168.1.111:8005/live/high/562.m3u8
 
