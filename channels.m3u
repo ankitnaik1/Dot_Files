@@ -65,6 +65,9 @@ http://192.168.1.111:8007/index.php?id=0-9-channel_2105335046
 #EXTINF:-1 tvg-id="0-9-zeecafehd" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png",Zee Café HD
 http://192.168.1.111:8007/index.php?id=0-9-zeecafehd
 
+#EXTINF:0 tvg-id="C10.193.ersatztv.org" channel-id="7zGcogtWAEKGP77_ByE79w" channel-number="10" CUID="7zGcogtWAEKGP77_ByE79w" tvg-chno="10" tvg-name="ETV HBO" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/54E522B3213F462CB63EB74096A72995.jpg" group-title="ALL" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", ETV HBO
+https://etv.ankitn.duckdns.org/iptv/channel/10.m3u8?mode=segmenter
+
 #EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="bSOIXRR0xUWV9ojuFLuMew" channel-number="2" CUID="bSOIXRR0xUWV9ojuFLuMew" tvg-chno="2" tvg-name="ETV Songs" tvg-logo="http://192.168.1.111:8003/iptv/logos/3400A89A599C8861271F2E230883CFC3.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", ETV Songs
 http://192.168.1.111:8003/iptv/channel/2.m3u8?mode=segmenter
 
