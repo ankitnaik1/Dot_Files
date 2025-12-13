@@ -4,7 +4,7 @@
 http://192.168.1.111:8003/iptv/channel/1.m3u8?mode=segmenter
 
 #EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
-http://192.168.1.111:8007/index.php?id=0-9-zeemarathi
+http://192.168.1.140:8007/index.php?id=0-9-zeemarathi
 
 #EXTINF:-1 tvg-id="755" tvg-name="Colors Marathi HD" tvg-logo="http://192.168.1.111:8005/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="All", Colors Marathi HD
 http://192.168.1.111:8005/live/755.m3u8
