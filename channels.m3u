@@ -1,13 +1,13 @@
-#EXTM3U url-tvg="http://192.168.1.111:8003/iptv/xmltv.xml" x-tvg-url="http://192.168.1.111:8003/iptv/xmltv.xml"
-
-#EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="4RdHDaLBHkOvH3T01a5iEg" channel-number="1" CUID="4RdHDaLBHkOvH3T01a5iEg" tvg-chno="1" tvg-name="TMKOC" tvg-logo="http://192.168.1.111:8003/iptv/logos/5B271B6C5F0E37EB24A70DB59162AF00.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", TMKOC
-http://192.168.1.111:8003/iptv/channel/1.m3u8?mode=segmenter
+#EXTM3U x-tvg-url="https://jiotv.ankitn.duckdns.org/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
 http://192.168.1.11:8007/index.php?id=0-9-zeemarathi
 
-#EXTINF:-1 tvg-id="755" tvg-name="Colors Marathi HD" tvg-logo="http://192.168.1.111:8005/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="All", Colors Marathi HD
-http://192.168.1.111:8005/live/755.m3u8
+#EXTINF:-1 tvg-id="755" tvg-name="Colors Marathi HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Entertainment", Colors Marathi HD
+https://jiotv.ankitn.duckdns.org/live/755.m3u8
+
+#EXTINF:-1 tvg-id="2424" tvg-name="Sun Marathi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Sun_Marathi.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Entertainment", Sun Marathi
+https://jiotv.ankitn.duckdns.org/live/2424.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png",Zee Yuva
 http://192.168.1.111:8007/index.php?id=0-9-zeeyuva
@@ -24,8 +24,8 @@ http://192.168.1.111:8007/index.php?id=0-9-zeetvhd
 #EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",&TV HD
 http://192.168.1.111:8007/index.php?id=0-9-tvhd_0
 
-#EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.1.111:8005/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Colors HD
-http://192.168.1.111:8005/live/high/144.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
+https://jiotv.ankitn.duckdns.org/live/144.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://192.168.1.111:8007/index.php?id=0-9-zeecinemahd
