@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://jiotv.ankitn.duckdns.org/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
-http://192.168.1.11:8007/index.php?id=0-9-zeemarathi
+http://192.168.1.231:8080/zee5-main/index.php?id=0-9-zeemarathi&%7CUser-Agent=Mozilla/5.0 
 
 #EXTINF:-1 tvg-id="755" tvg-name="Colors Marathi HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Entertainment", Colors Marathi HD
 https://jiotv.ankitn.duckdns.org/live/755.m3u8
