@@ -36,6 +36,9 @@ http://192.168.1.111:8005/live/3071.m3u8
 #EXTINF:-1 tvg-id="2078" tvg-name="Shemaroo Umang" tvg-logo="http://192.168.1.111:8005/jtvimage/Shemaroo_Umang.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Shemaroo Umang
 http://192.168.1.111:8005/live/2078.m3u8
 
+#EXTINF:-1 tvg-id="3457" tvg-name="Cartoon Network HD+ Marathi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/CNHDMarathi.png" tvg-language="Marathi" tvg-type="All" group-title="Kids", Cartoon Network HD+ Marathi
+https://jiotv.ankitn.duckdns.org/live/3457.m3u8
+
 #News
 
 #EXTINF:-1 tvg-id="691" tvg-name="Saam Tv" tvg-logo="http://192.168.1.111:8005/jtvimage/Saam_Tv.png" tvg-language="Marathi" tvg-type="News" group-title="All", Saam Tv
