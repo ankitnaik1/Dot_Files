@@ -30,6 +30,12 @@ https://jiotv.ankitn.duckdns.org/live/144.m3u8
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeecinemahd
 
+#EXTINF:-1 tvg-id="1295" tvg-name="B4U Kadak" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", B4U Kadak
+https://jiotv.ankitn.duckdns.org/live/1295.m3u8
+
+#EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Colors Cineplex HD
+https://jiotv.ankitn.duckdns.org/live/1477.m3u8
+
 #EXTINF:-1 tvg-id="3071" tvg-name="TV Asia Powered by Shemaroo" tvg-logo="http://192.168.1.111:8005/jtvimage/TV_Asia.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", TV Asia Powered by Shemaroo
 https://jiotv.ankitn.duckdns.org/live/3071.m3u8
 
