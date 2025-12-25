@@ -7,7 +7,7 @@ http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeemarathi&%7CUser-Agent=Mozilla
 https://jiotv.ankitn.duckdns.org/live/755.m3u8
 
 #EXTINF:-1 tvg-id="2424" tvg-name="Sun Marathi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Sun_Marathi.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="All", Sun Marathi
-https://jiotv.ankitn.duckdns.org/live/2424.m3u8
+https://jiotv.ankitn.duckdns.org/live/high/2424.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png",Zee Yuva
 http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeeyuva&%7CUser-Agent=Mozilla/5.0
