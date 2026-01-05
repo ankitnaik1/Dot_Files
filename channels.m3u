@@ -21,6 +21,9 @@ http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeetalkies&%7CUser-Agent=Mozilla
 #EXTINF:-1 tvg-id="167" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
 http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeetvhd&%7CUser-Agent=Mozilla/5.0
 
+#EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", SET HD
+https://jiotv.ankitn.duckdns.org/live/high/291.m3u8
+
 #EXTINF:-1 tvg-id="472" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",&TV HD
 http://zee5.ankitn.duckdns.org/index.php?id=0-9-tvhd_0
 
