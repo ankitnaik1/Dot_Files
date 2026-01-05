@@ -27,7 +27,7 @@ http://zee5.ankitn.duckdns.org/index.php?id=0-9-tvhd_0
 #EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Colors HD
 https://jiotv.ankitn.duckdns.org/live/144.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+#EXTINF:-1 tvg-id="165" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeecinemahd
 
 #EXTINF:-1 tvg-id="1295" tvg-name="B4U Kadak" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", B4U Kadak
