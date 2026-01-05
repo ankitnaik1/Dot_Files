@@ -79,6 +79,18 @@ http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeecafehd
 
 #INFOTAINMENT
 
+#EXTINF:-1 tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/History_18_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="All", History TV18 HD Hindi
+https://jiotv.ankitn.duckdns.org/live/high/578.m3u8
+
+#EXTINF:-1 tvg-id="3444" tvg-name="Discovery HD Hindi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/DiscoveryHDHin.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="All", Discovery HD Hindi
+https://jiotv.ankitn.duckdns.org/live/high/3444.m3u8
+
+#EXTINF:-1 tvg-id="3451" tvg-name="Animal Planet HD Hindi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/AnimalPlanetHDHin.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="All", Animal Planet HD Hindi
+https://jiotv.ankitn.duckdns.org/live/high/3451.m3u8
+
+#EXTINF:-1 tvg-id="3453" tvg-name="Discovery Science Hindi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/DiscoveryScienceHin.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="All", Discovery Science Hindi
+https://jiotv.ankitn.duckdns.org/live/high/3453.m3u8
+
 #LIFESTYLE
 
 #EXTINF:-1 tvg-id="0-9-348" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",Zee Zest HD
