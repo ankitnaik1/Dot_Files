@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://jiotv.ankitn.duckdns.org/epg.xml.gz"
 
+#EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="l12qKS9hc0W5y1j8-Uw36A" channel-number="1" CUID="l12qKS9hc0W5y1j8-Uw36A" tvg-chno="1" tvg-name="ETV" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/gen?text=ETV" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", ETV
+https://etv.ankitn.duckdns.org/iptv/channel/1.m3u8?mode=segmenter
+
 #EXTINF:-1 tvg-id="1360" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
 http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeemarathi&%7CUser-Agent=Mozilla/5.0
 
