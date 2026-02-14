@@ -86,6 +86,9 @@ http://zee5.ankitn.duckdns.org/index.php?id=0-9-channel_2105335046
 #EXTINF:-1 tvg-id="0-9-zeecafehd" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png",Zee Café HD
 http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeecafehd
 
+#EXTINF:0 tvg-id="C4.148.ersatztv.org" channel-id="GZ7soCQs2EmHm8BRzDFtHA" channel-number="4" CUID="GZ7soCQs2EmHm8BRzDFtHA" tvg-chno="4" tvg-name="HBO" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/gen?text=HBO" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", HBO
+https://etv.ankitn.duckdns.org/iptv/channel/4.m3u8?mode=segmenter
+
 #INFOTAINMENT
 
 #EXTINF:-1 tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/History_18_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="All", History TV18 HD Hindi
