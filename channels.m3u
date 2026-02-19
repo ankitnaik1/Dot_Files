@@ -51,6 +51,9 @@ https://jiotv.ankitn.duckdns.org/live/2078.m3u8
 #EXTINF:-1 tvg-id="3457" tvg-name="Cartoon Network HD+ Marathi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/CNHDMarathi.png" tvg-language="Marathi" tvg-type="All" group-title="All", Cartoon Network HD+ Marathi
 https://jiotv.ankitn.duckdns.org/live/3457.m3u8
 
+#EXTINF:0 tvg-id="C5.149.ersatztv.org" channel-id="n-LiaRSQ2E2lRiaRvfRciA" channel-number="5" CUID="n-LiaRSQ2E2lRiaRvfRciA" tvg-chno="5" tvg-name="CN" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/C8C88BDE04CB849108C0E7CD4F930648.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", CN
+https://etv.ankitn.duckdns.org/iptv/channel/5.m3u8?mode=segmenter
+
 #News
 
 #EXTINF:-1 tvg-id="691" tvg-name="Saam Tv" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Saam_Tv.png" tvg-language="Marathi" tvg-type="News" group-title="All", Saam Tv
