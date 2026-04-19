@@ -4,7 +4,7 @@
 https://etv.ankitn.duckdns.org/iptv/channel/1.m3u8?mode=segmenter
 
 #EXTINF:-1 tvg-id="1360" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
-http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeemarathi&%7CUser-Agent=Mozilla/5.0
+https://zee5.ankitn.duckdns.org/index.php?id=0-9-zeemarathi&%7CUser-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="755" tvg-name="Colors Marathi HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="All", Colors Marathi HD
 https://jiotv.ankitn.duckdns.org/live/755.m3u8
@@ -28,7 +28,7 @@ https://zee5.ankitn.duckdns.org/index.php?id=0-9-zeetvhd&%7CUser-Agent=Mozilla/5
 https://jiotv.ankitn.duckdns.org/live/high/291.m3u8
 
 #EXTINF:-1 tvg-id="472" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",&TV HD
-http://zee5.ankitn.duckdns.org/index.php?id=0-9-tvhd_0
+https://zee5.ankitn.duckdns.org/index.php?id=0-9-tvhd_0
 
 #EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Colors HD
 https://jiotv.ankitn.duckdns.org/live/144.m3u8
@@ -41,6 +41,9 @@ https://jiotv.ankitn.duckdns.org/live/1295.m3u8
 
 #EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Colors Cineplex HD
 https://jiotv.ankitn.duckdns.org/live/1477.m3u8
+
+#EXTINF:-1 tvg-id="0-9-pictures" tvg-country="IN" tvg-chno="043" tvg-language="hi" tvg-name="&Pictures" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-pictures/list/1920x1080liste1864f84ee8f422e9a726e5fe401050c.jpg" group-title="Movie", &Pictures
+https://zee5.ankitn.duckdns.org/index.php?id=0-9-pictures&%7CUser-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="3071" tvg-name="TV Asia Powered by Shemaroo" tvg-logo="http://192.168.1.111:8005/jtvimage/TV_Asia.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", TV Asia Powered by Shemaroo
 https://jiotv.ankitn.duckdns.org/live/3071.m3u8
