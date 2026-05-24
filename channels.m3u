@@ -3,6 +3,12 @@
 #EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="l12qKS9hc0W5y1j8-Uw36A" channel-number="1" CUID="l12qKS9hc0W5y1j8-Uw36A" tvg-chno="1" tvg-name="ETV" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/gen?text=ETV" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", ETV
 https://etv.ankitn.duckdns.org/iptv/channel/1.m3u8?mode=segmenter
 
+#EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyPAL.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Sony Pal
+https://jiotv.ankitn.duckdns.org/live/high/474.m3u8
+
+#EXTINF:-1 tvg-id="1143" tvg-name="Star Utsav" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Star_Utsav.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Star Utsav
+https://jiotv.ankitn.duckdns.org/live/high/1143.m3u8
+
 #EXTINF:-1 tvg-id="755" tvg-name="Colors Marathi HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="All", Colors Marathi HD
 https://jiotv.ankitn.duckdns.org/live/755.m3u8
 
@@ -12,8 +18,11 @@ https://jiotv.ankitn.duckdns.org/live/high/291.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Colors HD
 https://jiotv.ankitn.duckdns.org/live/144.m3u8
 
-#EXTINF:-1 tvg-id="165" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeecinemahd
+#EXTINF:-1 tvg-id="1136" tvg-name="Star Utsav Movies" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Star_Utsav_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Star Utsav Movies
+https://jiotv.ankitn.duckdns.org/live/high/1136.m3u8
+
+#EXTINF:-1 tvg-id="483" tvg-name="Sony MAX2" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyMAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Sony MAX2
+https://jiotv.ankitn.duckdns.org/live/high/483.m3u8
 
 #EXTINF:-1 tvg-id="1295" tvg-name="B4U Kadak" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", B4U Kadak
 https://jiotv.ankitn.duckdns.org/live/1295.m3u8
