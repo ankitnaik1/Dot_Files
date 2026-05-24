@@ -71,20 +71,8 @@ https://jiotv.ankitn.duckdns.org/live/3074.m3u8
 
 #ENGLISH
 
-#EXTINF:-1 tvg-id="1158" tvg-name="Colors Infinity HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="All", Colors Infinity HD
-https://jiotv.ankitn.duckdns.org/live/1158.m3u8
-
-#EXTINF:-1 tvg-id="0-9-9z5543514" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",&Prive HD
-http://zee5.ankitn.duckdns.org/index.php?id=0-9-9z5543514
-
-#EXTINF:-1 tvg-id="0-9-channel_2105335046" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png",&flix HD
-http://zee5.ankitn.duckdns.org/index.php?id=0-9-channel_2105335046
-
-#EXTINF:-1 tvg-id="0-9-zeecafehd" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png",Zee Café HD
-http://zee5.ankitn.duckdns.org/index.php?id=0-9-zeecafehd
-
-#EXTINF:0 tvg-id="C4.148.ersatztv.org" channel-id="GZ7soCQs2EmHm8BRzDFtHA" channel-number="4" CUID="GZ7soCQs2EmHm8BRzDFtHA" tvg-chno="4" tvg-name="HBO" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/gen?text=HBO" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", HBO
-https://etv.ankitn.duckdns.org/iptv/channel/2.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="4iEmNDExMUKktwjyO591Mw" channel-number="3" CUID="4iEmNDExMUKktwjyO591Mw" tvg-chno="3" tvg-name="HBO - Mobile" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/gen?text=HBO+-+Mobile" group-title="Mobile" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", HBO - Mobile
+https://etv.ankitn.duckdns.org/iptv/channel/3.m3u8?mode=segmenter
 
 #INFOTAINMENT
 
