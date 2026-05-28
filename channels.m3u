@@ -62,11 +62,11 @@ https://jiotv.ankitn.duckdns.org/live/3074.m3u8
 
 #ENGLISH
 
-#EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="zfEmACbFEkiKqhPQmIGz0A" channel-number="2" CUID="zfEmACbFEkiKqhPQmIGz0A" tvg-chno="2" tvg-name="HBO" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/gen?text=HBO" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", HBO
-https://etv.ankitn.duckdns.org/iptv/channel/2.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="C40.196.ersatztv.org" channel-id="FY-U8BVzU0KQhZTby3uSXw" channel-number="40" CUID="FY-U8BVzU0KQhZTby3uSXw" tvg-chno="40" tvg-name="EBO" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/gen?text=EBO" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", EBO
+https://etv.ankitn.duckdns.org/iptv/channel/40.m3u8?mode=segmenter
 
-#EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="4iEmNDExMUKktwjyO591Mw" channel-number="3" CUID="4iEmNDExMUKktwjyO591Mw" tvg-chno="3" tvg-name="HBO - Mobile" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/gen?text=HBO+-+Mobile" group-title="Mobile" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", HBO - Mobile
-https://etv.ankitn.duckdns.org/iptv/channel/3.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="C40.1.197.ersatztv.org" channel-id="HaK_7dLYmUCYQ-8wykN6rQ" channel-number="40.1" CUID="HaK_7dLYmUCYQ-8wykN6rQ" tvg-chno="40.1" tvg-name="EBO - Mobile" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/gen?text=EBO+-+Mobile" group-title="Mobile" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", EBO - Mobile
+https://etv.ankitn.duckdns.org/iptv/channel/40.1.m3u8?mode=segmenter
 
 #INFOTAINMENT
 
