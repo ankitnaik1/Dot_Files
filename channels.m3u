@@ -9,6 +9,12 @@ https://jiotv.ankitn.duckdns.org/live/high/474.m3u8
 #EXTINF:-1 tvg-id="1143" tvg-name="Star Utsav" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Star_Utsav.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Star Utsav
 https://jiotv.ankitn.duckdns.org/live/high/1143.m3u8
 
+#EXTINF:-1 tvg-id="336" tvg-name="Star Pravah HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Star_Pravah_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="All", Star Pravah HD
+https://jiotv.ankitn.duckdns.org/live/high/336.m3u8
+
+#EXTINF:-1 tvg-id="1146" tvg-name="Sony Marathi SD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyMarathi.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="All", Sony Marathi SD
+https://jiotv.ankitn.duckdns.org/live/high/1146.m3u8
+
 #EXTINF:-1 tvg-id="755" tvg-name="Colors Marathi HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="All", Colors Marathi HD
 https://jiotv.ankitn.duckdns.org/live/755.m3u8
 
