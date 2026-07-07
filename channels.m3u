@@ -42,11 +42,14 @@ https://jiotv.ankitn.duckdns.org/live/3071.m3u8
 #EXTINF:-1 tvg-id="2078" tvg-name="Shemaroo Umang" tvg-logo="http://192.168.1.111:8005/jtvimage/Shemaroo_Umang.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Shemaroo Umang
 https://jiotv.ankitn.duckdns.org/live/2078.m3u8
 
-#EXTINF:-1 tvg-id="3457" tvg-name="Cartoon Network HD+ Marathi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/CNHDMarathi.png" tvg-language="Marathi" tvg-type="All" group-title="All", Cartoon Network HD+ Marathi
-https://jiotv.ankitn.duckdns.org/live/3457.m3u8
-
 #EXTINF:0 tvg-id="C20.194.ersatztv.org" channel-id="d7IAB-tnrEOUUro5cGoAIQ" channel-number="20" CUID="d7IAB-tnrEOUUro5cGoAIQ" tvg-chno="20" tvg-name="Doraemon" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/4F45670A8D7E28CAAA1FF9FE03015E88.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", Doraemon
 https://etv.ankitn.duckdns.org/iptv/channel/20.m3u8?mode=segmenter
+
+#EXTINF:0 tvg-id="C21.195.ersatztv.org" channel-id="rGz4VLjdtESmhelEhoCkPA" channel-number="21" CUID="rGz4VLjdtESmhelEhoCkPA" tvg-chno="21" tvg-name="Cartoon Network" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/gen?text=Cartoon+Network" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", Cartoon Network
+https://etv.ankitn.duckdns.org/iptv/channel/21.m3u8?mode=segmenter
+
+#EXTINF:-1 tvg-id="3457" tvg-name="Cartoon Network HD+ Marathi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/CNHDMarathi.png" tvg-language="Marathi" tvg-type="All" group-title="All", Cartoon Network HD+ Marathi
+https://jiotv.ankitn.duckdns.org/live/3457.m3u8
 
 #News
 
