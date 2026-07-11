@@ -33,8 +33,8 @@ https://jiotv.ankitn.duckdns.org/live/high/483.m3u8
 #EXTINF:-1 tvg-id="1295" tvg-name="B4U Kadak" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", B4U Kadak
 https://jiotv.ankitn.duckdns.org/live/1295.m3u8
 
-#EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Colors Cineplex HD
-https://jiotv.ankitn.duckdns.org/live/1477.m3u8
+#EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/ColorsCineplexBollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Colors Cineplex Bollywood
+https://jiotv.ankitn.duckdns.org/live/1763.m3u8
 
 #EXTINF:-1 tvg-id="1450" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/ColorsCineplexSuperhit.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Colors Cineplex Superhit
 https://jiotv.ankitn.duckdns.org/live/1450.m3u8
