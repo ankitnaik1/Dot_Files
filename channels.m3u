@@ -36,6 +36,9 @@ https://jiotv.ankitn.duckdns.org/live/1295.m3u8
 #EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Colors Cineplex HD
 https://jiotv.ankitn.duckdns.org/live/1477.m3u8
 
+#EXTINF:-1 tvg-id="1450" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/ColorsCineplexSuperhit.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Colors Cineplex Superhit
+https://jiotv.ankitn.duckdns.org/live/1450.m3u8
+
 #EXTINF:-1 tvg-id="3071" tvg-name="TV Asia Powered by Shemaroo" tvg-logo="http://192.168.1.111:8005/jtvimage/TV_Asia.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", TV Asia Powered by Shemaroo
 https://jiotv.ankitn.duckdns.org/live/3071.m3u8
 
