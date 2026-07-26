@@ -24,11 +24,8 @@ https://jiotv.ankitn.duckdns.org/live/1763.m3u8
 #EXTINF:-1 tvg-id="1450" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/ColorsCineplexSuperhit.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Colors Cineplex Superhit
 https://jiotv.ankitn.duckdns.org/live/1450.m3u8
 
-#EXTINF:-1 tvg-id="3071" tvg-name="TV Asia Powered by Shemaroo" tvg-logo="http://192.168.1.111:8005/jtvimage/TV_Asia.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", TV Asia Powered by Shemaroo
-https://jiotv.ankitn.duckdns.org/live/3071.m3u8
-
-#EXTINF:-1 tvg-id="2078" tvg-name="Shemaroo Umang" tvg-logo="http://192.168.1.111:8005/jtvimage/Shemaroo_Umang.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Shemaroo Umang
-https://jiotv.ankitn.duckdns.org/live/2078.m3u8
+#EXTINF:-1 tvg-id="1961" tvg-name="Shemaroo TV" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Shemaroo_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Shemaroo TV
+https://jiotv.ankitn.duckdns.org/live/1961.m3u8
 
 #EXTINF:0 tvg-id="C20.194.ersatztv.org" channel-id="hIcL220TsUWb-sGKuisX5w" channel-number="20" CUID="hIcL220TsUWb-sGKuisX5w" tvg-chno="20" tvg-name="Doraemon TV" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/4F45670A8D7E28CAAA1FF9FE03015E88.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", Doraemon TV
 https://etv.ankitn.duckdns.org/iptv/channel/20.m3u8?mode=segmenter
