@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://jiotv.ankitn.duckdns.org/epg.xml.gz"
+#EXTM3U url-tvg="https://etv.ankitn.duckdns.org/iptv/xmltv.xml" x-tvg-url="https://etv.ankitn.duckdns.org/iptv/xmltv.xml"
 
 #EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="MeIjU5-m7EK8bfIS1fjyFg" channel-number="1" CUID="MeIjU5-m7EK8bfIS1fjyFg" tvg-chno="1" tvg-name="ETV" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/63109608917AD15463841510E3D7F82C.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", ETV
 https://etv.ankitn.duckdns.org/iptv/channel/1.m3u8?mode=segmenter
