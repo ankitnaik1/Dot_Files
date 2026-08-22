@@ -12,8 +12,8 @@ https://jiotv.ankitn.duckdns.org/live/high/1143.m3u8
 #EXTINF:-1 tvg-id="1136" tvg-name="Star Utsav Movies" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Star_Utsav_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Star Utsav Movies
 https://jiotv.ankitn.duckdns.org/live/high/1136.m3u8
 
-#EXTINF:-1 tvg-id="483" tvg-name="Sony MAX2" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyMAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Sony MAX2
-https://jiotv.ankitn.duckdns.org/live/high/483.m3u8
+#EXTINF:-1 tvg-id="1393" tvg-name="Sony Wah" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyWAH.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Sony Wah
+https://jiotv.ankitn.duckdns.org/live/1393.m3u8
 
 #EXTINF:-1 tvg-id="1295" tvg-name="B4U Kadak" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", B4U Kadak
 https://jiotv.ankitn.duckdns.org/live/1295.m3u8
@@ -26,6 +26,9 @@ https://jiotv.ankitn.duckdns.org/live/1450.m3u8
 
 #EXTINF:-1 tvg-id="1961" tvg-name="Shemaroo TV" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Shemaroo_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Shemaroo TV
 https://jiotv.ankitn.duckdns.org/live/1961.m3u8
+
+#EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="_p6nCfmRK0eb692ihNp29Q" channel-number="2" CUID="_p6nCfmRK0eb692ihNp29Q" tvg-chno="2" tvg-name="ETV Action" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/38F9638BCD29FA2B5527512ED133808A.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", ETV Action
+https://etv.ankitn.duckdns.org/iptv/channel/2.m3u8?mode=segmenter
 
 #EXTINF:0 tvg-id="C20.194.ersatztv.org" channel-id="hIcL220TsUWb-sGKuisX5w" channel-number="20" CUID="hIcL220TsUWb-sGKuisX5w" tvg-chno="20" tvg-name="Doraemon TV" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/4F45670A8D7E28CAAA1FF9FE03015E88.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", Doraemon TV
 https://etv.ankitn.duckdns.org/iptv/channel/20.m3u8?mode=segmenter
