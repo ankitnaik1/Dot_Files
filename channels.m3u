@@ -7,7 +7,11 @@ https://etv.ankitn.duckdns.org/iptv/channel/1.m3u8?mode=segmenter
 https://jiotv.ankitn.duckdns.org/live/high/474.m3u8
 
 #EXTINF:-1 tvg-id="1143" tvg-name="Star Utsav" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Star_Utsav.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Star Utsav
-https://jiotv.ankitn.duckdns.org/live/high/1143.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/1143
+https://jiotv.ankitn.duckdns.org/live/mpd/1143
 
 #EXTINF:-1 tvg-id="1136" tvg-name="Star Utsav Movies" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Star_Utsav_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Star Utsav Movies
 #KODIPROP:inputstream=inputstream.adaptive
@@ -57,20 +61,43 @@ https://jiotv.ankitn.duckdns.org/live/183.m3u8
 
 #ENGLISH
 
-#EXTINF:0 tvg-id="C40.196.ersatztv.org" channel-id="FY-U8BVzU0KQhZTby3uSXw" channel-number="40" CUID="FY-U8BVzU0KQhZTby3uSXw" tvg-chno="40" tvg-name="EBO" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/gen?text=EBO" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", EBO
+#EXTINF:-1 tvg-id="1158" tvg-name="Colors Infinity HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_Infinity_HD_1.png" tvg-language="English" tvg-type="Entertainment" group-title="All", Colors Infinity HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/1158
+https://jiotv.ankitn.duckdns.org/live/mpd/1158
+
+#EXTINF:-1 tvg-id="151" tvg-name="Movies Now HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="All", Movies Now HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/151
+https://jiotv.ankitn.duckdns.org/live/mpd/151
+
+#EXTINF:0 tvg-id="C40.196.ersatztv.org" channel-id="r9yjlzv8102jirVv3X68yA" channel-number="40" CUID="r9yjlzv8102jirVv3X68yA" tvg-chno="40" tvg-name="EBO" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/7B071E6827998F31F0C18DC96874FA74.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", EBO
 https://etv.ankitn.duckdns.org/iptv/channel/40.m3u8?mode=segmenter
 
-#EXTINF:0 tvg-id="C40.1.197.ersatztv.org" channel-id="HaK_7dLYmUCYQ-8wykN6rQ" channel-number="40.1" CUID="HaK_7dLYmUCYQ-8wykN6rQ" tvg-chno="40.1" tvg-name="EBO - Mobile" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/gen?text=EBO+-+Mobile" group-title="Mobile" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", EBO - Mobile
-https://etv.ankitn.duckdns.org/iptv/channel/40.1.m3u8?mode=segmenter
-
 #EXTINF:-1 tvg-id="1401" tvg-name="Romedy Now" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Romedy_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="All", Romedy Now
-https://jiotv.ankitn.duckdns.org/live/1401.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/1401
+https://jiotv.ankitn.duckdns.org/live/mpd/1401
 
 #EXTINF:-1 tvg-id="477" tvg-name="MN+ HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/MNPLUS.png" tvg-language="English" tvg-type="Movies" group-title="All", MN+ HD
-https://jiotv.ankitn.duckdns.org/live/477.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/477
+https://jiotv.ankitn.duckdns.org/live/mpd/477
 
 #EXTINF:-1 tvg-id="877" tvg-name="MNX HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Movies_Now2_HD.png" tvg-language="English" tvg-type="Movies" group-title="All", MNX HD
-https://jiotv.ankitn.duckdns.org/live/877.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/877
+https://jiotv.ankitn.duckdns.org/live/mpd/877
 
 #INFOTAINMENT
 
