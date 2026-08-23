@@ -132,3 +132,19 @@ https://jiotv.ankitn.duckdns.org/live/2031.m3u8
 
 #EXTINF:-1 tvg-id="1736" tvg-name="LUXE TV" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Luxe_TV.png" tvg-language="English" tvg-type="Lifestyle" group-title="All", LUXE TV
 https://jiotv.ankitn.duckdns.org/live/1736.m3u8
+
+#EXTINF:-1 tvg-id="1360" tvg-name="Zee Marathi HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeMarathiHD.png" group-title="Marathi",Zee Marathi HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f17a37b9a68555be8b0164478c832f93:352fa691d2c9d578e1b39e9993c4ffd2
+#EXTVLCOPT:http-user-agent=Virat Paglu
+#EXTHTTP:{"cookie":"__hdnea__=st=1787500811~exp=1787522411~acl=/*~hmac=1b30bdcf7b4fbfc7bdb9d5a02e72a6edb6fea129628a57bc12a30bfcf07cb9bb","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeMarathiHD_MOB/WDVLive/index.mpd
+
+#EXTINF:-1 tvg-id="336" tvg-name="Star Pravah HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_HD.png" group-title="Tamil",Star Pravah HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb288091038b58b8839d202640bfe46f:99bad05f52b77e9c2460545f631140dd
+#EXTVLCOPT:http-user-agent=Virat Paglu
+#EXTHTTP:{"cookie":"__hdnea__=st=1787500811~exp=1787522411~acl=/*~hmac=1b30bdcf7b4fbfc7bdb9d5a02e72a6edb6fea129628a57bc12a30bfcf07cb9bb","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_HD_MOB/WDVLive/index.mpd
