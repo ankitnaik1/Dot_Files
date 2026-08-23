@@ -136,8 +136,9 @@ https://jiotv.ankitn.duckdns.org/live/1736.m3u8
 #EXTINF:-1 tvg-id="SONY MAX.in" tvg-name="Sony MAX" group-title="Movies" tvg-logo="https://i.postimg.cc/43JFB33w/sonymax.webp",Sony Max
 https://cloudplay-sonyliv.pages.dev/max.m3u8
 
-#EXTINF:-1 tvg-id="336" tvg-name="Star Pravah HD" group-title="Entertainment" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&amp;s=10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_HD.png" tvg-category="Entertainment",Star Pravah HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb288091038b58b8839d202640bfe46f:99bad05f52b77e9c2460545f631140dd
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787500811~exp=1787522411~acl=/*~hmac=1b30bdcf7b4fbfc7bdb9d5a02e72a6edb6fea129628a57bc12a30bfcf07cb9bb
+#EXTINF:-1 tvg-id="336" group-title="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah_HD.png",Star Pravah HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=336
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1787500811~exp=1787522411~acl=/*~hmac=1b30bdcf7b4fbfc7bdb9d5a02e72a6edb6fea129628a57bc12a30bfcf07cb9bb"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787500811~exp=1787522411~acl=/*~hmac=1b30bdcf7b4fbfc7bdb9d5a02e72a6edb6fea129628a57bc12a30bfcf07cb9bb&__hdnea__=st=1787500811~exp=1787522411~acl=/*~hmac=1b30bdcf7b4fbfc7bdb9d5a02e72a6edb6fea129628a57bc12a30bfcf07cb9bb
