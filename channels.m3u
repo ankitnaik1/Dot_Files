@@ -6,10 +6,10 @@ https://etv.ankitn.duckdns.org/iptv/channel/1.m3u8?mode=segmenter
 #EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyPAL.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Sony Pal
 https://jiotv.ankitn.duckdns.org/live/high/474.m3u8
 
-#EXTINF:-1 tvg-id="SONY MAX.in" tvg-name="Sony MAX" group-title="All" tvg-logo="https://i.postimg.cc/43JFB33w/sonymax.webp",Sony Max
+#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyMAX.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Sony Max HD
 https://cloudplay-sonyliv.pages.dev/max.m3u8
 
-#EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="All" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
+#EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", SET HD
 https://cloudplay-sonyliv.pages.dev/sethd.m3u8
 
 #EXTINF:-1 tvg-id="1143" tvg-name="Star Utsav" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Star_Utsav.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Star Utsav
