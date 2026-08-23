@@ -136,16 +136,10 @@ https://jiotv.ankitn.duckdns.org/live/1736.m3u8
 #EXTINF:-1 tvg-id="SONY MAX.in" tvg-name="Sony MAX" group-title="Movies" tvg-logo="https://i.postimg.cc/43JFB33w/sonymax.webp",Sony Max
 https://cloudplay-sonyliv.pages.dev/max.m3u8
 
-#EXTINF:-1 tvg-id="336" group-title="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah_HD.png",Star Pravah HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=336
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-#EXTHTTP:{"cookie":"__hdnea__=st=1787500811~exp=1787522411~acl=/*~hmac=1b30bdcf7b4fbfc7bdb9d5a02e72a6edb6fea129628a57bc12a30bfcf07cb9bb"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787500811~exp=1787522411~acl=/*~hmac=1b30bdcf7b4fbfc7bdb9d5a02e72a6edb6fea129628a57bc12a30bfcf07cb9bb&__hdnea__=st=1787500811~exp=1787522411~acl=/*~hmac=1b30bdcf7b4fbfc7bdb9d5a02e72a6edb6fea129628a57bc12a30bfcf07cb9bb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="0-9-9z5383486" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383486/list/1920x1080listb4e1d6116c3e45c6865e08a5a50cab00.png",Zee Marathi
+https://vortexsu.azmodz.in/vortextv/serve/proxy/zee5.php?id=0-9-9z5383486&u=Stream-star
 
-#EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="336" group-title="JioTV | Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_HD.png",Star Pravah HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/336
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1787500811~exp=1787522411~acl=/*~hmac=1b30bdcf7b4fbfc7bdb9d5a02e72a6edb6fea129628a57bc12a30bfcf07cb9bb","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://onekey.virey40690.workers.dev/mpd/336
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list41e48666669042d2a7b9725cb6bcbbc4.png",Zee Marathi HD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/zee5.php?id=0-9-zeemarathi&u=Stream-star
