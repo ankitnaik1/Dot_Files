@@ -6,8 +6,12 @@ https://etv.ankitn.duckdns.org/iptv/channel/1.m3u8?mode=segmenter
 #EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyPAL.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Sony Pal
 https://jiotv.ankitn.duckdns.org/live/high/474.m3u8
 
-#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyMAX.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Sony Max HD
-https://cloudplay-sonyliv.pages.dev/max.m3u8
+#EXTINF:-1 tvg-id="279" tvg-name="Colors Rishtey" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/ColorsRishtey.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors Rishtey
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/279
+https://jiotv.ankitn.duckdns.org/live/mpd/279
 
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", SET HD
 https://cloudplay-sonyliv.pages.dev/sethd.m3u8
@@ -19,15 +23,19 @@ https://cloudplay-sonyliv.pages.dev/sethd.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/1143
 https://jiotv.ankitn.duckdns.org/live/mpd/1143
 
+
+#EXTINF:-1 tvg-id="1393" tvg-name="Sony Wah" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyWAH.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Sony Wah
+https://jiotv.ankitn.duckdns.org/live/1393.m3u8
+
+#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyMAX.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Sony Max HD
+https://cloudplay-sonyliv.pages.dev/max.m3u8
+
 #EXTINF:-1 tvg-id="1136" tvg-name="Star Utsav Movies" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Star_Utsav_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Star Utsav Movies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/1136
 https://jiotv.ankitn.duckdns.org/live/mpd/1136
-
-#EXTINF:-1 tvg-id="1393" tvg-name="Sony Wah" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyWAH.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Sony Wah
-https://jiotv.ankitn.duckdns.org/live/1393.m3u8
 
 #EXTINF:-1 tvg-id="1295" tvg-name="B4U Kadak" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", B4U Kadak
 https://jiotv.ankitn.duckdns.org/live/1295.m3u8
@@ -62,6 +70,26 @@ https://jiotv.ankitn.duckdns.org/live/3095.m3u8
 
 #EXTINF:-1 tvg-id="183" tvg-name="B4U Music" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="All", B4U Music
 https://jiotv.ankitn.duckdns.org/live/183.m3u8
+
+#EXTINF:-1 tvg-id="592" tvg-name="ZOOM" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Zoom.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", ZOOM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/592
+https://jiotv.ankitn.duckdns.org/live/mpd/592
+
+#EXTINF:-1 tvg-id="735" tvg-name="Sangeet Marathi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Sangeet_Marathi.png" tvg-language="Marathi" tvg-type="Music" group-title="Music", Sangeet Marathi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/735
+https://jiotv.ankitn.duckdns.org/live/mpd/735
+
+#EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/9xm.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9XM
+https://jiotv.ankitn.duckdns.org/live/587.m3u8
+
+#EXTINF:-1 tvg-id="441" tvg-name="9x Jhakaas" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/9xjhakaas.png" tvg-language="Marathi" tvg-type="Music" group-title="Music", 9x Jhakaas
+https://jiotv.ankitn.duckdns.org/live/441.m3u8
 
 #Sports
 
