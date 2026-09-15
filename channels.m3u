@@ -7,6 +7,18 @@ https://etv.ankitn.duckdns.org/iptv/channel/1.m3u8?mode=segmenter
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://premiumplug.fun/zee/zee5.php/0-9-zeemarathi.m3u8
 
+#EXTINF:-1 tvg-name="Star Pravah" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/5868/595868-h" group-title="All", Star Pravah
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d300f38d30d4829b2e525a037560000:706572c4aac0420f90a778e22116b320
+#EXTVLCOPT:http-user-agent=Virat Kohli
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1789530127~acl=%2f*~id=127456ecedb15a2f7264b7bc601de86e~data=hdntl~hmac=d0a0bdabfe9393f8ef61e84fe9b2918a7648b8e51cdc79518f0ab03993fe21dc
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat Kohli","Cookie":"hdntl=exp=1789530127~acl=%2f*~id=127456ecedb15a2f7264b7bc601de86e~data=hdntl~hmac=d0a0bdabfe9393f8ef61e84fe9b2918a7648b8e51cdc79518f0ab03993fe21dc"}
+https://livetv.hotstar.com/mp2/gec-india-1540057063/03a27d0f3ce347f0a3b4af1f6e62d4cc/index.mpd?cookie=hdntl%3Dexp%3D1789530127~acl%3D%252f%2A~id%3D127456ecedb15a2f7264b7bc601de86e~data%3Dhdntl~hmac%3Dd0a0bdabfe9393f8ef61e84fe9b2918a7648b8e51cdc79518f0ab03993fe21dc&referer=https%3A%2F%2Fwww.hotstar.com%2F&origin=https%3A%2F%2Fwww.hotstar.com&user-agent=Virat+Kohli
+
 #EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyPAL.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Sony Pal
 https://jiotv.ankitn.duckdns.org/live/high/474.m3u8
 
