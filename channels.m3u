@@ -3,6 +3,10 @@
 #EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="MeIjU5-m7EK8bfIS1fjyFg" channel-number="1" CUID="MeIjU5-m7EK8bfIS1fjyFg" tvg-chno="1" tvg-name="ETV" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/63109608917AD15463841510E3D7F82C.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", ETV
 https://etv.ankitn.duckdns.org/iptv/channel/1.m3u8?mode=segmenter
 
+#EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-name="Zee Marathi HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list41e48666669042d2a7b9725cb6bcbbc4.png" tvg-category="Entertainment" group-title="All", Zee Marathi HD
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+https://premiumplug.fun/zee/zee5.php/0-9-zeemarathi.m3u8
+
 #EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyPAL.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Sony Pal
 https://jiotv.ankitn.duckdns.org/live/high/474.m3u8
 
@@ -94,13 +98,6 @@ https://jiotv.ankitn.duckdns.org/live/441.m3u8
 #Sports
 
 #ENGLISH
-
-#EXTINF:-1 tvg-id="1158" tvg-name="Colors Infinity HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Colors_Infinity_HD_1.png" tvg-language="English" tvg-type="Entertainment" group-title="All", Colors Infinity HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/1158
-https://jiotv.ankitn.duckdns.org/live/mpd/1158
 
 #EXTINF:-1 tvg-id="151" tvg-name="Movies Now HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="All", Movies Now HD
 #KODIPROP:inputstream=inputstream.adaptive
