@@ -7,10 +7,14 @@ https://etv.ankitn.duckdns.org/iptv/channel/1.m3u8?mode=segmenter
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://premiumplug.fun/zee/zee5.php/0-9-zeemarathi.m3u8
 
-#EXTINF:-1 tvg-id="336" tvg-name="Star Pravah HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarPravahHD1.png" group-title="All", Star Pravah HD
+#EXTINF:-1 tvg-id="336" tvg-name="Star Pravah HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_HD.png" group-title="All",Star Pravah HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=336
-https://jt.drmlive.net/jiotvplus/336.mpd
+#KODIPROP:inputstream.adaptive.license_key=fb288091038b58b8839d202640bfe46f:99bad05f52b77e9c2460545f631140dd
+#EXTHTTP:{"cookie": "__hdnea__=st=1789945203~exp=1789966803~acl=/*~hmac=db1194282a6f7efcdccb26d31bfdceea6b7050bc896c39bdf403a306ed8580be"}
+#EXTVLCOPT:http-user-agent=Virat🐐
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_HD_MOB/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyPAL.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Sony Pal
 https://jiotv.ankitn.duckdns.org/live/high/474.m3u8
