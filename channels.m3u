@@ -4,9 +4,7 @@
 https://etv.ankitn.duckdns.org/iptv/channel/1.m3u8?mode=segmenter
 
 #EXTINF:-1 tvg-id="1360" group-title="All" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.zee5.com
-https://z5.cply9.workers.dev/live-tv/0-9-zeemarathi.m3u8
+https://premiumplugx.me/jee/zee5.php/0-9-9z5383486.m3u8
 
 #EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyPAL.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Sony Pal
 https://jiotv.ankitn.duckdns.org/live/high/474.m3u8
