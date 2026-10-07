@@ -3,17 +3,8 @@
 #EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="MeIjU5-m7EK8bfIS1fjyFg" channel-number="1" CUID="MeIjU5-m7EK8bfIS1fjyFg" tvg-chno="1" tvg-name="ETV" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/63109608917AD15463841510E3D7F82C.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", ETV
 https://etv.ankitn.duckdns.org/iptv/channel/1.m3u8?mode=segmenter
 
-#EXTINF:-1 tvg-id="1360" tvg-name="Zee Marathi HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeMarathiHD.png" group-title="Marathi",Zee Marathi HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f17a37b9a68555be8b0164478c832f93:352fa691d2c9d578e1b39e9993c4ffd2
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan10&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791291604~exp=1791313204~acl=/*~hmac=439cfedea90bd84b56bf206bbf1013393e6e3ea572415b637fc4a0c4bd017561
-#EXTVLCOPT:http-user-agent=Sayan10
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791291604~exp=1791313204~acl=/*~hmac=439cfedea90bd84b56bf206bbf1013393e6e3ea572415b637fc4a0c4bd017561
-#EXTHTTP:{"User-Agent":"Sayan10","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791291604~exp=1791313204~acl=/*~hmac=439cfedea90bd84b56bf206bbf1013393e6e3ea572415b637fc4a0c4bd017561"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeMarathiHD_MOB/WDVLive/index.mpd
+#EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-name="Zee Marathi HD @virat10" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list41e48666669042d2a7b9725cb6bcbbc4.png" group-title="All" | Sportlink",Zee Marathi HD
+https://premiumplugx.me/jee/zee5.php/0-9-zeemarathi.m3u8
 
 #EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyPAL.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Sony Pal
 https://jiotv.ankitn.duckdns.org/live/high/474.m3u8
