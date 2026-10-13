@@ -3,6 +3,18 @@
 #EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="MeIjU5-m7EK8bfIS1fjyFg" channel-number="1" CUID="MeIjU5-m7EK8bfIS1fjyFg" tvg-chno="1" tvg-name="ETV" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/63109608917AD15463841510E3D7F82C.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", ETV
 https://etv.ankitn.duckdns.org/iptv/channel/1.m3u8?mode=segmenter
 
+#EXTINF:-1 tvg-id="1360" tvg-name="Zee Marathi HD @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeMarathiHD.png" group-title="All",Zee Marathi HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bf930e665a756bab62df644407e0877:42e5003f036f924d5095e0d6f315c9f6,0bf930e665a756bab62df644407e0877:42e5003f036f924d5095e0d6f315c9f6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791897384~exp=1791900984~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=6ac267caf2f07a37f955e28afd2cf82f83f38ac16f382b7cd0569aef18664ecf
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791897384~exp=1791900984~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=6ac267caf2f07a37f955e28afd2cf82f83f38ac16f382b7cd0569aef18664ecf
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791897384~exp=1791900984~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=6ac267caf2f07a37f955e28afd2cf82f83f38ac16f382b7cd0569aef18664ecf"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeMarathiHD_BTS/WDVLive/index.mpd
+
 #EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyPAL.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Sony Pal
 https://jiotv.ankitn.duckdns.org/live/high/474.m3u8
 
