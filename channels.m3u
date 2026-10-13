@@ -3,12 +3,19 @@
 #EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="MeIjU5-m7EK8bfIS1fjyFg" channel-number="1" CUID="MeIjU5-m7EK8bfIS1fjyFg" tvg-chno="1" tvg-name="ETV" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/63109608917AD15463841510E3D7F82C.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", ETV
 https://etv.ankitn.duckdns.org/iptv/channel/1.m3u8?mode=segmenter
 
-#EXTINF:-1 tvg-id="1360" tvg-name="Zee Marathi HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyPAL.png" group-title="All", Zee Marathi HD
+#EXTINF:-1 tvg-id="2424" tvg-name="Sun Marathi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Sun_Marathi.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="All", Sun Marathi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bf930e665a756bab62df644407e0877:42e5003f036f924d5095e0d6f315c9f6,0bf930e665a756bab62df644407e0877:42e5003f036f924d5095e0d6f315c9f6
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeMarathiHD_BTS/WDVLive/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/2424
+https://jiotv.ankitn.duckdns.org/live/mpd/2424
+
+#EXTINF:-1 tvg-id="1452" tvg-name="Shemaroo MarathiBana" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Shemaroo_MarathiBana.png" tvg-language="Marathi" tvg-type="Movies" group-title="All", Shemaroo MarathiBana
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/1452
+https://jiotv.ankitn.duckdns.org/live/mpd/1452
 
 #EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyPAL.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Sony Pal
 https://jiotv.ankitn.duckdns.org/live/high/474.m3u8
@@ -69,6 +76,13 @@ https://etv.ankitn.duckdns.org/iptv/channel/21.m3u8?mode=segmenter
 
 #EXTINF:-1 tvg-id="691" tvg-name="Saam Tv" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Saam_Tv.png" tvg-language="Marathi" tvg-type="News" group-title="All", Saam Tv
 https://jiotv.ankitn.duckdns.org/live/691.m3u8
+
+#EXTINF:-1 tvg-id="3552" tvg-name="BBC News Marathi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/BBC_Marathi.png" tvg-language="Marathi" tvg-type="News" group-title="All", BBC News Marathi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/3552
+https://jiotv.ankitn.duckdns.org/live/mpd/3552
 
 #EXTINF:-1 tvg-id="3095" tvg-name="NDTV Marathi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/NDTV_Marathi.png" tvg-language="Marathi" tvg-type="News" group-title="All", NDTV Marathi
 https://jiotv.ankitn.duckdns.org/live/3095.m3u8
