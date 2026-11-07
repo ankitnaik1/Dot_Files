@@ -147,6 +147,9 @@ https://jiotv.ankitn.duckdns.org/live/mpd/477
 #KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/877
 https://jiotv.ankitn.duckdns.org/live/mpd/877
 
+#EXTINF:0 tvg-id="C50.197.ersatztv.org" channel-id="VU7ddiSFAkaEmLDUo4FfKg" channel-number="50" CUID="VU7ddiSFAkaEmLDUo4FfKg" tvg-chno="50" tvg-name="TV Kurai Classic" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/F9A3491DA3E70DC97331321A5838FB46.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", TV Kurai Classic
+https://etv.ankitn.duckdns.org/iptv/channel/50.m3u8?mode=segmenter
+
 #INFOTAINMENT
 
 #EXTINF:-1 tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/History_18_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="All", History TV18 HD Hindi
