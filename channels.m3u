@@ -37,12 +37,8 @@ https://cloudplay-sonyliv.pages.dev/sethd.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/1143
 https://jiotv.ankitn.duckdns.org/live/mpd/1143
 
-
 #EXTINF:-1 tvg-id="1393" tvg-name="Sony Wah" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyWAH.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Sony Wah
 https://jiotv.ankitn.duckdns.org/live/1393.m3u8
-
-#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/SonyMAX.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Sony Max HD
-https://cloudplay-sonyliv.pages.dev/max.m3u8
 
 #EXTINF:-1 tvg-id="1136" tvg-name="Star Utsav Movies" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Star_Utsav_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="All", Star Utsav Movies
 #KODIPROP:inputstream=inputstream.adaptive
@@ -77,15 +73,29 @@ https://etv.ankitn.duckdns.org/iptv/channel/21.m3u8?mode=segmenter
 #EXTINF:-1 tvg-id="691" tvg-name="Saam Tv" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Saam_Tv.png" tvg-language="Marathi" tvg-type="News" group-title="All", Saam Tv
 https://jiotv.ankitn.duckdns.org/live/691.m3u8
 
-#EXTINF:-1 tvg-id="3552" tvg-name="BBC News Marathi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/BBC_Marathi.png" tvg-language="Marathi" tvg-type="News" group-title="All", BBC News Marathi
+#EXTINF:-1 tvg-id="1293" tvg-name="Lokshahi News" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Lokshahi_News.png" tvg-language="Marathi" tvg-type="News" group-title="All", Lokshahi News
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/3552
-https://jiotv.ankitn.duckdns.org/live/mpd/3552
+#KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/1293
+https://jiotv.ankitn.duckdns.org/live/mpd/1293
+
+#EXTINF:-1 tvg-id="1394" tvg-name="Jai Maharashtra" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Jai_Maharashtra.png" tvg-language="Marathi" tvg-type="News" group-title="All", Jai Maharashtra
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/1394
+https://jiotv.ankitn.duckdns.org/live/mpd/1394
 
 #EXTINF:-1 tvg-id="3095" tvg-name="NDTV Marathi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/NDTV_Marathi.png" tvg-language="Marathi" tvg-type="News" group-title="All", NDTV Marathi
 https://jiotv.ankitn.duckdns.org/live/3095.m3u8
+
+#EXTINF:-1 tvg-id="412" tvg-name="Wion" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Wion1.png" tvg-language="English" tvg-type="News" group-title="All", Wion
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/412
+https://jiotv.ankitn.duckdns.org/live/mpd/412
 
 #Music
 
@@ -105,12 +115,6 @@ https://jiotv.ankitn.duckdns.org/live/mpd/592
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://jiotv.ankitn.duckdns.org/live/key/735
 https://jiotv.ankitn.duckdns.org/live/mpd/735
-
-#EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/9xm.png" tvg-language="Hindi" tvg-type="Music" group-title="All", 9XM
-https://jiotv.ankitn.duckdns.org/live/587.m3u8
-
-#EXTINF:-1 tvg-id="441" tvg-name="9x Jhakaas" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/9xjhakaas.png" tvg-language="Marathi" tvg-type="Music" group-title="All", 9x Jhakaas
-https://jiotv.ankitn.duckdns.org/live/441.m3u8
 
 #Sports
 
@@ -160,9 +164,6 @@ https://jiotv.ankitn.duckdns.org/live/high/3451.m3u8
 
 #LIFESTYLE
 
-#EXTINF:-1 tvg-id="2757" tvg-name="Zee Zest HD" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/ZeeZestHD.png" tvg-language="English" tvg-type="Lifestyle" group-title="All", Zee Zest HD
-https://jiotv.ankitn.duckdns.org/live/2757.m3u8
-
 #EXTINF:-1 tvg-id="561" tvg-name="Food Food" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Food_Food.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="All", Food Food
 https://jiotv.ankitn.duckdns.org/live/561.m3u8
 
@@ -183,3 +184,9 @@ https://jiotv.ankitn.duckdns.org/live/2031.m3u8
 
 #EXTINF:-1 tvg-id="1736" tvg-name="LUXE TV" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Luxe_TV.png" tvg-language="English" tvg-type="Lifestyle" group-title="All", LUXE TV
 https://jiotv.ankitn.duckdns.org/live/1736.m3u8
+
+#EXTINF:-1 tvg-id="3626" tvg-name="Globetrotter" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Globetrotter.png" tvg-language="English" tvg-type="Lifestyle" group-title="All", Globetrotter
+https://jiotv.ankitn.duckdns.org/live/3626.m3u8
+
+#EXTINF:-1 tvg-id="3627" tvg-name="Wild Stuff" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/WildStuff.png" tvg-language="English" tvg-type="Lifestyle" group-title="All", Wild Stuff
+https://jiotv.ankitn.duckdns.org/live/3627.m3u8
