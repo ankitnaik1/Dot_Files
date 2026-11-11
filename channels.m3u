@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://etv.ankitn.duckdns.org/iptv/xmltv.xml" x-tvg-url="https://etv.ankitn.duckdns.org/iptv/xmltv.xml"
 
-#EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="MeIjU5-m7EK8bfIS1fjyFg" channel-number="1" CUID="MeIjU5-m7EK8bfIS1fjyFg" tvg-chno="1" tvg-name="ETV" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/63109608917AD15463841510E3D7F82C.jpg" group-title="All" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", ETV
+#EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="_whHHgabPE2enqjqbbwIUg" channel-number="1" CUID="_whHHgabPE2enqjqbbwIUg" tvg-chno="1" tvg-name="ErsatzTV" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/63109608917AD15463841510E3D7F82C.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", ErsatzTV
 https://etv.ankitn.duckdns.org/iptv/channel/1.m3u8?mode=segmenter
 
 #EXTINF:-1 tvg-id="2424" tvg-name="Sun Marathi" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Sun_Marathi.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="All", Sun Marathi
@@ -62,11 +62,20 @@ https://jiotv.ankitn.duckdns.org/live/1961.m3u8
 #EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="_p6nCfmRK0eb692ihNp29Q" channel-number="2" CUID="_p6nCfmRK0eb692ihNp29Q" tvg-chno="2" tvg-name="ETV Action" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/38F9638BCD29FA2B5527512ED133808A.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", ETV Action
 https://etv.ankitn.duckdns.org/iptv/channel/2.m3u8?mode=segmenter
 
-#EXTINF:0 tvg-id="C20.194.ersatztv.org" channel-id="hIcL220TsUWb-sGKuisX5w" channel-number="20" CUID="hIcL220TsUWb-sGKuisX5w" tvg-chno="20" tvg-name="Doraemon TV" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/4F45670A8D7E28CAAA1FF9FE03015E88.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", Doraemon TV
+#EXTINF:0 tvg-id="C20.194.ersatztv.org" channel-id="okjGh9_-lkel7xnw5proXw" channel-number="20" CUID="okjGh9_-lkel7xnw5proXw" tvg-chno="20" tvg-name="Cartoon Network" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/C8C88BDE04CB849108C0E7CD4F930648.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", Cartoon Network
 https://etv.ankitn.duckdns.org/iptv/channel/20.m3u8?mode=segmenter
 
-#EXTINF:0 tvg-id="C21.195.ersatztv.org" channel-id="rGz4VLjdtESmhelEhoCkPA" channel-number="21" CUID="rGz4VLjdtESmhelEhoCkPA" tvg-chno="21" tvg-name="Cartoon Network" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/C8C88BDE04CB849108C0E7CD4F930648.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", Cartoon Network
+#EXTINF:0 tvg-id="C21.195.ersatztv.org" channel-id="Fvxs8lDk9k6tW9OckdzHZQ" channel-number="21" CUID="Fvxs8lDk9k6tW9OckdzHZQ" tvg-chno="21" tvg-name="TV Kawaii" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/95B0CE84F1CD0B450FDD47B450D906E8.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", TV Kawaii
 https://etv.ankitn.duckdns.org/iptv/channel/21.m3u8?mode=segmenter
+
+#EXTINF:0 tvg-id="C22.196.ersatztv.org" channel-id="iLwdx5aUAUy7CkI39Tvauw" channel-number="22" CUID="iLwdx5aUAUy7CkI39Tvauw" tvg-chno="22" tvg-name="TV Kawaii Classic" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/C4C666AD659F69B683D8191B5256F014.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", TV Kawaii Classic
+https://etv.ankitn.duckdns.org/iptv/channel/22.m3u8?mode=segmenter
+
+#EXTINF:0 tvg-id="C23.197.ersatztv.org" channel-id="zpTeNJTRF069HFDY9XKsqQ" channel-number="23" CUID="zpTeNJTRF069HFDY9XKsqQ" tvg-chno="23" tvg-name="TV Kurai" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/98B5AFF3BB444BCFAC03495411DC49CD.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", TV Kurai
+https://etv.ankitn.duckdns.org/iptv/channel/23.m3u8?mode=segmenter
+
+#EXTINF:0 tvg-id="C24.198.ersatztv.org" channel-id="VU7ddiSFAkaEmLDUo4FfKg" channel-number="24" CUID="VU7ddiSFAkaEmLDUo4FfKg" tvg-chno="24" tvg-name="TV Kurai Classic" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/F9A3491DA3E70DC97331321A5838FB46.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", TV Kurai Classic
+https://etv.ankitn.duckdns.org/iptv/channel/24.m3u8?mode=segmenter
 
 #News
 
