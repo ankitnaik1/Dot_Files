@@ -59,7 +59,7 @@ https://jiotv.ankitn.duckdns.org/live/1450.m3u8
 #EXTINF:-1 tvg-id="1961" tvg-name="Shemaroo TV" tvg-logo="https://jiotv.ankitn.duckdns.org/jtvimage/Shemaroo_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="All", Shemaroo TV
 https://jiotv.ankitn.duckdns.org/live/1961.m3u8
 
-#EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="_p6nCfmRK0eb692ihNp29Q" channel-number="2" CUID="_p6nCfmRK0eb692ihNp29Q" tvg-chno="2" tvg-name="ETV Action" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/38F9638BCD29FA2B5527512ED133808A.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", ETV Action
+#EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="PwfnODZ1D0aGbTrh0nc29w" channel-number="2" CUID="PwfnODZ1D0aGbTrh0nc29w" tvg-chno="2" tvg-name="ETV Action" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/38F9638BCD29FA2B5527512ED133808A.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", ETV Action
 https://etv.ankitn.duckdns.org/iptv/channel/2.m3u8?mode=segmenter
 
 #EXTINF:0 tvg-id="C20.194.ersatztv.org" channel-id="okjGh9_-lkel7xnw5proXw" channel-number="20" CUID="okjGh9_-lkel7xnw5proXw" tvg-chno="20" tvg-name="Cartoon Network" tvg-logo="https://etv.ankitn.duckdns.org/iptv/logos/C8C88BDE04CB849108C0E7CD4F930648.jpg" group-title="All" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", Cartoon Network
